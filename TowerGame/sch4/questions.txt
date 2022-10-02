@@ -1,0 +1,2 @@
+11,4:'Un mezzo ne è un terzo. Che cos'è':1.5:O:10,7
+32,5:'Solo arginando il fiume ti salverai'::-:5,5
