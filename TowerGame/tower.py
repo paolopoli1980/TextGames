@@ -1,4 +1,4 @@
-######################################################################
+﻿######################################################################
 ########################### The tower ################################
 ######################################################################
 import os
@@ -96,7 +96,7 @@ def question_screening(nfile):
             #print (i,j,info)
             if j==0:
                 table=info.split(',')
-                print(i)
+                #print(i)
                 questions[i].pos=[int(table[0]),int(table[1])]
             if j==1:
                 table=info
@@ -126,12 +126,15 @@ def check_solution(n):
     return donot
 
                    
+codelist=['cbgh','awer','prepo']
 
 nfile=1
 start=1
-nschemi=6
+nschemi=8
 #verde = '\u001b[92m'
 #rosso = '\u001b[31m'
+print('Inserisci codice avventura:=')
+codice=input('')
 for s in range(start,nschemi):
     nfile=s
     n=60
@@ -141,7 +144,7 @@ for s in range(start,nschemi):
     val=read_schema(nfile)
     read_solution(nfile)
     #print(val)
-    print (schema)
+    #print (schema)
     loop=True
     key=''
     mem='-'
@@ -168,7 +171,7 @@ for s in range(start,nschemi):
         time.sleep(0.1)    
         if keyboard.is_pressed("q"):
             exit()
-        if keyboard.is_pressed("w"):
+        if keyboard.is_pressed("up arrow"):
             if (schema[hero.y-1][hero.x]!='*') and (schema[hero.y-1][hero.x]!='X') and (schema[hero.y-1][hero.x]!='^') and (schema[hero.y-1][hero.x]!='<') and (schema[hero.y-1][hero.x]!='>')and (schema[hero.y-1][hero.x]!='v'):
                 schema[hero.y][hero.x]=mem
                 mem=schema[hero.y-1][hero.x]
@@ -178,7 +181,7 @@ for s in range(start,nschemi):
                 os.system('cls')
                 screen_schema(n)
 
-        if keyboard.is_pressed("s"):
+        if keyboard.is_pressed("down arrow"):
             
             if (schema[hero.y+1][hero.x]!='*') and (schema[hero.y+1][hero.x]!='X') and (schema[hero.y+1][hero.x]!='^') and (schema[hero.y+1][hero.x]!='<') and (schema[hero.y+1][hero.x]!='>')and (schema[hero.y+1][hero.x]!='v') :
                 
@@ -190,7 +193,7 @@ for s in range(start,nschemi):
                 os.system('cls')
                 screen_schema(n)
                 
-        if keyboard.is_pressed("d"):
+        if keyboard.is_pressed("right arrow"):
             if (schema[hero.y][hero.x+1]!='*') and (schema[hero.y][hero.x+1]!='X') and (schema[hero.y][hero.x+1]!='^') and (schema[hero.y][hero.x+1]!='<') and (schema[hero.y][hero.x+1]!='>')and (schema[hero.y][hero.x+1]!='v'):
                 
                 schema[hero.y][hero.x]=mem
@@ -201,7 +204,7 @@ for s in range(start,nschemi):
                 os.system('cls')
                 screen_schema(n)
                 
-        if keyboard.is_pressed("a"):
+        if keyboard.is_pressed("left arrow"):
             
             if (schema[hero.y][hero.x-1]!='*') and (schema[hero.y][hero.x-1]!='X') and (schema[hero.y][hero.x-1]!='^') and (schema[hero.y][hero.x-1]!='<') and (schema[hero.y][hero.x-1]!='>')and (schema[hero.y][hero.x-1]!='v'):
                 
@@ -226,12 +229,12 @@ for s in range(start,nschemi):
                         answer=input(str(elemento.question))
                         #print (answer)
                         if answer==str(elemento.answer):
-                            print('ok giusto!',elemento.object)
+                            #print('ok giusto!',elemento.object)
                             #print (elemento.coordinateobj[0],elemento.coordinateobj[1])
                             schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=elemento.object
                             elemento.answer='sasfjsdfkowqkr2o35k643ò3kreòlrlòekwqlr'
             if mem=='G':
-                print('check')
+                #print('check')
                 if check_solution(n)==False:
                     print('You done!')
                     loop=False
