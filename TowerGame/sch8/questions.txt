@@ -1,0 +1,2 @@
+11,4:'E con una mossa il regno così vinse'::-:12,4
+21,14:'E se non fosse sempre uguale...'::-:20,14
