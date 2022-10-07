@@ -125,14 +125,21 @@ def check_solution(n):
     #print (schemafinale)        
     return donot
 
+def presentation():
+    fileschema='initialpage.txt'
+    with open(fileschema) as f:
+        page=f.read()
+    print(page)
                    
-codelist=['cbgh','awer','prepo']
-
+codelist=['cbgh','awer','prepo','minu','abrad']
+dictcods = {'cbgh': 1, 'awer':2, 'prepo': 3}
 nfile=1
 start=1
-nschemi=8
+nschemi=9
 #verde = '\u001b[92m'
 #rosso = '\u001b[31m'
+os.system('cls')
+presentation()
 print('Inserisci codice avventura:=')
 codice=input('')
 for s in range(start,nschemi):
@@ -218,7 +225,7 @@ for s in range(start,nschemi):
         if keyboard.is_pressed("c"):
             
             keyboard.press_and_release('backspace')   
-            if mem>='A' and mem<='Z' and mem!='G':
+            if mem>='A' and mem<='Z':
                 hero.objects.append(mem)
                 mem='-'
             if mem=='?':
@@ -233,7 +240,7 @@ for s in range(start,nschemi):
                             #print (elemento.coordinateobj[0],elemento.coordinateobj[1])
                             schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=elemento.object
                             elemento.answer='sasfjsdfkowqkr2o35k643ò3kreòlrlòekwqlr'
-            if mem=='G':
+            if mem=='g':
                 #print('check')
                 if check_solution(n)==False:
                     print('You done!')
