@@ -131,17 +131,23 @@ def presentation():
         page=f.read()
     print(page)
                    
-codelist=['cbgh','awer','prepo','minu','abrad']
-dictcods = {'cbgh': 1, 'awer':2, 'prepo': 3}
+codelist=['cbgh','awer','prepo','minu','abrad','ulip','piol','jagbag','ulagu','birbx','ulbra']
+
 nfile=1
 start=1
-nschemi=9
+nschemi=len(codelist)+1
 #verde = '\u001b[92m'
 #rosso = '\u001b[31m'
 os.system('cls')
+print(codelist)
 presentation()
 print('Inserisci codice avventura:=')
 codice=input('')
+for (v,elemento) in enumerate(codelist):
+    if elemento==codice:
+        start=v+1
+        
+
 for s in range(start,nschemi):
     nfile=s
     n=60
@@ -222,12 +228,21 @@ for s in range(start,nschemi):
                 hero.x-=1
                 os.system('cls')
                 screen_schema(n)
+        if keyboard.is_pressed('h'):
+            fileschema='help.txt'
+            with open(fileschema) as f:
+                page=f.read()
+                
+            print(page)
+
+
         if keyboard.is_pressed("c"):
             
             keyboard.press_and_release('backspace')   
             if mem>='A' and mem<='Z':
-                hero.objects.append(mem)
-                mem='-'
+                if len(hero.objects)<9:
+                    hero.objects.append(mem)
+                    mem='-'
             if mem=='?':
              
                 for elemento in questions:
@@ -246,7 +261,7 @@ for s in range(start,nschemi):
                     print('You done!')
                     loop=False
                 
-        if keyboard.is_pressed("l") and mem=='-':
+        if keyboard.is_pressed("d") and mem=='-':
             os.system('cls')
             screen_schema(n)
             print (labels)
