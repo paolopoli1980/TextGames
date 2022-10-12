@@ -253,8 +253,9 @@ for s in range(start,nschemi):
                         if answer==str(elemento.answer):
                             #print('ok giusto!',elemento.object)
                             #print (elemento.coordinateobj[0],elemento.coordinateobj[1])
-                            schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=elemento.object
-                            elemento.answer='sasfjsdfkowqkr2o35k643ò3kreòlrlòekwqlr'
+                            if schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=='-':
+                                schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=elemento.object
+                                elemento.answer='sasfjsdfkowqkr2o35k643ò3kreòlrlòekwqlr'
             if mem=='g':
                 #print('check')
                 if check_solution(n)==False:
