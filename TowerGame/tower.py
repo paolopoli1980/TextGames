@@ -253,7 +253,7 @@ for s in range(start,nschemi):
                         if answer==str(elemento.answer):
                             #print('ok giusto!',elemento.object)
                             #print (elemento.coordinateobj[0],elemento.coordinateobj[1])
-                            if schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=='-':
+                            if schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]!='O':
                                 schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=elemento.object
                                 elemento.answer='sasfjsdfkowqkr2o35k643ò3kreòlrlòekwqlr'
             if mem=='g':
