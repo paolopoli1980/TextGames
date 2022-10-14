@@ -1,0 +1,4 @@
+16,12:'Benvenuto all'inferno'::-:17,12
+16,10:'Temp'era dal principio del mattino, e l'sol montava 'n sù con quelle ......':stelle:-:16,9
+16,7:'Per me si va ne la città dolente, per me si va ne l'etterno ......':dolore:-:16,6
+16,4:'<<Dimmi maestrio mio, dimmi segnore>>, comincia' io per volere esser .....':certo:-:16,3
