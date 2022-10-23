@@ -1,0 +1,5 @@
+24,8:'Un problema che molto mi colpì, fu di un tale matematico greco....'::-:17,12
+26,6:'La sua fanciullezza fu un sesto della sua vita, dopo un dodicesimo la barba coprì le sue guance....'::-:16,9
+22,6:'dopo un settimo accese la fiaccola nuziale e dopo cinque anni ebbe un figlio.'::-:16,6
+24,4:'Ahimè, il misero fanciullo, pur tanto amato, appena raggiunto la metà degli anni di vita del padre, morì.':certo:-:16,3
+16,4:'Quattro anni ancora, mitigando il proprio dolore con la scienza dei numeri, visse tale matematico a raggiungere il termine della sua vita, all'età di...':84:-:16,3
