@@ -131,7 +131,7 @@ def presentation():
         page=f.read()
     print(page)
                    
-codelist=['cbgh','awer','prepo','minu','abrad','ulip','piol','jagbag','ulagu','birbx','ulbra']
+codelist=['cbgh','awer','prepo','minu','abrad','ulip','piol','jagbag','ulagu','birbx','ulbra','poyty','grbs']
 
 nfile=1
 start=1
@@ -183,6 +183,7 @@ for s in range(start,nschemi):
            
         time.sleep(0.1)    
         if keyboard.is_pressed("q"):
+            print(codelist[s-1])
             exit()
         if keyboard.is_pressed("up arrow"):
             if (schema[hero.y-1][hero.x]!='*') and (schema[hero.y-1][hero.x]!='X') and (schema[hero.y-1][hero.x]!='^') and (schema[hero.y-1][hero.x]!='<') and (schema[hero.y-1][hero.x]!='>')and (schema[hero.y-1][hero.x]!='v'):
@@ -255,7 +256,7 @@ for s in range(start,nschemi):
                             #print (elemento.coordinateobj[0],elemento.coordinateobj[1])
                             if schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]!='O':
                                 schema[int(elemento.coordinateobj[1])][int(elemento.coordinateobj[0])]=elemento.object
-                                elemento.answer='sasfjsdfkowqkr2o35k643ò3kreòlrlòekwqlr'
+                                elemento.answer='sasfjsdfkowqkr2'
             if mem=='g':
                 #print('check')
                 if check_solution(n)==False:
@@ -287,9 +288,9 @@ for s in range(start,nschemi):
                 if keyboard.is_pressed("7"):
                     choice=7
                 if keyboard.is_pressed("8"):
-                    choice=7
+                    choice=8
                 if keyboard.is_pressed("9"):
-                    choice=7
+                    choice=9
 
             if choice>0:
                 if len(hero.objects)>=choice:
