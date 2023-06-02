@@ -9,25 +9,34 @@ y=0
 z=0
 def achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,ho,maxdiam,mindiam):
     print('Try to complete the following achievements!')
-    centergalaxy=input('1) Insert the coordinate of the center of the galaxy (format x,y,z).')
-    galaxyradius=input('2) Insert the radius of the galaxy.(It lays in the middle of the galaxy, and the stellar density is (1/e) of the center stellar density')
-    r1=input('3) Insert the diameter of the greatest empty island of the two empty islands that there are in the galaxy')
-    r2=input('4) Insert the diameter of the smallest empty island of the two empty islands that there are in the galaxy')
-    cx,cy,cz=centergalaxy.split(',')
     passyes=True
-    print(-xgalaxycenterdist,-ygalaxycenterdist,-zgalaxycenterdist)
-    print(ho)
-    print(maxdiam,mindiam)
-    if (int(cx)!=-xgalaxycenterdist or int(cy)!=-ygalaxycenterdist or int(cz)!=-zgalaxycenterdist):
-        passyes=False
-
-    if galaxyradius!=ho:
+    try:
+        centergalaxy=input('1) Insert the coordinate of the center of the galaxy (format x,y,z).')
+        galaxyradius=input('2) Insert the radius of the galaxy.(It lays in the middle of the galaxy, and the stellar density is (1/e) of the center stellar density')
+        r1=input('3) Insert the diameter of the greatest empty island of the two empty islands that there are in the galaxy')
+        r2=input('4) Insert the diameter of the smallest empty island of the two empty islands that there are in the galaxy')
+        cx,cy,cz=centergalaxy.split(',')
+        
+        print(-xgalaxycenterdist,-ygalaxycenterdist,-zgalaxycenterdist)
+        print(ho)
+        print(maxdiam,mindiam)
+    except:
         passyes=False
         
-    if r1!=maxdiam:
+    try:
+        if (int(cx)!=-xgalaxycenterdist or int(cy)!=-ygalaxycenterdist or int(cz)!=-zgalaxycenterdist):
+            passyes=False
+
+        if galaxyradius!=ho:
+            passyes=False
+            
+        if r1!=maxdiam:
+            passyes=False
+        if r2!=mindiam:
+            passyes=False
+    except:
         passyes=False
-    if r2!=mindiam:
-        passyes=False
+        
     return passyes        
         
     
@@ -214,8 +223,9 @@ while wordkey!='exit':
     if wordkey=='rw':
         data=input('Insert the maxstep for axis:=')
         nsteps=input('Insert number of movements:=')
-        nsteps=int(nsteps)
+        
         try:
+            nsteps=int(nsteps)
             for i in range(nsteps):
                 data=int(data)
                 
