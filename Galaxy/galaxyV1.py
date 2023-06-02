@@ -176,6 +176,7 @@ matrix=tensor_calculation(rotgalaxyalfa, rotgalaxybeta, rotgalaxygamma)
 
 xi1,yi1,zi1,xi2,yi2,zi2 = random.randint(minelipos,maxelipos), random.randint(minelipos,maxelipos), random.randint(minelipos,maxelipos),random.randint(minelipos,maxelipos), random.randint(minelipos,maxelipos), random.randint(minelipos,maxelipos)
 a1,b1,c1,a2,b2,c2 = random.uniform(minelicoef,maxelicoef),random.uniform(minelicoef,maxelicoef),random.uniform(minelicoef,maxelicoef),random.uniform(minelicoef,maxelicoef),random.uniform(minelicoef,maxelicoef),random.uniform(minelicoef,maxelicoef)
+a1,b1,c1,a2,b2,c2= int(a1),int(b1),int(c1),int(a2),int(b2),int(c2)
 
 
 if a1>b1 and a1>c1:
@@ -261,6 +262,10 @@ while wordkey!='exit':
                 
 print(-xgalaxycenterdist, -ygalaxycenterdist, -zgalaxycenterdist)
 print (h0)
+print (xi2,yi2,zi2,a2,b2,c2)
+print (xi1,yi1,zi1,a1,b1,c1)
+
+
 '''
 request=input('Do you want to save the game?:=')
 if request=='y':
