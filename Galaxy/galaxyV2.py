@@ -23,19 +23,20 @@ def achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,ho,maxd
     except:
         passyes=False
  
-    print(int(cx),int(cy),int(cz))
+    #print(int(cx),int(cy),int(cz))
+    #print(passyes)
     try:
-       # print('ci sono')
+        #print('ci sono')
         if (int(cx)!=-xgalaxycenterdist or int(cy)!=-ygalaxycenterdist or int(cz)!=-zgalaxycenterdist):
             passyes=False
             #print('pppppppppppppppppppppppppppppppppppppppppp')
  
-        if galaxyradius!=ho:
+        if int(galaxyradius)!=int(ho):
             passyes=False
             
-        if r1!=maxdiam:
+        if int(r1)!=int(maxdiam):
             passyes=False
-        if r2!=mindiam:
+        if int(r2)!=int(mindiam):
             passyes=False
     except:
         passyes=False
