@@ -158,6 +158,13 @@ def linear_motion(x,y,z,memnmaxcords,memnmincords,alfa,beta,gamma,galaxyx,galaxy
     
     return x,y,z,memnmaxcords,memnmincords
 
+
+memnmax=[-10**9]
+memnmaxcords=[0,0,0]
+memnmin=[+10**9]
+memnmincords=[0,0,0]
+
+
 request=input('Do you want to load a game?:=')
 
 if request=='y':
@@ -170,7 +177,9 @@ if request=='y':
         coordinates=f.readline()
         galaxycenter=f.readline()
         smallestisland=f.readline()
-        largestisland=f.readline()        
+        largestisland=f.readline()   
+        mincord=f.readline()
+        maxcord=f.readline()    
         
     
    
@@ -178,6 +187,8 @@ if request=='y':
     lgalaxycenter=galaxycenter.split(',')
     lsmallestisland=smallestisland.split(',')
     llargestisland=largestisland.split(',')
+    lmincord=mincord.split(',')
+    lmaxcord=maxcord.split(',')
     
 
     x,y,z=float(lcoordinates[0]), float(lcoordinates[1]), float(lcoordinates[2])
@@ -191,7 +202,13 @@ if request=='y':
     xi1,yi1,zi1,xi2,yi2,zi2 = int(lsmallestisland[0]),int(lsmallestisland[1]),int(lsmallestisland[2]),int(llargestisland[0]),int(llargestisland[1]),int(llargestisland[2]) 
     a1,b1,c1,a2,b2,c2 = lsmallestisland[3],lsmallestisland[4],lsmallestisland[5],llargestisland[3],llargestisland[4],llargestisland[5]
     a1,b1,c1,a2,b2,c2= int(a1),int(b1),int(c1),int(a2),int(b2),int(c2)
+    memnmin[0]=float(lmincord[0])
+    memnmax[0]=float(lmaxcord[0])
+    memnmaxcords=[float(lmaxcord[1]),float(lmaxcord[2]),float(lmaxcord[3])]
+    memnmincords=[float(lmincord[1]),float(lmincord[2]),float(lmincord[3])]
+
 else:
+
     zthin=random.randint(50,100)
     zthick=random.randint(500,1000)
     #rgalaxy=5000
@@ -228,10 +245,6 @@ else:
     h0=random.randint(2000,4000)
     n0=0.1
 
-memnmax=[-10**9]
-memnmaxcords=[0,0,0]
-memnmin=[+10**9]
-memnmincords=[0,0,0]
 
 
 
@@ -325,7 +338,10 @@ if request=='y':
         f.write(str(x)+','+str(y)+','+str(z)+str('\n'))
         f.write(str(xgalaxycenterdist)+','+ str(ygalaxycenterdist)+','+ str(zgalaxycenterdist)+str('\n'))
         f.write(str(xi1)+','+str(yi1)+','+str(zi1)+','+str(a1)+','+str(b1)+','+str(c1)+str('\n'))
-        f.write(str(xi2)+','+str(yi2)+','+str(zi2)+','+str(a2)+','+str(b2)+','+str(c2))
+        f.write(str(xi2)+','+str(yi2)+','+str(zi2)+','+str(a2)+','+str(b2)+','+str(c2)+str('\n'))
+        f.write(str(memnmin[0])+','+str(memnmincords[0])+','+str(memnmincords[1])+','+str(memnmincords[2])+str('\n'))
+        f.write(str(memnmax[0])+','+str(memnmaxcords[0])+','+str(memnmaxcords[1])+','+str(memnmaxcords[2])+str('\n'))
+        
         
         
     f.close()
