@@ -28,7 +28,7 @@ def achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,ho,maxd
     #print(int(cx),int(cy),int(cz))
     #print(passyes)
     try:
-        #print('ci sono')
+        print('ci sono',passyes)
         if (int(cx)!=-xgalaxycenterdist or int(cy)!=-ygalaxycenterdist or int(cz)!=-zgalaxycenterdist):
             passyes=False
             
@@ -40,11 +40,11 @@ def achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,ho,maxd
 #            passyes=False
 #        if int(r2)!=int(mindiam):
 #            passyes=False
-        if (int(xi1)!=r1x or int(yi1)!=r1y or int(zi1)!=r1z):
-            passkey=False
+        if (int(xi1)!=int(r1x) or int(yi1)!=int(r1y) or int(zi1)!=int(r1z)):
+            passyes=False
 
-        if (int(xi2)!=r2x or int(yi2)!=r2y or int(zi1)!=r2z):
-            passkey=False
+        if (int(xi2)!=int(r2x) or int(yi2)!=int(r2y) or int(zi2)!=int(r2z)):
+            passyes=False
 
     except:
         passyes=False
@@ -320,11 +320,18 @@ while wordkey!='exit':
             pass
  
     if wordkey=='achievements':
-            if achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,h0,maxdiam,mindiam,xi1,yi1,zi1,xi2,yi2,zi2)==True:
-                print('You won!')
-                exit
-            else:
-                print ('You didn''t get the solution')
+            if diam1>=diam2:
+                if achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,h0,maxdiam,mindiam,xi1,yi1,zi1,xi2,yi2,zi2)==True:
+                    print('You won!')
+                    exit
+                else:
+                    print ('You didn''t get the solution')
+            if diam1<diam2:
+                if achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,h0,maxdiam,mindiam,xi2,yi2,zi2,xi1,yi1,zi1)==True:
+                    print('You won!')
+                    exit
+                else:
+                    print ('You didn''t get the solution')
                 
 print(-xgalaxycenterdist, -ygalaxycenterdist, -zgalaxycenterdist)
 print (h0)
