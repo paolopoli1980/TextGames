@@ -13,8 +13,8 @@ def achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,ho,maxd
     try:
         centergalaxy=input('1) Insert the coordinate of the center of the galaxy (format x,y,z).')
         #galaxyradius=input('2) Insert the radius of the galaxy.(It lays in the middle of the galaxy, and the stellar density is (1/e) of the center stellar density')
-        r1=input('2) Insert the center (integer coordinates) of the greatest empty island of the two empty islands that there are in the galaxy')
-        r2=input('3) Insert the ceter (integer coordinates) of the smallest empty island of the two empty islands that there are in the galaxy')
+        r1=input('2) Insert the center (integer coordinates) of the biggest empty island')
+        r2=input('3) Insert the center (integer coordinates) of the smallest empty island')
         cx,cy,cz=centergalaxy.split(',')
         r1x,r1y,r1z = r1.split(',')
         r2x,r2y,r2z = r2.split(',')
