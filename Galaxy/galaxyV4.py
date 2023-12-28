@@ -1,3 +1,5 @@
+#versione 28/12/2023#
+
 import math
 import random
 import numpy as np
