@@ -7,21 +7,22 @@ class Player:
     def __init__(self,n):
         self.x=0
         self.y=0
-        self.keys=[]
         self.mvx=1
         self.mvy=0
         self.path=[]
         self.enemysight=[]
         self.escapesight=[]
-        self.keyk=False
+        self.keyk=[]
         self.countbox=[[1 for i in range(n)] for j in range(n)]
     
     
     def simple_heromov(self,newchoice,backtrace,level):
         if schema[self.y][self.x]=='k':
-            self.keyk=True
-            
-        if schema[self.y][self.x]=='*' or schema[self.y][self.x]=='|' or (schema[self.y][self.x]=='K' and self.keyk==False): #or  newchoice==True:
+            self.keyk.append('k')
+        cancelkey=False
+        if schema[self.y][self.x]=='K' and len(self.keyk)!=0:
+            cancelkey=True
+        if schema[self.y][self.x]=='*' or schema[self.y][self.x]=='|' or (schema[self.y][self.x]=='K' and len(self.keyk)==0): #or  newchoice==True:
             
             self.x-=self.mvx
             self.y-=self.mvy
@@ -49,7 +50,7 @@ class Player:
             schema[yold][xold]='-'
         if level==1:
             choosen=False
-            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-') or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and self.keyk==True)  and backtrace==False:
+            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-') or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
                 choice=random.randint(0,3)
                 if choice==1:
                     self.mvx=0
@@ -59,9 +60,9 @@ class Player:
                     self.mvx=0
                     self.mvy=-1
                 choosen=True
-                
+                   
             if choosen==False:
-                if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and self.keyk==True) and backtrace==False:
+                if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0) and backtrace==False:
                     choice=random.randint(0,3)
                     if choice==1:
                         self.mvx=1
@@ -72,7 +73,7 @@ class Player:
                         self.mvy=0
         if level==2:
             memv=10**6
-            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-')or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and self.keyk==True)  and backtrace==False:
+            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-')or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
                 v1=self.countbox[self.y+1][self.x]
                 v2=self.countbox[self.y-1][self.x]
                #totv=1/v1+1/v2
@@ -89,7 +90,7 @@ class Player:
                
                 
             
-            if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and self.keyk==True)  and backtrace==False:
+            if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0)  and backtrace==False:
                 v1=self.countbox[self.y][self.x+1]
                 v2=self.countbox[self.y][self.x-1]
                # totv=1/v1+1/v2
@@ -102,7 +103,8 @@ class Player:
                 if v1>=v2 and v2<memv:
                     self.mvx=-1
                     self.mvy=0                   
-
+            if cancelkey==True:
+                self.keyk.remove('k')
         if backtrace==True:
             print('bakctrue')
             for k,element in enumerate(self.enemysight):
