@@ -21,9 +21,9 @@ def achievements(xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist,ho,maxv
         r1x,r1y,r1z = r1.split(',')
         r2x,r2y,r2z = r2.split(',')
         
-        print(-xgalaxycenterdist,-ygalaxycenterdist,-zgalaxycenterdist)
+       # print(-xgalaxycenterdist,-ygalaxycenterdist,-zgalaxycenterdist)
         #print(ho)
-        print(maxvol,minvol)
+       # print(maxvol,minvol)
     except:
         passyes=False
  
@@ -168,17 +168,27 @@ def linear_motion(x,y,z,memnmaxcords,memnmincords,alfa,beta,gamma,galaxyx,galaxy
     return x,y,z,memnmaxcords,memnmincords
 
 
+def presentazione():
+    print ('THE GALAXY (Esplora la galassia e completa la missione)')
+    
+    print ('Sei un'+str("'")+'entità in grado di esplorare una galassia intera. Scegli i movimenti opportuni e trova il centro') 
+    print('della galassia e il centro della più piccola isola vuota (buchi neri o forse altro?) e di quella più grande,')
+    print('tra le dieci esistenti')
+
 memnmax=[-10**9]
 memnmaxcords=[0,0,0]
 memnmin=[+10**9]
 memnmincords=[0,0,0]
-nempty=100
+nempty=10
 xi=[0 for i in range(nempty)]
 yi=[0 for i in range(nempty)]
 zi=[0 for i in range(nempty)]
 ai=[0 for i in range(nempty)]
 bi=[0 for i in range(nempty)]
 ci=[0 for i in range(nempty)]
+
+
+
 request=input('Do you want to load a game?:=')
 
 if request=='y':
@@ -232,8 +242,8 @@ else:
     zthick=random.randint(500,1000)
     #rgalaxy=5000
 
-    minelicoef,maxelicoef=20,100
-    minelipos,maxelipos=-1000,1000
+    minelicoef,maxelicoef=50,100
+    minelipos,maxelipos=-500,500
     '''
     xgalaxycenterdist=1000
     ygalaxycenterdist=-1000
@@ -243,7 +253,7 @@ else:
 
 
         
-    xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist = random.randint(-1000,1000), random.randint(-1000,1000), random.randint(-100,100)
+    xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist = random.randint(-300,300), random.randint(-300,300), random.randint(-100,100)
 
     x,y,z=xgalaxycenterdist, ygalaxycenterdist, zgalaxycenterdist
 
@@ -290,8 +300,13 @@ maxvol=max(vol)
 indexmax=vol.index(maxvol)
 minvol=min(vol)
 indexmin=vol.index(minvol)
-print(maxvol,indexmax,minvol,indexmin)        
-print(vol)    
+#print(maxvol,indexmax,minvol,indexmin)        
+#print(vol)    
+presentazione()
+##############################################
+#Possibile scelta di fare giocare il computer
+##############################################
+
 while wordkey!='exit':
     wordkey=input('Insert the command:=')
 
@@ -336,8 +351,8 @@ while wordkey!='exit':
             print ('You didn''t get the solution')
 
                 
-print(-xgalaxycenterdist, -ygalaxycenterdist, -zgalaxycenterdist)
-print (h0)
+#print(-xgalaxycenterdist, -ygalaxycenterdist, -zgalaxycenterdist)
+#print (h0)
 
 
 
