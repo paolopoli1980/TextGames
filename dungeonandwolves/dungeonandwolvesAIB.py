@@ -48,29 +48,35 @@ class Player:
         else:
             schema[self.y][self.x]='@'
             schema[yold][xold]='-'
+ 
         if level==1:
             choosen=False
             if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-') or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
-                choice=random.randint(0,3)
-                if choice==1:
+                choice=random.randint(0,4)
+                if choice==0:
                     self.mvx=0
                     self.mvy=1
                     
-                if choice==2:
+                if choice==1:
                     self.mvx=0
                     self.mvy=-1
-                choosen=True
+                if choice<=1:     
+                    choosen=True
                    
             if choosen==False:
                 if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0) and backtrace==False:
-                    choice=random.randint(0,3)
-                    if choice==1:
+                    choice=random.randint(0,2)
+                    if choice==0:
                         self.mvx=1
                         self.mvy=0
                         
-                    if choice==2:
+                    if choice==1:
                         self.mvx=-1
                         self.mvy=0
+
+            if cancelkey==True:
+                self.keyk.remove('k')
+
         if level==2:
             memv=10**6
             if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-')or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
@@ -103,8 +109,57 @@ class Player:
                 if v1>=v2 and v2<memv:
                     self.mvx=-1
                     self.mvy=0                   
+
             if cancelkey==True:
                 self.keyk.remove('k')
+
+        if level==3:
+            memv=10**6
+            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-')or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
+                v1=self.countbox[self.y+1][self.x]
+                v2=self.countbox[self.y-1][self.x]
+                v3=self.countbox[self.y][self.x+1]
+                v4=self.countbox[self.y][self.x-1]
+                if schema[self.y][self.x+1]=='*' or schema[self.y][self.x+1]=='|' or (schema[self.y][self.x+1]=='K' and len(self.keyk)==0):
+                    v3=10**6
+                if schema[self.y][self.x-1]=='*' or schema[self.y][self.x-1]=='|' or (schema[self.y][self.x-1]=='K' and len(self.keyk)==0):
+                    v4=10**6
+                    
+                
+                totv=1/v1+1/v2+1/v3+1/v4
+                choice=random.uniform(0,totv)
+                if choice<1/v1:
+                    self.mvx=0
+                    self.mvy=1
+                    memv=v1
+                    
+                if choice>=1/v1 and choice<(1/v1+1/v2):
+                    self.mvx=0
+                    self.mvy=-1
+                    memv=v2
+               
+                
+            if memv==10**6:
+                if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0)  and backtrace==False:
+                    v1=self.countbox[self.y][self.x+1]
+                    v2=self.countbox[self.y][self.x-1]
+                    totv=1/v1+1/v2
+
+                    choice=random.uniform(0,totv)
+                    if choice<1/v1:
+                        self.mvx=1
+                        self.mvy=0
+                        
+                    if choice>=1/v1:
+                        self.mvx=-1
+                        self.mvy=0                   
+            if cancelkey==True:
+                self.keyk.remove('k')
+           
+  
+
+           
+
         if backtrace==True:
             print('bakctrue')
             for k,element in enumerate(self.enemysight):
@@ -328,82 +383,91 @@ def read_schema(nfile):
 
                         
                         
-                        
+level=3
+nattempt=100                        
+for ntemp in range(nattempt):
+    n=100
+    schema=[[0 for i in range(n)] for j in range(n)]
+    hero=Player(n)
+    wolves=[]
+    read_schema('3')
 
-n=100
-schema=[[0 for i in range(n)] for j in range(n)]
-hero=Player(n)
-wolves=[]
-read_schema('2')
+    pathnow=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
+    hero.path=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
+    whole=True
+    for element in wolves:
+        element.pathnow=[schema[element.y][element.x-1],schema[element.y][element.x+1],schema[element.y-1][element.x],schema[element.y+1][element.x]]
+    start=True
 
-pathnow=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
-hero.path=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
-whole=False
-for element in wolves:
-    element.pathnow=[schema[element.y][element.x-1],schema[element.y][element.x+1],schema[element.y-1][element.x],schema[element.y+1][element.x]]
-start=True
-level=2
-for i in range(n):
-    for j in range(n):
-        if schema[j][i]=='*' or schema[j][i]=='|':
-            hero.countbox[j][i]=10**6
-while start==True:
-    hero.escapesight=[]
-    hero.enemysight=[]
+
+
     
-    os.system('cls')
-    screen_schema(n,whole)
-    time.sleep(0.05)
-   
-    
-    xold=hero.x
-    yold=hero.y
-    heroxold=hero.x
-    heroyold=hero.y
-    hero.x+=hero.mvx
-    hero.y+=hero.mvy
-   # print('ddddddddddd\n')
-   # print(hero.mvx,hero.mvy)
-    #time.sleep(0.3)
-    backtrace=False 
-    if len(hero.enemysight)!=0:
-        backtrace=True
-        print('vision')
-        #hero.mvx=-hero.mvx
-       # hero.mvy=-hero.mvy
-        #time.sleep(0.4)
+    for i in range(n):
+        for j in range(n):
+            if schema[j][i]=='*' or schema[j][i]=='|':
+                hero.countbox[j][i]=10**6
 
+
+    while start==True:
+        hero.escapesight=[]
+        hero.enemysight=[]
         
-
+        os.system('cls')
+        screen_schema(n,whole)
+        time.sleep(0.05)
        
-   
-   
-    
-    if schema[hero.y][hero.x]=='W':
-        start=False
-        break
         
-    newchoice=False
-    
-    if hero.path!=pathnow:
-        hero.path[:]=pathnow[:]
-        newchoice=True
-    hero.simple_heromov(newchoice,backtrace,level)
+        xold=hero.x
+        yold=hero.y
+        heroxold=hero.x
+        heroyold=hero.y
+        hero.x+=hero.mvx
+        hero.y+=hero.mvy
+       # print('ddddddddddd\n')
+       # print(hero.mvx,hero.mvy)
+        #time.sleep(0.3)
+        backtrace=False 
+        if len(hero.enemysight)!=0:
+            backtrace=True
+            print('vision')
+            #hero.mvx=-hero.mvx
+           # hero.mvy=-hero.mvy
+            #time.sleep(0.4)
 
-    for i,element in enumerate(wolves):
-        xold=element.x
-        yold=element.y
-        element.x+=element.mvx
-        element.y+=element.mvy
-        if schema[element.y][element.x]=='@':
+            
+
+           
+       
+       
+        if schema[hero.y][hero.x]=='E':
+            print(ntemp+1)
+            exit()
+        if schema[hero.y][hero.x]=='W':
             start=False
-            break        
-        newchoice=False 
-        if element.path!=element.pathnow:
-            element.path[:]=element.pathnow[:]
-            newchoice=True
-        element.simple_wolfmov(i,newchoice)
-    hero.countbox[hero.y][hero.x]+=1
-whole=True
-screen_schema(n,whole)
-print (hero.countbox)
+            break
+            
+        newchoice=False
+        
+     #   if hero.path!=pathnow:
+     #       hero.path[:]=pathnow[:]
+     #       newchoice=True
+        hero.simple_heromov(newchoice,backtrace,level)
+
+        for i,element in enumerate(wolves):
+            xold=element.x
+            yold=element.y
+            element.x+=element.mvx
+            element.y+=element.mvy
+            if schema[element.y][element.x]=='@':
+                start=False
+                break        
+            newchoice=False 
+     #       if element.path!=element.pathnow:
+     #          element.path[:]=element.pathnow[:]
+     #           newchoice=True
+            element.simple_wolfmov(i,newchoice)
+        hero.countbox[hero.y][hero.x]+=1
+ 
+    whole=False
+    screen_schema(n,whole)
+    print (hero.countbox)
