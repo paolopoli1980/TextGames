@@ -51,7 +51,7 @@ class Player:
  
         if level==1:
             choosen=False
-            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-') or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
+            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-' or schema[self.y+1][self.x]=='E' or schema[self.y-1][self.x]=='E' or schema[self.y+1][self.x]=='k' or schema[self.y-1][self.x]=='k') or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
                 choice=random.randint(0,4)
                 if choice==0:
                     self.mvx=0
@@ -64,7 +64,7 @@ class Player:
                     choosen=True
                    
             if choosen==False:
-                if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0) and backtrace==False:
+                if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-' or schema[self.y][self.x+1]=='E' or schema[self.y][self.x-1]=='E' or schema[self.y][self.x+1]=='k' or schema[self.y][self.x-1]=='k') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0) and backtrace==False:
                     choice=random.randint(0,2)
                     if choice==0:
                         self.mvx=1
@@ -79,7 +79,7 @@ class Player:
 
         if level==2:
             memv=10**6
-            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-')or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
+            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-'or schema[self.y+1][self.x]=='E' or schema[self.y-1][self.x]=='E' or schema[self.y+1][self.x]=='k' or schema[self.y-1][self.x]=='k' )or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
                 v1=self.countbox[self.y+1][self.x]
                 v2=self.countbox[self.y-1][self.x]
                #totv=1/v1+1/v2
@@ -96,7 +96,7 @@ class Player:
                
                 
             
-            if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0)  and backtrace==False:
+            if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-' or schema[self.y][self.x+1]=='E' or schema[self.y][self.x-1]=='E' or schema[self.y][self.x+1]=='k' or schema[self.y][self.x-1]=='k') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0)  and backtrace==False:
                 v1=self.countbox[self.y][self.x+1]
                 v2=self.countbox[self.y][self.x-1]
                # totv=1/v1+1/v2
@@ -115,7 +115,7 @@ class Player:
 
         if level==3:
             memv=10**6
-            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-')or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K') and len(self.keyk)!=0)  and backtrace==False:
+            if self.mvx!=0 and (schema[self.y+1][self.x]=='-' or schema[self.y-1][self.x]=='-'or schema[self.y+1][self.x]=='E' or schema[self.y-1][self.x]=='E' or schema[self.y+1][self.x]=='k' or schema[self.y-1][self.x]=='k' )or ((schema[self.y+1][self.x]=='K' or schema[self.y-1][self.x]=='K' ) and len(self.keyk)!=0)  and backtrace==False:
                 v1=self.countbox[self.y+1][self.x]
                 v2=self.countbox[self.y-1][self.x]
                 v3=self.countbox[self.y][self.x+1]
@@ -140,7 +140,7 @@ class Player:
                
                 
             if memv==10**6:
-                if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-') or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0)  and backtrace==False:
+                if self.mvy!=0 and (schema[self.y][self.x+1]=='-' or schema[self.y][self.x-1]=='-' or schema[self.y][self.x+1]=='E' or schema[self.y][self.x-1]=='E' or schema[self.y][self.x+1]=='k' or schema[self.y][self.x-1]=='k' ) or ((schema[self.y][self.x-1]=='K' or schema[self.y][self.x+1]=='K') and len(self.keyk)!=0)  and backtrace==False:
                     v1=self.countbox[self.y][self.x+1]
                     v2=self.countbox[self.y][self.x-1]
                     totv=1/v1+1/v2
@@ -390,11 +390,11 @@ for ntemp in range(nattempt):
     schema=[[0 for i in range(n)] for j in range(n)]
     hero=Player(n)
     wolves=[]
-    read_schema('3')
+    read_schema('4')
 
     pathnow=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
     hero.path=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
-    whole=True
+    whole=False
     for element in wolves:
         element.pathnow=[schema[element.y][element.x-1],schema[element.y][element.x+1],schema[element.y-1][element.x],schema[element.y+1][element.x]]
     start=True
