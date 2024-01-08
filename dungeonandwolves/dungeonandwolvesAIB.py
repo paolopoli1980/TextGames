@@ -161,7 +161,7 @@ class Player:
            
 
         if backtrace==True:
-            print('bakctrue')
+           # print('bakctrue')
             for k,element in enumerate(self.enemysight):
                 minimo=10**6
                 if math.sqrt((self.x-element[0])**2+(self.y-element[1])**2)<minimo:
@@ -170,7 +170,7 @@ class Player:
             cont=0        
             while math.sqrt((self.x+self.mvx-self.enemysight[memh][0])**2+(self.y+self.mvy-self.enemysight[memh][1])**2)<math.sqrt((self.x-self.enemysight[memh][0])**2+(self.y-self.enemysight[memh][1])**2):
                 cont+=1
-                print(cont,self.enemysight[memh])
+                #print(cont,self.enemysight[memh])
                 #time.sleep(0.5)
                 
                 nextmv=random.randint(0,4)
@@ -197,8 +197,8 @@ class Player:
                     distance=math.sqrt((self.x+self.mvx-self.enemysight[memh][0])**2+(self.y+self.mvy-self.enemysight[memh][1])**2)
                     distance=math.exp(-kdef*distance**2)
                     if dice>distance:
-                        print('break',self.mvx,self.mvy)
-                        time.sleep(0.1)
+                       # print('break',self.mvx,self.mvy)
+                        #time.sleep(0.1)
                         break
                 if (cont>100):
                     break
@@ -390,7 +390,7 @@ for ntemp in range(nattempt):
     schema=[[0 for i in range(n)] for j in range(n)]
     hero=Player(n)
     wolves=[]
-    read_schema('4')
+    read_schema('6')
 
     pathnow=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
     hero.path=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
@@ -429,7 +429,7 @@ for ntemp in range(nattempt):
         backtrace=False 
         if len(hero.enemysight)!=0:
             backtrace=True
-            print('vision')
+           # print('vision')
             #hero.mvx=-hero.mvx
            # hero.mvy=-hero.mvy
             #time.sleep(0.4)
