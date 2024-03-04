@@ -269,9 +269,9 @@ def visual(y,x):
     if x==hero.x:
         vision=True
         if hero.y<y:
-            yline=hero.y-1
+            yline=hero.y
         else:
-            yline=y-1
+            yline=y
         deltay=math.fabs(y-hero.y)
         for i in range(int(deltay)-1):
 
@@ -292,9 +292,9 @@ def visual(y,x):
         
         vision=True
         if hero.x<x:
-            xline=hero.x-1
+            xline=hero.x
         else:
-            xline=x-1
+            xline=x
         #print(x,y,deltax)
         for i in range(int(deltax)-1):
 
@@ -307,9 +307,9 @@ def visual(y,x):
                 vision=False
 
         if hero.y<y:
-            yline=hero.y-1
+            yline=hero.y
         else:
-            yline=y-1
+            yline=y
             
         for i in range(int(deltay)-1):
 
@@ -383,14 +383,14 @@ def read_schema(nfile):
 
                         
                         
-level=3
+level=2
 nattempt=100                        
 for ntemp in range(nattempt):
     n=100
     schema=[[0 for i in range(n)] for j in range(n)]
     hero=Player(n)
     wolves=[]
-    read_schema('1')
+    read_schema('5')
 
     pathnow=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
     hero.path=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
