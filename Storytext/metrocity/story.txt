@@ -272,11 +272,11 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21
 BEGINTXT
-"Allora come va? Ho sentito che ti sei messo in affati con Sally! Ascolta bene lasciala perdere quela prima o poi ti frega!.
+"Allora come va? Ho sentito che ti sei messo in affari con Sally! Ascolta bene lasciala perdere quela prima o poi ti frega!.
 Il tuo robot ha sicuramente delle potenzialità dopo le modifiche di Pablo e Renato e sicuramente escogiterà un modo per 
 prendertelo. Ti conviene cambiare strada, sappi che se ti presenti ancora a quell'incontro non ne uscirai bene." 
 Chiedi a quel punto se ci sono alternative. Lui ti risponde di lasciare il robot al meccanico conosciuto alla stazione
-Edison, poi vai da Sally e dirli che ti è stato rubato così uscirai dal giro. "Fatto questo torna dal meccanico e lui
+Edison, poi vai da Sally e digli che ti è stato rubato così uscirai dal giro. "Fatto questo torna dal meccanico e lui
 ti dirà cosa è meglio fare per te!" A questo punto saluti e ringrazi......
 
 {3}
@@ -412,7 +412,7 @@ a se stessa.
 BEGINTXT
 
 Trovi come sempre il meccanico, gli spieghi la tua storia e gli consegni il robot. Lui accetta e ti dice che è stata
-una pessima idea mettersi in affari con Sally e la sua Gang. "Ora vai da Sally e digli che ti hanno rubato il robot,
+una pessima idea mettersi in affari con Sally e la sua Gang. "Ora vai da Sally e dille che ti hanno rubato il robot,
 poi torna da me".......
 
 ENDTXT
@@ -422,8 +422,14 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,3,26
 BEGINTXT
 
-"Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organiziamo
-al parco all'uscita della stazione......
+"Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organizziamo
+al parco all'uscita della stazione (29), incontri per appassionati di robot, con gente che viene anche fuori città appassionati
+di robot come il tuo. Li si fanno anche bancarelle di pezzi usati di robot. Chiaramente tu non devi vendere il tuo robot, però
+puoi metterlo in mostra con semplici performance con altri robot. Alla gente piace questa cosa e solitamente dona qualcosa. Oltretutto
+non si sa mai che puoi trovare persone interessanti che possano aiutarti per un nuovo futuro." Pensi che sia una buona idea 
+e che ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita precedente, ma d'altronde non vedi altre alternative.
+
+
 ENDTXT
 
 ENDTXT
@@ -460,7 +466,7 @@ ENDTXT
 {9}
 1
 BEGINTXT
-Scendi e da dietro un angolo una voce ti parla e ti chiede se vuoi un qualche sigaretta. Tu decidi di andartene....
+Scendi e da dietro un angolo una voce ti parla e ti chiede se vuoi qualche sigaretta. Tu decidi di andartene....
 
 
 
@@ -488,7 +494,7 @@ ENDTXT
 {10}
 1
 BEGINTXT
-In questa stazione stanno persone, la maggiore parte fumano. Forse è meglio non disturbare e andarsene.
+In questa stazione stanno persone, la maggior parte fuma. Forse è meglio non disturbare e andarsene.
 ENDTXT
 
 
@@ -605,7 +611,7 @@ alternative.
 
 Prima di andare a dormire si uniscono altri membri della stazione e insieme cenate, con cibo economico preso in qualche 
 discount della capitale. Passi comunque una serata spensierata tra racconti e giochi di carte. Qualche domanda ti viene
-fatta, ma decidi per prudenze di rimanere abbastanza vago e che sei li anche tu per problemi economici (cosa tra l'altro
+fatta, ma decidi per prudenza di rimanere abbastanza vago e che sei li anche tu per problemi economici (cosa tra l'altro
 vera). La mattina ti svegli e saluti i tuoi compagni di notte....
 ENDTXT
 
@@ -683,8 +689,8 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 
 
 "Passato una bella notte?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
-vedi facce poco raccomandabili. Usciti appena usciti dalla stazione vedi una specie di recinto protetto da bande
-evidentemente pericolose. Capisci che le gare che i match più importanti e più clandestini li fanno proprio qui.
+vedi facce poco raccomandabili. Appena usciti dalla stazione vedi una specie di recinto protetto da bande
+evidentemente pericolose. Capisci che i match più importanti e più clandestini li fanno proprio qui.
 Percepisci un chiaro pericolo. La gente il luogo tutto non ti convince ma adesso sei in gioco, percependo che in 
 rischio c'è probabilmente anche la tua vita. Il cancello si apre e all'interno trovi un ring, con gente intorno,
 (gente che sembra altamente allocata). Sally ti prende in parte e ti dice "Bene vediamo di che pasta è fatto il tuo robot 
@@ -778,12 +784,12 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 
 
 "Passato una bella notte?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
-vedi facce poco raccomandabili. Usciti appena usciti dalla stazione vedi una specie di recinto protetto da bande
-evidentemente pericolose. Capisci che le gare che i match più importanti e più clandestini li fanno proprio qui.
+vedi facce poco raccomandabili. Appena usciti dalla stazione vedi una specie di recinto protetto da bande
+evidentemente pericolose. Capisci che i match più importanti e più clandestini li fanno proprio qui.
 Percepisci un chiaro pericolo. La gente il luogo tutto non ti convince ma adesso sei in gioco, percependo che in 
 rischio c'è probabilmente anche la tua vita. Il cancello si apre e all'interno trovi un ring, con gente intorno,
 (gente che sembra altamente allocata). Sally ti prende in parte e ti dice "Bene vediamo di che pasta è fatto il tuo robot 
-e come Pablo e Renato lo hanno sistemato bene...." aggiunge poi " D'altronde penso che il tuo destino dipenda dall'incontro di 
+e come Pablo e Renato l'hanno sistemato bene...." aggiunge poi " D'altronde penso che il tuo destino dipenda dall'incontro di 
 questa sera."
 
    __,_,
@@ -806,9 +812,9 @@ comincia attacca con mazzate massacranti, il tuo robot è agile e schiva i colpi.
 cerca di tagliare le gambe a tenaglia, ma questo ha gambe in titanio e quindi nulla succede. Nonostante questo noti che tenaglia ha alcuni
 problemi a colpire robot, quando esso sta tra le sue gambe quindi decidi tramite radiocomando, di aumentare le probabilità di attacco
 vicino alle gambe utilizzando però attacchi veloci. La cosa funziona Tenaglia comincia a traballare sulle sue gambe e cade. A terra
-Tenaglia il tuo robot lo strascina fuori dal ring tenendo immobilizzata la pericolosa tenaglia. IL MATCH è VINTO! "Bene ci sei riuscito
-adesso siamo una squadra", ti dice Sally, "Ma sappi che non finisce qui. Fatti trovare domani sempre qui che organiziamo un altro match,
-intanto ecco la tua parte". L'unica tua risposta possibile è un si, vieni cosi scortato fino la binario della metro.
+Tenaglia, il tuo robot lo strascina fuori dal ring tenendo immobilizzata la pericolosa tenaglia. IL MATCH è VINTO! "Bene ci sei riuscito
+adesso siamo una squadra", ti dice Sally, "Ma sappi che non finisce qui. Fatti trovare domani sempre qui che organizziamo un altro match,
+intanto ecco la tua parte". L'unica tua risposta possibile è un si, vieni così scortato fino la binario della metro.
 
 
 
@@ -864,8 +870,9 @@ Adesso sei consapevole che in questa stazione puoi trovare qualcuno di interessa
 e dai un'occhiata, aspetti in parte alla scala di uscita della stazione e finalmente vedi un tizio, è quello che 
 di solito vedi quasi ogni volta che passi per questa stazione. Sta parlando con una persona, dalla descrizione è 
 certo che sia Pablo, l'uomo che potrebbe farti cambiare le tue sorti. Aspetti che sia solo, esci dalla stazione
-e ti presenti, dicendoti che ti manda..... Lui ti risponde che cosa vuoi e tu gli racconti la storia....Lo convinci 
-ad apportare migliorie al tuo robot. Lui accetta, dicendoti di farti trovare domani a questa stessa stazione...
+e ti presenti, dicendoti che ti manda.....(mettere nome ingegnere robotico). Lui ti risponde che cosa vuoi e tu 
+gli racconti la tua storia....Lo convinci ad apportare migliorie al tuo robot. Lui accetta, dicendoti di farti trovare 
+domani a questa stessa stazione...
 
 
 ENDTXT
@@ -883,7 +890,7 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1
 BEGINTXT
 Ti fai trovare, Pablo è accompagnato da un tizio. "Questo è un mio amico che può aiutarci, a migliorare il tuo robot.". Il
-tizio di presenta, "Mi chiamo Renato, come Pablo sono un ingegnere, penso di avere qualcosa di interessante per te.". I due
+tizio si presenta, "Mi chiamo Renato, come Pablo sono un ingegnere, penso di avere qualcosa di interessante per te.". I due
 ti chiedono di seguirli fuori dalla stazione e tu decidi di seguirli.
 
 __ _____ ____ _____ ______ _______ _____ ______ ______ ______ ___
@@ -921,14 +928,16 @@ di non preoccuparsi che il robot se sistemato ci farà vincere un sacco di gare. 
 a dormire da loro, passano parte della notte a lavorare sul miglioramento del robot, con pezzi di altà qualità...
 nel frattempo ti chiedi perchè, essi non abbiano un proprio robot, da fare gareggiare, ma questo è uno dei 
 tanti quesiti dal momento che hai deciso a venire in questa periferia metropolitana abbandonata ormai da anni.
+
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
+
 Il mattino vi svegliate, dopo avere lavorato la notte sul robot e averlo potenziato. Pablo e Renato, non vedono l'ora
 di vedere il tuo robot vincere, soprattutto per i possibili guadagni sulle percentuali, per ogni vittoria del robot.
 " Adesso va messo alla prova andiamo da Anglus facciamo una scommessa e poi vediamo." dice Pablo. Tu accetti, pensando
 che forse è l'ora buona. C'è solo un problema, il denaro per scommettere non c'è!
-Pablo ti prende in disparte e i dice di andare alla stazione Asimov e chiedere di Sally, dicendogli che ti manda Pablo.
-L'ingegnere dei bassifondi, ti dice di parlare con lei e chiedi di un prestito per potere scommettere sulle gare.
+Pablo ti prende in disparte e ti dice di andare alla stazione Asimov e chiedere di Sally, dicendogli che ti manda Pablo.
+L'ingegnere dei bassifondi, ti dice di parlare con lei e chiederli di un prestito per potere scommettere sulle gare.
 Tu rispondi che pensi che non sia il caso di rischiare chiedendo prestiti, ottenendo come risposta che questa è 
 l'unica soluzione per rifarti una vita.... A questo punto accetti, chiedendoli se ti può accompagnare, ma ricevi una risposta
 negativa in quanto lui da quelle parti è mal visto.... A questo punto accetti e ti incammini.....
@@ -1104,8 +1113,12 @@ Si presenta Sally....
               j.`.`.`.`.`.`.`.`.`.`.`.`.`.`.`.`.`;;;;;;;;;9        .P
 
 
-"E tu che vuoi?"
+"E tu che vuoi?". "Sono qui per un prestito ho questo robot che potrebbe interessante, ed è stato potenziato da Pablo". 
+"Si potrebbe interessarmi come cosa. Quindi penso che sei qui per un prestito per scommettere sul tuo robot?" , "esatto", rispondi.
+"Ok affare fatto troviamoci questa sera da Anglus e vediamo subito se la cosa ne vale la pena", "Ok ci sto!".
+
 ENDTXT
+
 {26}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3
@@ -1151,7 +1164,7 @@ Entri e subito dici che devi parlare con Sally.
 una squadra!" gli rispondi che il tuo robot è stato rubato all'ostello e quindi non puoi continuare con gli incontri.
 "Sei proprio uno stupido fantoccio vattene e non farti più vedere, stai molto attento a quello che dici in giro! Vai
 e muori in questo posto come un pezzente!". Fai finta che la cosa ti dispiace e che probabilmente non avrai più un 
-futuro! Poi te ne vai pensando che con una così e meglio veramente non avere a che fare....
+futuro! Poi te ne vai pensando che con una così è meglio veramente non avere a che fare....
 ENDTXT
 
 {27}
