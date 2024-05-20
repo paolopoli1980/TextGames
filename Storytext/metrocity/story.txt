@@ -1,6 +1,23 @@
 {1}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
+BEGINTXT
+Un'altra giornata ti attende! Spera di sopravvivere.
+         _
+      _-'_'-_
+   _-' _____ '-_
+_-' ___________ '-_
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||o|___|
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||||___|
+
+ENDTXT
+{1}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
 Passi un'altra notte nell'ostello, anche questa notte è andata bene nonostante lo squallore dell'ostello.
          _
@@ -268,9 +285,17 @@ ENDTXT
 BEGINTXT
 Non ti è bastata la lezione! Sarà meglio che potenzi quel robot il prima possibile, se vuoi guadagnare soldi in questo giro.....
 ENDTXT
+
 {3}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
+BEGINTXT
+"Ascolta il mio consiglio e vai adesso!!"
+ENDTXT
+
+{3}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
 "Allora come va? Ho sentito che ti sei messo in affari con Sally! Ascolta bene lasciala perdere quela prima o poi ti frega!.
 Il tuo robot ha sicuramente delle potenzialità dopo le modifiche di Pablo e Renato e sicuramente escogiterà un modo per 
@@ -278,6 +303,7 @@ prendertelo. Ti conviene cambiare strada, sappi che se ti presenti ancora a quel
 Chiedi a quel punto se ci sono alternative. Lui ti risponde di lasciare il robot al meccanico conosciuto alla stazione
 Edison, poi vai da Sally e digli che ti è stato rubato così uscirai dal giro. "Fatto questo torna dal meccanico e lui
 ti dirà cosa è meglio fare per te!" A questo punto saluti e ringrazi......
+ENDTXT
 
 {3}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3
@@ -406,9 +432,18 @@ alla stazione 25, e cercare Pablo (un ex ingegnere, messo in ginocchio dalla ste
 lui potrebbe rifornirti dei materiali necessari e innovazioni da apportare per il miglioramento del tuo robot. Arrivato alla stazione
 scendi e sali le scale e aspetta fuori, cercando comunque di nasconderti, qui sei comunque in una zona di periferia ormai abbandonata
 a se stessa.
+ENDTXT
+
 {5}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,3
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,3
+1,8,11,3,5,3,9,32,27,32,3,5
+1,11,8,3,5,3,9,32,27,32,3,5
+BEGINTXT
+Adesso devi trovare Pablo.....
+ENDTXT
+
+{5}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
 BEGINTXT
 
 Trovi come sempre il meccanico, gli spieghi la tua storia e gli consegni il robot. Lui accetta e ti dice che è stata
@@ -416,10 +451,17 @@ una pessima idea mettersi in affari con Sally e la sua Gang. "Ora vai da Sally e
 poi torna da me".......
 
 ENDTXT
+{5}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,5
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,5
+BEGINTXT
+"Su cosa aspetti datti da fare, fai quello che ti ho detto!"
+
+ENDTXT
 
 {5}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,3,26
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,3,26
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26
 BEGINTXT
 
 "Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organizziamo
@@ -431,7 +473,11 @@ e che ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita pr
 
 
 ENDTXT
-
+{5}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
+BEGINTXT
+"Ci si vede domani!"
 ENDTXT
 
 {6}
@@ -468,9 +514,6 @@ ENDTXT
 BEGINTXT
 Scendi e da dietro un angolo una voce ti parla e ti chiede se vuoi qualche sigaretta. Tu decidi di andartene....
 
-
-
-
 ENDTXT
 
 {9}
@@ -479,8 +522,6 @@ ENDTXT
 BEGINTXT
 Trovi ancora il tizio, questa volta gli chiedi come è possible guadagnare vendendo quella roba. Lui ti dice che non è difficile, 
 basta avere il "giro giusto". Vai alla fermata del quartiere AUSTR, e li troverai le persone adatte. Poi si gira e ti saluta.
-
-
 
 ENDTXT
 
@@ -561,8 +602,8 @@ Un'altra stazione di periferia, poco frequentata.
 ENDTXT
 
 {15}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
 Questa volta silenzio le tende sono tutte chiuse....niente festa in compagnia questa sera.
 
@@ -662,8 +703,8 @@ ENDTXT
 
 
 {21}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,6
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,6
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,6
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,6
 BEGINTXT
                       
                          !  !  ! II II !  !  !
@@ -718,9 +759,9 @@ HAI PERSO!!!!!!!!
 
 ENDTXT
 {21}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,1
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,1
-
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
+BEGINTXT
 Ti fai trovare il giorno dopo, pronto per una nuova sfida, 
                       
                          !  !  ! II II !  !  !
@@ -754,11 +795,11 @@ fuori uso il tuo robot. "Incontro finito il tuo robot ora è nostro!", ti dice un
 CyberPunk senza robot. Capisci che Sally e la sua banda hanno conoscenze inimmaginabili ed è stato un 
 errore mettersi in affare con loro. La tua avventura finisce qui.
 !"
-                                    
+ENDTXT                                    
 
 {21}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33
 BEGINTXT
                       
                          !  !  ! II II !  !  !
@@ -819,7 +860,12 @@ intanto ecco la tua parte". L'unica tua risposta possibile è un si, vieni così s
 
 
 ENDTXT
-
+{21}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
+BEGINTXT
+"Ehi se ci tieni alla pelle tieniti alle istruzioni dateti!"
+ENDTXT
 {21}
 1
 BEGINTXT
@@ -1130,12 +1176,37 @@ Anglus non ne avete più bisogno e che è ora di passare alle lotte serie. Lei ti 
 50% delle vincite del quale darai solo il 20% a Pablo e Renato, perchè lei glielo imporrà e che sicuramente loro non diranno nulla.
 Capisci che Sally è molto influente, nel giro nonostante sai una donna forse sulla quarantina, ma come in altre circostanze pensi
 che non sia il momento di pensare alle dinamiche segrete del luogo. Naturalmente accetti. Lei ti dice di farti trovare alla stazione alla 
-stazione Bazz.....
+stazione Bazz domani.
 ENDTXT
-
 {26}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,3,5
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,21,3,5
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26
+BEGINTXT
+      ,(())),
+     '(("""))'
+     '(|*_*|)'
+       : = :
+       _) (_
+     /`_ , _`\
+    / (_>*<_) \
+   / / )   ( \ \
+   \ \/  .  \/ /
+    \_)\___/(_/
+     |  \_/  )
+      \  /  /
+       \/  /
+       (__;
+        \""\
+         \""\
+         ))"")-)
+        ((__/| *
+
+"Ehi cominci a darmi i nervi se non vuoi combinare niente vattene da qui!"
+
+ENDTXT
+{26}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5
 BEGINTXT
 Entri e subito dici che devi parlare con Sally.
 
@@ -1416,8 +1487,8 @@ Eccoti alla stazione Bazz! Nella tua testa pensi che questo sia un momento fonda
 un gruppo che sembra non appartenere a questa cittadina di periferia abbandonata. Capisci che probabilmente le storie che 
 giravano quando vivevi nella tua bella città riguardo a gente benestante con il vizio delle scommesse..."Bene ecco il nostro
 cavallo vincente", dice Sally presentandoti all sua maniera. Uno del gruppo ti guarda, e esclama "Lo vedremo presto". Se sei
-ancora vivo la cosa certa è che non hai visitato la stazione CyberPunk. Bene domani fatti trovare li che non ti succederà
-niente......
+ancora vivo la cosa certa è che non hai visitato la stazione CyberPunk. Bene troviamoci oggi pomeriggio alla stazione CyberPunk
+vedrai che andrà tutto liscio."
 ENDTXT
 
 {33}
