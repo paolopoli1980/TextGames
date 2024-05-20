@@ -88,6 +88,24 @@ _-' ___________ '-_
 
 ENDTXT
 {1}
+1,8,11,5,9,32,27,32,3,5,25,1
+1,11,8,5,9,32,27,32,3,5,25,1
+BEGINTXT
+Adesso un'altra giornata ti aspetta....
+         _
+      _-'_'-_
+   _-' _____ '-_
+_-' ___________ '-_
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||o|___|
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||||___|
+
+ENDTXT
+
+{1}
 1,2
 1,3
 BEGINTXT
@@ -348,7 +366,7 @@ Bene sei tornato e vuoi anche scommettere sul tuo robot ben venga!!! Scommetti l
 La battle inizia, qui il tuo robot affronta il robot scorpione. Ma perdi anche questa volta! La tua avventura finisce qui, destinato
 a rimanere uno dei tanti e a dormire per strada come tanti in questa cittadina, diventando parte anche di questa abbandonata metrolpolitana
 funzionante non si sa per quale motivo....
-!"
+!$
 
 ENDTXT
 {4}
@@ -465,11 +483,13 @@ ENDTXT
 BEGINTXT
 
 "Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organizziamo
-al parco all'uscita della stazione (29), incontri per appassionati di robot, con gente che viene anche fuori città appassionati
+in una sala situato in un palazzo all'uscita della stazione 31, incontri per appassionati di robot, con gente che viene anche da fuori città appassionati
 di robot come il tuo. Li si fanno anche bancarelle di pezzi usati di robot. Chiaramente tu non devi vendere il tuo robot, però
 puoi metterlo in mostra con semplici performance con altri robot. Alla gente piace questa cosa e solitamente dona qualcosa. Oltretutto
-non si sa mai che puoi trovare persone interessanti che possano aiutarti per un nuovo futuro." Pensi che sia una buona idea 
-e che ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita precedente, ma d'altronde non vedi altre alternative.
+non si sa mai che puoi trovare persone interessanti che possano aiutarti per un nuovo futuro. Mi raccomando, non dire questa cosa in giro
+il tutto deve essere esclusivo a persone affidabili, insomma veri appassionati che non hanno niente a che vedere con il combattimento, tra
+robot!" Pensi che sia una buona idea e ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita precedente, ma d'altronde 
+non vedi altre alternative, a meno che vuoi rischiare e dar finta di nulla.
 
 
 ENDTXT
@@ -755,14 +775,14 @@ La tua impressione non è buona inizialmente ma sai che delle possibilità di vinc
 
 
 HAI PERSO!!!!!!!!
-!=
+!$
 
 ENDTXT
 {21}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 BEGINTXT
-Ti fai trovare il giorno dopo, pronto per una nuova sfida, 
+Ti fai trovare, pronto per una nuova sfida, 
                       
                          !  !  ! II II !  !  !
                       !  I__I__I_II II_I__I__I  !
@@ -794,7 +814,7 @@ perdi l'incontro, il robot ultra corrazzato non subisce danni all'attacco del tu
 fuori uso il tuo robot. "Incontro finito il tuo robot ora è nostro!", ti dice uno dei tizi. In poco ti trovi fuori dalla stazione
 CyberPunk senza robot. Capisci che Sally e la sua banda hanno conoscenze inimmaginabili ed è stato un 
 errore mettersi in affare con loro. La tua avventura finisce qui.
-!"
+!$
 ENDTXT                                    
 
 {21}
@@ -878,7 +898,7 @@ parte peggiore, prendi qualche coltellata e ti accasci per terra.
                   *
                   *
                   *
-!"
+!$
 ENDTXT
 
 {22}
@@ -986,7 +1006,13 @@ L'ingegnere dei bassifondi, ti dice di parlare con lei e chiederli di un prestit
 Tu rispondi che pensi che non sia il caso di rischiare chiedendo prestiti, ottenendo come risposta che questa è 
 l'unica soluzione per rifarti una vita.... A questo punto accetti, chiedendoli se ti può accompagnare, ma ricevi una risposta
 negativa in quanto lui da quelle parti è mal visto.... A questo punto accetti e ti incammini.....
- 
+
+{25}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25
+1,11,8,3,5,3,9,32,27,32,5,25,1,25
+BEGINTXT
+Tornare da Pablo e Renato non ti servirà un gran che.
+ENDTXT
 
 ENDTXT
 {26}
