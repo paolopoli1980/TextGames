@@ -33,7 +33,7 @@ _-' ___________ '-_
 
 ENDTXT
 
-ENDTXT
+
 {1}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26
@@ -67,7 +67,7 @@ E^ meglio che ti dai da fare, un'altra giornata ti aspetta....
 
 
 
-ENDTXT
+
 
 ENDTXT
 {1}
@@ -928,7 +928,6 @@ ENDTXT
 BEGINTXT
 Domani non è ancora arrivato, è ora che ti fai un riposino.....
 
-ENDTXT
 
 ENDTXT
 {25}
