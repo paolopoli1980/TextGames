@@ -121,7 +121,7 @@ def movement(n,steps,rooms,end):
     for x in testo:
       
       
-        if x=='"' and memx=='!':
+        if x=='$' and memx=='!':
             if fine()=='FINE':              
                 exit()   
              
