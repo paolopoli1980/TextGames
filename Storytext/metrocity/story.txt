@@ -1,4 +1,39 @@
 {1}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+BEGINTXT
+Un'altra giornata ci attende, forse oggi andrà meglio?
+         _
+      _-'_'-_
+   _-' _____ '-_
+_-' ___________ '-_
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||o|___|
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||||___|
+
+ENDTXT
+{1}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
+BEGINTXT
+Spero che sia l'ultima notte in questo ostello!
+         _
+      _-'_'-_
+   _-' _____ '-_
+_-' ___________ '-_
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||o|___|
+ |___|||||||||___|
+ |___|||||||||___|
+ |___|||||||||___|
+
+
+ENDTXT
+{1}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 BEGINTXT
@@ -446,7 +481,7 @@ ENDTXT
 BEGINTXT
 Trovi di nuovo il meccanico, ti chiede come è andata con la sfida. Per un attimo vedi nei suoi occhi un certo brillore. 
 Gli rispondi che nonostante il buon incontro hai perso. 'Non importa!', risponde. 'Hai ancora una possibilità'. Devi recarti
-alla stazione 25, e cercare Pablo (un ex ingegnere, messo in ginocchio dalla stessa multinazionale per il quale lavorava),
+alla stazione Mercury, e cercare Pablo (un ex ingegnere, messo in ginocchio dalla stessa multinazionale per il quale lavorava),
 lui potrebbe rifornirti dei materiali necessari e innovazioni da apportare per il miglioramento del tuo robot. Arrivato alla stazione
 scendi e sali le scale e aspetta fuori, cercando comunque di nasconderti, qui sei comunque in una zona di periferia ormai abbandonata
 a se stessa.
@@ -483,13 +518,13 @@ ENDTXT
 BEGINTXT
 
 "Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organizziamo
-in una sala situato in un palazzo all'uscita della stazione 31, incontri per appassionati di robot, con gente che viene anche da fuori città appassionati
+in una sala situato in un palazzo all'uscita della stazione Turing, incontri per appassionati di robot, con gente che viene anche da fuori città appassionati
 di robot come il tuo. Li si fanno anche bancarelle di pezzi usati di robot. Chiaramente tu non devi vendere il tuo robot, però
 puoi metterlo in mostra con semplici performance con altri robot. Alla gente piace questa cosa e solitamente dona qualcosa. Oltretutto
 non si sa mai che puoi trovare persone interessanti che possano aiutarti per un nuovo futuro. Mi raccomando, non dire questa cosa in giro
 il tutto deve essere esclusivo a persone affidabili, insomma veri appassionati che non hanno niente a che vedere con il combattimento, tra
 robot!" Pensi che sia una buona idea e ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita precedente, ma d'altronde 
-non vedi altre alternative, a meno che vuoi rischiare e dar finta di nulla.
+non vedi altre alternative, a meno che vuoi rischiare e far finta di nulla.
 
 
 ENDTXT
@@ -778,6 +813,7 @@ HAI PERSO!!!!!!!!
 !$
 
 ENDTXT
+
 {21}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
@@ -807,15 +843,15 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 
 Sally questa volta non c'è, e ti viene proposto un altro combattimento. Per forza accetti. Come vedi subito il tuo avversario
 noti che non è un robot come altri e probabilmente un incontro così non sarebbe neanche leale (visto che legale non può essere
-ne più ne meno). Il robot è potenziato in modo eccessivo per combattere con robot come il tuo, ed è un robot probabilmente anche
-proibito da tenere per persone comuni. Ti chiedi anche come abbiano ottenuto un robot di questo genere e subito capisci che 
+ne più ne meno). L'avversario è potenziato in modo eccessivo per combattere con sfidanti come il tuo e probabilmente è anche
+proibito da tenere. Ti chiedi anche come abbiano ottenuto un robot di questo genere e subito capisci che 
 stai per essere imbrogliato. Cerchi di replicare, ma gli scagnozzi ti dicono zitto e goditi l'incontro. Inutile dire che 
-perdi l'incontro, il robot ultra corrazzato non subisce danni all'attacco del tuo robot, fino a che con un fascio laser mette
+perdi l'incontro, il tuo avvesario ultra corrazzato non subisce nessun danno, fino a che con un fascio laser mette
 fuori uso il tuo robot. "Incontro finito il tuo robot ora è nostro!", ti dice uno dei tizi. In poco ti trovi fuori dalla stazione
-CyberPunk senza robot. Capisci che Sally e la sua banda hanno conoscenze inimmaginabili ed è stato un 
+CyberPunk senza più il tuo amato compagno di viaggio. Capisci che Sally e la sua banda hanno conoscenze inimmaginabili ed è stato un 
 errore mettersi in affare con loro. La tua avventura finisce qui.
 !$
-ENDTXT                                    
+ENDTXT
 
 {21}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33
@@ -877,15 +913,15 @@ Tenaglia, il tuo robot lo strascina fuori dal ring tenendo immobilizzata la peri
 adesso siamo una squadra", ti dice Sally, "Ma sappi che non finisce qui. Fatti trovare domani sempre qui che organizziamo un altro match,
 intanto ecco la tua parte". L'unica tua risposta possibile è un si, vieni così scortato fino la binario della metro.
 
-
-
 ENDTXT
+
 {21}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
 "Ehi se ci tieni alla pelle tieniti alle istruzioni dateti!"
 ENDTXT
+
 {21}
 1
 BEGINTXT
@@ -1006,6 +1042,8 @@ L'ingegnere dei bassifondi, ti dice di parlare con lei e chiederli di un prestit
 Tu rispondi che pensi che non sia il caso di rischiare chiedendo prestiti, ottenendo come risposta che questa è 
 l'unica soluzione per rifarti una vita.... A questo punto accetti, chiedendoli se ti può accompagnare, ma ricevi una risposta
 negativa in quanto lui da quelle parti è mal visto.... A questo punto accetti e ti incammini.....
+
+ENDTXT
 
 {25}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25
@@ -1449,6 +1487,22 @@ Niente più dolci incontri! La panchina torna ad essere vuota....
 |::|    /__\           fsc
 |::|
 
+
+ENDTXT
+
+{31}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+BEGINTXT
+Ti trovi alla stazione all'ora come d'accordo. "Bene, vedo che sei venuto!", ti dice il meccanico. Uscite dalla stazione,
+percorrete qualche viuzza e entrate in una sala, di una chiesa abbandonata. Quello che vedi è una stanza grande, con
+dei stand artigianali, vedi già esposti meccanismi meccanici appartenenti ormai a un' epoca preistorica. Qui capisci che
+in questa cittadina abbandonata, non ci sono solo spacci, e lotte clandestine, ma c'è ancora qualcuno con delle passioni
+che crede a un qualcosa senza scopo di lucro. Per un momento pensi, che parte di questa possa essere molto migliore rispetto
+alla metropoli che ti ha messo sulla strada. Elio di porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
+iteressata all'evento. Incuriosito ti metti proprio nella postazione assegnata. Nel frattempo varie persone si fermano interessate
+a guardare il tuo robot, scambiando con te anche qualche chiacchiera sulle proprie passioni e su quanto sia interessante
+il tuo robot.....
 
 ENDTXT
 
