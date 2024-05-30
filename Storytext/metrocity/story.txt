@@ -443,9 +443,10 @@ ENDTXT
 1,8,11,3
 1,11,8,3
 BEGINTXT
-Il tizio sulla panchina è proprio il meccanico che ti è stato segnalato. Uscite dalla stazione, a pochi passi c'è un vecchio condominio abbandonato, dove
-all'interno c'è l'umile appartamento del meccanico. Dopo averti dato ospitalità.....
-ripara il tuo robot, dicendoti torna alla stazione, quello è il posto dove le cose interessanti accadono, qui in questa città
+Il tizio sulla panchina è proprio il meccanico che ti è stato segnalato. Gli parli dicendoli che Anglus ti ha consigliato di 
+riferirti a lui. Lui si presenta, "Piacere io sono Max, penso che un piccolo aiuto posso dartelo, ma non aspettarti dei miracoli".
+Uscite dalla stazione, a pochi passi c'è un vecchio condominio abbandonato, dove all'interno c'è l'umile appartamento del meccanico. 
+Dopo averti dato ospitalità, ripara il tuo robot, dicendoti torna alla stazione, quello è il posto dove le cose interessanti accadono, qui in questa città
 c'è solo noia e desolazione. Alla fine ti fa un in bocca al lupo!
                          ^
                 _______     ^^^
@@ -1300,6 +1301,12 @@ una squadra!" gli rispondi che il tuo robot è stato rubato all'ostello e quindi 
 e muori in questo posto come un pezzente!". Fai finta che la cosa ti dispiace e che probabilmente non avrai più un 
 futuro! Poi te ne vai pensando che con una così è meglio veramente non avere a che fare....
 ENDTXT
+{27}
+1,8,11,3,5,3,9,32,27
+1,11,8,3,5,3,9,32,27
+BEGINTXT
+La tua carriera di corriere di sigarette pensi che sia finita.... Forse in un'altra vita. Chi lo può sapere?
+ENDTXT
 
 {27}
 1,8,11,3,5,3,9,32
@@ -1502,7 +1509,13 @@ che crede a un qualcosa senza scopo di lucro. Per un momento pensi, che parte di
 alla metropoli che ti ha messo sulla strada. Elio di porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
 iteressata all'evento. Incuriosito ti metti proprio nella postazione assegnata. Nel frattempo varie persone si fermano interessate
 a guardare il tuo robot, scambiando con te anche qualche chiacchiera sulle proprie passioni e su quanto sia interessante
-il tuo robot.....
+il tuo robot, tu gli rispondi che l'hai costruito te durante quel poco tempo libero che avevi a disposizione quando lavoravi nella
+capitale e poi è stato modificato. Nel finire la frase una persona ti dice che quello è un robot corrazzato per lottare, mettendoti
+un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelte, perchè ti sei trovato sulla strada da un momento all'altro.
+Guardando le facce delle tre persone con il quale stai iterloquendo, intuisci che probabilmente capiscono la tua situazione.
+Uno dei tre ti chiede perchè e come sei arrivato in questo posto, tu gli rispondi che dopo pochi match, hai capito che quella
+non era la tua strada.Uno tra le persone ti chiede se saresti interessato a un progetto di intrattenimento......
+
 
 ENDTXT
 
