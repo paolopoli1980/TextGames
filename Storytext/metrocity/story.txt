@@ -487,6 +487,13 @@ lui potrebbe rifornirti dei materiali necessari e innovazioni da apportare per i
 scendi e sali le scale e aspetta fuori, cercando comunque di nasconderti, qui sei comunque in una zona di periferia ormai abbandonata
 a se stessa.
 ENDTXT
+{5}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25
+1,11,8,3,5,3,9,32,27,32,5,25,1,25
+BEGINTXT
+Dici al meccanico che hai trovato Pablo. Lui risponde molto bene....
+ENDTXT
+
 
 {5}
 1,8,11,3,5,3,9,32,27,32,3,5
@@ -595,12 +602,7 @@ In questa stazione stanno persone, la maggior parte fuma. Forse è meglio non dis
 ENDTXT
 
 
-{10}
-1,8,11,3,5,3,9,32
-1,11,8,3,5,3,9,32
-BEGINTXT
-E' ora di mettersi in azione e cominciare a vendere. La cosa funziona, e riesci a vendere tutto in poco tempo.
-ENDTXT
+
 
 {11}
 1
@@ -785,7 +787,7 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~~~~~~~~~~~
 
 
-"Passato una bella notte?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
+"Allora sei pronto?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
 vedi facce poco raccomandabili. Appena usciti dalla stazione vedi una specie di recinto protetto da bande
 evidentemente pericolose. Capisci che i match più importanti e più clandestini li fanno proprio qui.
 Percepisci un chiaro pericolo. La gente il luogo tutto non ti convince ma adesso sei in gioco, percependo che in 
@@ -881,7 +883,7 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~~~~~~~~~~~
 
 
-"Passato una bella notte?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
+"Allora sei pronto?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
 vedi facce poco raccomandabili. Appena usciti dalla stazione vedi una specie di recinto protetto da bande
 evidentemente pericolose. Capisci che i match più importanti e più clandestini li fanno proprio qui.
 Percepisci un chiaro pericolo. La gente il luogo tutto non ti convince ma adesso sei in gioco, percependo che in 
@@ -1089,7 +1091,7 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26
 BEGINTXT
-Allora ancora qui, vai a dormire che domani ci si vede e adesso smamma.......
+"Allora ancora qui, hai capito quello che ti ho detto? Adesso smamma...."
 ENDTXT
 
 {26}
@@ -1340,6 +1342,11 @@ ENDTXT
 BEGINTXT
 Noti persone che vanno e vengono parlano tra di loro per poco, e poi ognuno per la sua direzione.
 ENDTXT
+{28}
+1
+BEGINTXT
+Un altro capolinea di questa metropolitana......
+ENDTXT
 
 {29}
 1
@@ -1514,7 +1521,13 @@ capitale e poi è stato modificato. Nel finire la frase una persona ti dice che q
 un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelte, perchè ti sei trovato sulla strada da un momento all'altro.
 Guardando le facce delle tre persone con il quale stai iterloquendo, intuisci che probabilmente capiscono la tua situazione.
 Uno dei tre ti chiede perchè e come sei arrivato in questo posto, tu gli rispondi che dopo pochi match, hai capito che quella
-non era la tua strada.Uno tra le persone ti chiede se saresti interessato a un progetto di intrattenimento......
+non era la tua strada. Uno tra le persone ti chiede se saresti interessato a un progetto di intrattenimento. Si tratta di un circo 
+vagante dove i robot si esibiscono in varie performance. Il tizio è sulla sessantina e finalmente sta realizzando questo suo sogno
+che aveva da tempo. Ti dice che le cifre non sono un gran che, però viaggeresti in vari posti limitrofi e che comunque per
+adesso con il circo ci campa abbastanza bene. Aggiunge che questo tipo di attrazione piace molto ai bambini, ed è facile riempire
+il tendone. Gli rispondi che per te sarebbe difficile, probabilmente campare tramite i ricavi del circo ma che comunque non hai
+niente da perdere e nel frattempo potresti provarci......
+
 
 
 ENDTXT
