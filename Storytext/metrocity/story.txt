@@ -507,7 +507,7 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
 BEGINTXT
 
-Trovi come sempre il meccanico, gli spieghi la tua storia e gli consegni il robot. Lui accetta e ti dice che è stata
+Trovi come sempre Max, gli spieghi la tua storia e gli consegni il robot. Lui accetta e ti dice che è stata
 una pessima idea mettersi in affari con Sally e la sua Gang. "Ora vai da Sally e dille che ti hanno rubato il robot,
 poi torna da me".......
 
