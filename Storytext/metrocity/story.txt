@@ -1,4 +1,18 @@
 {1}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
+BEGINTXT
+Questa volta tornare all'ostello non è stata una buona idea. Gli scagnozzi di Sally ti stanno aspettando, sanno dello sgarro 
+in poco ti prendono e ti portano via in un vicolo pestandoti, e lasciandoti li in fin di vita...
+                  *
+                  *
+               *******
+                  *
+                  *
+                  *
+!$
+ENDTXT
+{1}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 BEGINTXT
@@ -171,7 +185,8 @@ Eccoti all'entrata di metro city, cittadina metropolitana abbandonata. Eri un ec
 Dopo il licenziamento dalla corporation technology ti trovi senza casa, senza soldi e senza moglie che ti ha lasciato.
 Ora devi rifarti una vita partendo dal basso (molto dal basso). Dopo la prima notte passata in uno squallido ostello del
 quartiere, insieme all'unica cosa che ti rimane, ovvero il tuo fedele robottino, cominci a visitare la parte della città
-abbandonata dove la vita è concentrata... Ovvero la metropolitana della cittadina. 
+abbandonata dove la vita è concentrata... Ovvero la metropolitana della cittadina, dove l'unica cosa ancora funzionante sono
+proprio i treni. 
 Buon viaggio!
 
 
@@ -384,11 +399,11 @@ BEGINTXT
   Max         \\___//
         `---'
 Bene sei tornato e vuoi anche scommettere sul tuo robot ben venga!!! Scommetti la cifra che Sally ti ha dato, qui o la va o la spacca.
-La battle inizia, qui il tuo robot affronta il robot scorpione. Il robot scorpione tenta la sua codata, ma il tuo robot lo schiva, grazie
-al miglioramento dell'algoritmo che Pablo ha attuato, il colpo successivo è del tuo robot e questo mette fuori uso lo scorpione, frantumandoli. 
+La battle inizia, qui il tuo robot affronta il robot scorpione. Il robot scorpione tenta la sua codata, ma il tuo robot la schiva, grazie
+al miglioramento dell'algoritmo che Pablo ha attuato, il colpo successivo è del tuo robot e questo mette fuori uso lo scorpione, frantumandolo. 
 "Complimenti il tuo robot è riuscito a battere il migliore robot che abbiamo, prendi la tua quota di vincita ma sappi che qui non entri più, meglio che 
-ti trovi altri giri qui con noi hai finito. Pablo e Renato sono ad aspettarti e si prendono la sua quota, il resto lo dovrai dare tutto a Sally.
-Visto che questa era una prova. A questo ci pensa uno suo scagnozzo venuto apposta per riscattare la vincita in caso di vittoria. Dopo avere dato
+ti trovi altri giri qui con noi hai finito. Pablo e Renato sono ad aspettarti e si prendono la sua quota, il resto lo dovrai dare tutto a Sally,
+visto che questa era una prova. A questo ci pensa uno suo scagnozzo venuto apposta per riscattare la vincita in caso di vittoria. Dopo avere dato
 tutti i soldi ti dice, che è l'ora che torni da Sally e cominciate seriamente a parlare di affari.....
 
 ENDTXT
@@ -658,7 +673,19 @@ ENDTXT
 BEGINTXT
 Un'altra stazione di periferia, poco frequentata.
 ENDTXT
+{5}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
+BEGINTXT
 
+Ripensando a quello che ti ha detto Max......
+       /\            /\           /\
+      /  \          /  \         /  \ 
+     /    \        /    \       /    \
+    /  --  \      /  --  \     /  --  \
+   /   ||   \    /   ||   \   /   ||   \
+
+ENDTXT
 {15}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
@@ -975,7 +1002,7 @@ Adesso sei consapevole che in questa stazione puoi trovare qualcuno di interessa
 e dai un'occhiata, aspetti in parte alla scala di uscita della stazione e finalmente vedi un tizio, è quello che 
 di solito vedi quasi ogni volta che passi per questa stazione. Sta parlando con una persona, dalla descrizione è 
 certo che sia Pablo, l'uomo che potrebbe farti cambiare le tue sorti. Aspetti che sia solo, esci dalla stazione
-e ti presenti, dicendoti che ti manda.....(mettere nome ingegnere robotico). Lui ti risponde che cosa vuoi e tu 
+e ti presenti, dicendoti che ti manda Max. Lui ti risponde che cosa vuoi e tu 
 gli racconti la tua storia....Lo convinci ad apportare migliorie al tuo robot. Lui accetta, dicendoti di farti trovare 
 domani a questa stessa stazione...
 
@@ -1236,11 +1263,11 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3
 BEGINTXT
 "Ben tornato! Bene vedo che hai passato la prova. Se continui così potremmo essere un'ottima squadra. Mi hanno raccontato
-che hai fatto che hai fatto a pezzi il robot preferito di Anglus e ti ha bannato dal suo locale!" Rispondi timidamente si e 
+che hai fatto a pezzi il robot preferito di Anglus e ti ha bannato dal suo locale!" Rispondi timidamente si e 
 vorresti dirli che in tutto questo non hai guadagnato nulla, ma preferisci zittire. Lei continua a parlare, dicendoti che di
 Anglus non ne avete più bisogno e che è ora di passare alle lotte serie. Lei ti farà altri prestiti e questa volta, terrai il 
 50% delle vincite del quale darai solo il 20% a Pablo e Renato, perchè lei glielo imporrà e che sicuramente loro non diranno nulla.
-Capisci che Sally è molto influente, nel giro nonostante sai una donna forse sulla quarantina, ma come in altre circostanze pensi
+Capisci che Sally è molto influente nel giro, nonostante sia una donna forse sulla quarantina, ma come in altre circostanze pensi
 che non sia il momento di pensare alle dinamiche segrete del luogo. Naturalmente accetti. Lei ti dice di farti trovare alla stazione alla 
 stazione Bazz domani.
 ENDTXT
@@ -1513,7 +1540,7 @@ percorrete qualche viuzza e entrate in una sala, di una chiesa abbandonata. Quel
 dei stand artigianali, vedi già esposti meccanismi meccanici appartenenti ormai a un' epoca preistorica. Qui capisci che
 in questa cittadina abbandonata, non ci sono solo spacci, e lotte clandestine, ma c'è ancora qualcuno con delle passioni
 che crede a un qualcosa senza scopo di lucro. Per un momento pensi, che parte di questa possa essere molto migliore rispetto
-alla metropoli che ti ha messo sulla strada. Elio di porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
+alla metropoli che ti ha messo sulla strada. Max di porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
 iteressata all'evento. Incuriosito ti metti proprio nella postazione assegnata. Nel frattempo varie persone si fermano interessate
 a guardare il tuo robot, scambiando con te anche qualche chiacchiera sulle proprie passioni e su quanto sia interessante
 il tuo robot, tu gli rispondi che l'hai costruito te durante quel poco tempo libero che avevi a disposizione quando lavoravi nella
@@ -1526,8 +1553,10 @@ vagante dove i robot si esibiscono in varie performance. Il tizio è sulla sessan
 che aveva da tempo. Ti dice che le cifre non sono un gran che, però viaggeresti in vari posti limitrofi e che comunque per
 adesso con il circo ci campa abbastanza bene. Aggiunge che questo tipo di attrazione piace molto ai bambini, ed è facile riempire
 il tendone. Gli rispondi che per te sarebbe difficile, probabilmente campare tramite i ricavi del circo ma che comunque non hai
-niente da perdere e nel frattempo potresti provarci......
-
+niente da perdere e nel frattempo potresti provarci. Quindi accetti. "Ok, per me un piacere, il mio nome è Elio. Ci vediamo domani
+alla stazione EXE". L'evento finisce, senti dentro di te che questa è stata una giornata speciale per te. Adesso devi passare
+la notte, prima di uscire Max ti prende da parte e ti dice di stare molto attento a dove andrai passare la notte, può essere che Sally
+sia venuta a sapere dello sgarro.....
 
 
 ENDTXT
