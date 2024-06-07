@@ -678,14 +678,20 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
 BEGINTXT
 
-Ripensando a quello che ti ha detto Max......
+Ripensando a quello che ti ha detto Max, capisci che tornare all'ostello non è la migliore idea e forse potresti ritentare di 
+farti ospitare in questo accampamento ormai diventato lecito in questa stazione. Provi ad accostarti alle tende e chiedere
+se c'è qualcuno. Si ripresentano gli stessi che ti avevano ospitato, stavolta gli doni qualcosa e loro accettano dandoti
+volentieri ospitalità......
        /\            /\           /\
       /  \          /  \         /  \ 
      /    \        /    \       /    \
     /  --  \      /  --  \     /  --  \
    /   ||   \    /   ||   \   /   ||   \
 
+Passi così una notte tranquilla, pronto a presentari per l'evento propostoti ieri sera.....
+
 ENDTXT
+
 {15}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
