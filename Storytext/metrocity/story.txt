@@ -1381,6 +1381,38 @@ Un altro capolinea di questa metropolitana......
 ENDTXT
 
 {29}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
+BEGINTXT
+Scendi e esci dalla stazione in fondo al viale, trovi un tendone e capisci che dev'essere quello di Elio.
+
+                    |>>>
+                    |
+     ------------------------------------
+    --------------------------------------- 
+   /                                       \ 
+  /                                         \  
+ /                                           \
+|                                             |
+|                                             |
+|                                             |
+********************    ***********************
+********************    ***********************
+********************    ***********************
+
+"Benvenuto, vedrai che ti divertirai e accetterai la proposta". Tra te pensi, come il tuo robot potrà essere utile in
+esibizioni di intrattenimento di questo tipo. Vedi che in poco tempo cominciano a entrare donne e bambini. Lo spettacolo
+inizia, a un certo punto Elio tira fuori un topolino meccanico e chiede a te, il tuo robot per un attimo. Glielo consegni,
+ed esso comincia a inseguire il topolino, divertendo la platea. Dentro di te senti un entusiasmo che non sentivi da quando 
+eri ragazzino. Capisci che forse questa potrebbe essere la scelta giusta per te. Una scelta magari non redditizia e che
+non ti porterà la ricchezza di prima, ma che forse nella sua semplicità ti porterà a quella libertà che solo da bambino hai
+vissuto....
+
+FINE DELLA STORIA!
+!$ 
+ENDTXT
+
+{29}
 1
 BEGINTXT
 Scendi in questa stazione e fuori vedi dei viali alberati. Pensavi peggio visto le altre stazioni.
