@@ -673,11 +673,10 @@ ENDTXT
 BEGINTXT
 Un'altra stazione di periferia, poco frequentata.
 ENDTXT
-{5}
+{15}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
 BEGINTXT
-
 Ripensando a quello che ti ha detto Max, capisci che tornare all'ostello non è la migliore idea e forse potresti ritentare di 
 farti ospitare in questo accampamento ormai diventato lecito in questa stazione. Provi ad accostarti alle tende e chiedere
 se c'è qualcuno. Si ripresentano gli stessi che ti avevano ospitato, stavolta gli doni qualcosa e loro accettano dandoti
@@ -688,7 +687,7 @@ volentieri ospitalità......
     /  --  \      /  --  \     /  --  \
    /   ||   \    /   ||   \   /   ||   \
 
-Passi così una notte tranquilla, pronto a presentari per l'evento propostoti ieri sera.....
+Passi così una notte tranquilla, pronto a presentarti per l'evento propostoti ieri sera.....
 
 ENDTXT
 
@@ -1379,37 +1378,6 @@ ENDTXT
 1
 BEGINTXT
 Un altro capolinea di questa metropolitana......
-ENDTXT
-{29}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
-BEGINTXT
-Ti presenti la mattina uscito dalla stazione vedi in fondo al viale un tendone. Probabilmente è il tendone di Elio.
-                           |>>> 
-                           |
-        ----------------------------------------------
-      ---------------------------------------------------
-    /-----------------------------------------------------\
-   /                                                       \
-  /                                                         \
- /                                                           \
-|                                                             |
-|                                                             |
-|                                                             |
-**************************     *********************************
-**************************     *********************************
-**************************     *********************************
-Entri nel tendone trovi proprio lui. "Bene sono contento che sei venuto", Oggi tengo proprio uno spettacolo,
-vedrai che ci sarà spazio anche per il tuo robot. Anziani e bambini cominciano a entrare e il tendone si riempie 
-in poco tempo. Lo show inizia, tu non sai come il tuo robot potrà essere parte a questo spettacolo, visto che nessuna 
-prova è stata fatta. A un certo punto Elio tira fuori, un topolino meccanico a molla e ti chiede se per un attimo puoi
-lasciarli il tuo robot. Tu accetti. Il robot viene istruito, all'inseguire il topo, e lo spettacolo è divertente e 
-diverte tutti. Da tempo non sentivi un entusiasmo dentro di te così forte. Pensi che in fondo provare un'avventura
-così non ti dispiacerebbe, e accetti così la proposta di Elio. Probabilmente non tornerai alla vita confortevole e ricca
-di prima, ma forse scoprirai cosa sia veramente la felicità.......
-
-FINE DELLA STORIA
-!$		
 ENDTXT
 
 {29}
