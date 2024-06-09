@@ -196,7 +196,7 @@ Buon viaggio!
 
      JOURNEY
 
-è quello che trovi scritto su un muro della stazione perfirerica più vicina alla città da dove vieni, ma che adesso per problemi
+è quello che trovi scritto su un muro della stazione periferica più vicina alla città da dove vieni, ma che adesso per problemi
 economici non puoi più tornare.
 
 ENDTXT
@@ -1401,14 +1401,15 @@ Scendi e esci dalla stazione in fondo al viale, trovi un tendone e capisci che d
 ********************    ***********************
 
 "Benvenuto, vedrai che ti divertirai e accetterai la proposta". Tra te pensi, come il tuo robot potrà essere utile in
-esibizioni di intrattenimento di questo tipo. Vedi che in poco tempo cominciano a entrare donne e bambini. Lo spettacolo
-inizia, a un certo punto Elio tira fuori un topolino meccanico e chiede a te, il tuo robot per un attimo. Glielo consegni,
-ed esso comincia a inseguire il topolino, divertendo la platea. Dentro di te senti un entusiasmo che non sentivi da quando 
-eri ragazzino. Capisci che forse questa potrebbe essere la scelta giusta per te. Una scelta magari non redditizia e che
-non ti porterà la ricchezza di prima, ma che forse nella sua semplicità ti porterà a quella libertà che solo da bambino hai
-vissuto....
+esibizioni di intrattenimento di questo tipo. Vedi che in poco tempo cominciano a entrare giovani anziani e bambini. Lo spettacolo
+inizia, a un certo punto Elio tira fuori un topolino meccanico, di quelli a molla e chiede a te, il tuo robot per un attimo. 
+Gli consegni così il robot incuriosito, ed esso comincia a inseguire il topolino, divertendo la platea. 
+Dentro di te senti un entusiasmo che non sentivi da quando eri ragazzino. Capisci che forse questa potrebbe essere la scelta giusta 
+per te. Una scelta magari non redditizia e che non ti porterà la ricchezza di prima, ma che forse nella sua semplicità ti porterà a 
+quella libertà che solo da bambino hai vissuto....
 
 FINE DELLA STORIA!
+:)
 !$ 
 ENDTXT
 
