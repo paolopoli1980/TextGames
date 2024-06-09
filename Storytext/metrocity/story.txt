@@ -267,7 +267,7 @@ ENDTXT
 1,8,11
 1,11,8
 BEGINTXT
-Ritenti, ripeti il codice bussando, urli subito ORA O MAI. L'omone ti apre la porta e tu rispondi subito che ti manda Anglus. Bene finalmente riesci
+Ritenti, ripeti il codice bussando, urli subito ORA O MAI. L'omone ti apre la porta e tu chiedi subito di Anglus. Bene finalmente riesci
 a entrare. Benvenuto nel club.
 
 
@@ -339,7 +339,7 @@ Bene ci siamo dai una parte del denaro guadagnato per iscriverti al torneo, fara
         `---'
 
   
-Purtroppo per te il match non è andato bene i tuo robot resiste per i primi due round ma al terzo una codata del
+Purtroppo per te il match non è andato bene il tuo robot resiste per i primi due round ma al terzo una codata del
 robot Scorpion immobilizza il tuo robot non dandoli scampo!
 Comunque il proprietario del locale è contento che tu abbia dato un bel spettacolo. Ti dice di tornare 
 quando vuoi, e se pensa che il tuo robot sarà all'altezza della situazione, ti farà gareggiare gratis, 
@@ -402,8 +402,8 @@ Bene sei tornato e vuoi anche scommettere sul tuo robot ben venga!!! Scommetti l
 La battle inizia, qui il tuo robot affronta il robot scorpione. Il robot scorpione tenta la sua codata, ma il tuo robot la schiva, grazie
 al miglioramento dell'algoritmo che Pablo ha attuato, il colpo successivo è del tuo robot e questo mette fuori uso lo scorpione, frantumandolo. 
 "Complimenti il tuo robot è riuscito a battere il migliore robot che abbiamo, prendi la tua quota di vincita ma sappi che qui non entri più, meglio che 
-ti trovi altri giri qui con noi hai finito. Pablo e Renato sono ad aspettarti e si prendono la sua quota, il resto lo dovrai dare tutto a Sally,
-visto che questa era una prova. A questo ci pensa uno suo scagnozzo venuto apposta per riscattare la vincita in caso di vittoria. Dopo avere dato
+ti trovi altri giri qui con noi hai finito" ti dice Anglus. Pablo e Renato sono ad aspettarti e si prendono la sua quota, il resto lo dovrai dare 
+tutto a Sally, visto che questa era una prova. A questo ci pensa uno suo scagnozzo venuto apposta per riscattare la vincita in caso di vittoria. Dopo avere dato
 tutti i soldi ti dice, che è l'ora che torni da Sally e cominciate seriamente a parlare di affari.....
 
 ENDTXT
@@ -1257,7 +1257,7 @@ Si presenta Sally....
               j.`.`.`.`.`.`.`.`.`.`.`.`.`.`.`.`.`;;;;;;;;;9        .P
 
 
-"E tu che vuoi?". "Sono qui per un prestito ho questo robot che potrebbe interessante, ed è stato potenziato da Pablo". 
+"E tu che vuoi?". "Sono qui per un prestito ho questo robot che potrebbe interessarti, ed è stato potenziato da Pablo". 
 "Si potrebbe interessarmi come cosa. Quindi penso che sei qui per un prestito per scommettere sul tuo robot?" , "esatto", rispondi.
 "Ok affare fatto troviamoci questa sera da Anglus e vediamo subito se la cosa ne vale la pena", "Ok ci sto!".
 
