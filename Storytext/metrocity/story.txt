@@ -204,7 +204,7 @@ ENDTXT
 {2}
 1
 BEGINTXT
-In questa fermata trovi nulla di interessante, tranne qualche vecchio mozzicone di 
+In questa fermata non trovi nulla di interessante, tranne qualche vecchio mozzicone di 
 sigaretta per terra, ormai trovabili solo in qualche luogo sperduto malfamato, come qualche fermata di questa 
 vecchia metropolitana abbondanata a se stessa.
 
@@ -224,7 +224,7 @@ ENDTXT
 1
 BEGINTXT
 Una porta chiusa incostudita è chiusa, eppure hai una vaga impressione che c'è vita dietro a tale porta.
-Ti avvicini alla porta, provi a bussare a non succede nulla.
+Ti avvicini alla porta, provi a bussare ma non succede nulla.
 
 *******D****
 
@@ -367,11 +367,14 @@ ENDTXT
 BEGINTXT
 "Allora come va? Ho sentito che ti sei messo in affari con Sally! Ascolta bene lasciala perdere quela prima o poi ti frega!.
 Il tuo robot ha sicuramente delle potenzialità dopo le modifiche di Pablo e Renato e sicuramente escogiterà un modo per 
-prendertelo. Ti conviene cambiare strada, sappi che se ti presenti ancora a quell'incontro non ne uscirai bene." 
+prendertelo, uscendone comunque con un certo onore. E credimi al contrario di quanto sembra, in certe circostanze l'onore
+è importante anche in questo luogo abbandonato. Ti conviene cambiare strada, 
+sappi che se ti presenti ancora a quell'incontro non ne uscirai bene." 
 Chiedi a quel punto se ci sono alternative. Lui ti risponde di lasciare il robot al meccanico conosciuto alla stazione
 Edison, poi vai da Sally e digli che ti è stato rubato così uscirai dal giro. "Fatto questo torna dal meccanico e lui
 ti dirà cosa è meglio fare per te!" A questo punto saluti e ringrazi......
 ENDTXT
+
 
 {3}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3
@@ -626,6 +629,7 @@ Scendi a questa fermata, un gruppo di persone sta parlando "Io ho bussato ma que
 sbronzo che non hai detto la frase magica ORA O MAI PIU, e poi chiedere subito di Anglus". 
 "mmmm... forse bo non ricordo", poi i due si dileguano, abbastanza sbronzi.
 
+-----------
 --O----O---
 -\!/--\!/--
 -/-\--/-\--
@@ -672,6 +676,21 @@ ENDTXT
 1
 BEGINTXT
 Un'altra stazione di periferia, poco frequentata.
+ENDTXT
+{15}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
+BEGINTXT
+
+
+       /\            /\           /\
+      /  \          /  \         /  \ 
+     /    \        /    \       /    \
+    /  --  \      /  --  \     /  --  \
+   /   ||   \    /   ||   \   /   ||   \
+
+Una giornata interessante ti aspetta!
+
 ENDTXT
 {15}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
@@ -1567,6 +1586,11 @@ Niente più dolci incontri! La panchina torna ad essere vuota....
 |::|
 
 
+ENDTXT
+{31}
+1
+BEGINTXT
+Un' altra stazione terminale....
 ENDTXT
 
 {31}
