@@ -2,7 +2,7 @@
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
 BEGINTXT
-Questa volta tornare all'ostello non è stata una buona idea. Gli scagnozzi di Sally ti stanno aspettando, sanno dello sgarro 
+Questa volta tornare all'ostello non è stata una buona idea. Gli scagnozzi di Sally ti stanno aspettando, sanno dello sgarro e 
 in poco ti prendono e ti portano via in un vicolo pestandoti, e lasciandoti li in fin di vita...
                   *
                   *
@@ -12,6 +12,7 @@ in poco ti prendono e ti portano via in un vicolo pestandoti, e lasciandoti li i
                   *
 !$
 ENDTXT
+
 {1}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
@@ -29,6 +30,7 @@ _-' ___________ '-_
  |___|||||||||___|
 
 ENDTXT
+
 {1}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
@@ -47,6 +49,7 @@ _-' ___________ '-_
 
 
 ENDTXT
+
 {1}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
@@ -64,6 +67,7 @@ _-' ___________ '-_
  |___|||||||||___|
 
 ENDTXT
+
 {1}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
@@ -171,6 +175,7 @@ cittadina ormai abbandonata a se stessa.
 
 
 ENDTXT
+
 {1}
 1
 BEGINTXT
@@ -226,16 +231,19 @@ BEGINTXT
 Una porta chiusa incostudita è chiusa, eppure hai una vaga impressione che c'è vita dietro a tale porta.
 Ti avvicini alla porta, provi a bussare ma non succede nulla.
 
-*******D****
+**********DD*************
 
  
-************
+
+
+
+*************************
 ENDTXT
 
 {3}
 1,8
 BEGINTXT
-Ti avvicini alla porta, e pensi che la scritta letta sul muro alla stazione.... abbia un senso. Bussi prima 5 volte poi 3 e poi 2. Un omone ti apre e ti chiede
+Ti avvicini alla porta, e pensi che la scritta letta sul muro alla stazione Bach abbia un senso. Bussi prima 5 volte poi 3 e poi 2. Un omone ti apre e ti chiede
 che vuoi, tu non sai che dire. L'omone ti tira un cazzotto e ti dice di non tornare più.
 
     
@@ -296,8 +304,8 @@ ENDTXT
 1,11,8,3,5
 BEGINTXT
 OK BENVENUTO A BORDO.
-Hai qualche spicciolo per l'iscrizione?
-Purtroppo no!
+" Hai qualche spicciolo per l'iscrizione?", ti chiede Anglus. E tu rispondi.
+" Purtroppo no!"
 Ti indica che nei paraggi c'è un tizio che potrebbe darti una mano, facendoti guadagnare trafficando sigarette.
 Tieni in considerazione quello che ti ha detto e esci...
 ENDTXT
@@ -306,14 +314,14 @@ ENDTXT
 1,8,11,3,5,3,9,32,27
 1,11,8,3,5,3,9,32,27
 BEGINTXT
-Ora i soldi li hai, ma la tua coscienza ti dice che prima di iscriversi, è meglio dare il 50%.....
+Ora i soldi li hai, ma la tua coscienza ti dice che prima di iscriversi, è meglio dare il 50%, al tuo cosidetto datore di lavoro.
 ENDTXT
 
 {3}
 1,8,11,3,5,3,9,32,27,32
 1,11,8,3,5,3,9,32,27,32
 BEGINTXT
-Bene ci siamo dai una parte del denaro guadagnato per iscriverti al torneo, farai garegggiare il tuo robot!
+Bene ci siamo dai una parte del denaro guadagnato a Anglus per iscriverti al torneo, fai così garegggiare il tuo robot!
 
 
       \_/
@@ -370,6 +378,18 @@ Il tuo robot ha sicuramente delle potenzialità dopo le modifiche di Pablo e Rena
 prendertelo, uscendone comunque con un certo onore. E credimi al contrario di quanto sembra, in certe circostanze l'onore
 è importante anche in questo luogo abbandonato. Ti conviene cambiare strada, 
 sappi che se ti presenti ancora a quell'incontro non ne uscirai bene." 
+
+
+     ________
+   -------+  \
+   \\\\\\\\\  \
+   //_//__\\\  |
+   /\0' `0~ |\ /
+   (|^<, ^  .)|
+    ( ._.  ||/
+     \ .  / |
+      +--/  |    
+
 Chiedi a quel punto se ci sono alternative. Lui ti risponde di lasciare il robot al meccanico conosciuto alla stazione
 Edison, poi vai da Sally e digli che ti è stato rubato così uscirai dal giro. "Fatto questo torna dal meccanico e lui
 ti dirà cosa è meglio fare per te!" A questo punto saluti e ringrazi......
@@ -401,7 +421,7 @@ BEGINTXT
                          ||   ( )
   Max         \\___//
         `---'
-Bene sei tornato e vuoi anche scommettere sul tuo robot ben venga!!! Scommetti la cifra che Sally ti ha dato, qui o la va o la spacca.
+" Bene sei tornato e vuoi anche scommettere sul tuo robot. Ben venga!!!" Scommetti la cifra che Sally ti ha dato, qui o la va o la spacca.
 La battle inizia, qui il tuo robot affronta il robot scorpione. Il robot scorpione tenta la sua codata, ma il tuo robot la schiva, grazie
 al miglioramento dell'algoritmo che Pablo ha attuato, il colpo successivo è del tuo robot e questo mette fuori uso lo scorpione, frantumandolo. 
 "Complimenti il tuo robot è riuscito a battere il migliore robot che abbiamo, prendi la tua quota di vincita ma sappi che qui non entri più, meglio che 
@@ -414,6 +434,8 @@ ENDTXT
 {3}
 1,8,11,3,5,3,9,32,27,32,5,25,1,12,25,26
 1,11,8,3,5,3,9,32,27,32,5,25,1,12,25,26
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,24,26
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,24,26
 BEGINTXT
 Bene sei tornato e vuoi anche scommettere sul tuo robot ben venga!!! Scommetti la cifra che Sally ti ha dato, qui o la va o la spacca.
 La battle inizia, qui il tuo robot affronta il robot scorpione. Ma perdi anche questa volta! La tua avventura finisce qui, destinato
@@ -1150,7 +1172,7 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25
 BEGINTXT
 Giri per questa particolare stazione. Qualche squillo comincia a chiamarti...."Ehi! vuoi fare un giro....non costo poi così tanto...". 
-Prendi subito l'occasione per chiedere di Sally. La tizia di risponde " Perchè che ha più di me...", gli dici che è importante.
+Prendi subito l'occasione per chiedere di Sally. La tizia ti risponde " Perchè che ha più di me...", gli dici che è importante.
 Velocemente se ne va, e torna con due tizi poco raccomandabili e senti per un attimo un tremito di paura. I tizi ti guardano e ti dicono
 di andaretene subito prima che ti succeda qualcosa di poco piacevole...
 
