@@ -439,7 +439,7 @@ ENDTXT
 BEGINTXT
 Bene sei tornato e vuoi anche scommettere sul tuo robot ben venga!!! Scommetti la cifra che Sally ti ha dato, qui o la va o la spacca.
 La battle inizia, qui il tuo robot affronta il robot scorpione. Ma perdi anche questa volta! La tua avventura finisce qui, destinato
-a rimanere uno dei tanti e a dormire per strada come tanti in questa cittadina, diventando parte anche di questa abbandonata metrolpolitana
+a rimanere uno dei tanti e a dormire per strada come tanti in questa cittadina, diventando parte anche di questa abbandonata metropolitana
 funzionante non si sa per quale motivo....
 !$
 
@@ -511,9 +511,6 @@ BEGINTXT
 Per adesso pensi che il meccanico abbia fatto tutto quello che doveva fare.
 
 
-
-
-
 ENDTXT
 
 {5}
@@ -566,7 +563,7 @@ ENDTXT
 BEGINTXT
 
 "Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organizziamo
-in una sala situato in un palazzo all'uscita della stazione Turing, incontri per appassionati di robot, con gente che viene anche da fuori città appassionati
+in una sala situata in un palazzo all'uscita della stazione Turing, incontri per appassionati di robot, con gente che viene anche da fuori città. Appassionati
 di robot come il tuo. Li si fanno anche bancarelle di pezzi usati di robot. Chiaramente tu non devi vendere il tuo robot, però
 puoi metterlo in mostra con semplici performance con altri robot. Alla gente piace questa cosa e solitamente dona qualcosa. Oltretutto
 non si sa mai che puoi trovare persone interessanti che possano aiutarti per un nuovo futuro. Mi raccomando, non dire questa cosa in giro
@@ -647,7 +644,7 @@ ENDTXT
 {11}
 1
 BEGINTXT
-Scendi a questa fermata, un gruppo di persone sta parlando "Io ho bussato ma quello mi ha tirato un cazzotto", "probabilmente eri talmente
+Scendi a questa fermata, un gruppo di persone sta parlando. "Io ho bussato ma quello mi ha tirato un cazzotto", "probabilmente eri talmente
 sbronzo che non hai detto la frase magica ORA O MAI PIU, e poi chiedere subito di Anglus". 
 "mmmm... forse bo non ricordo", poi i due si dileguano, abbastanza sbronzi.
 
@@ -805,7 +802,7 @@ ENDTXT
 {16}
 1
 BEGINTXT
-Una delle tante stazioni che si diramano in questo labiritinto di metropolitane.
+Una delle tante stazioni che si diramano in questo labirinto di metropolitane.
 ENDTXT
 {17}
 1
@@ -882,8 +879,8 @@ questa sera."
      _)(  )(_
     `---''---`
 Il robot che dovrà affrontare il tuo fedele compagno di viaggio si chiama tenaglia, ed è dotato da una grossa tenaglia e una mazza.
-La tua impressione non è buona inizialmente ma sai che delle possibilità di vincere ci sono. L'incontro inizia.....
-
+La tua impressione non è buona inizialmente ma sai che delle possibilità di vincere ci sono. L'incontro inizia, tenaglia avanza ma per qualche
+motivo il tuo robot rimane fermo. Tenaglia sferra il suo colpo e annienta il tuo robot.
 
 HAI PERSO!!!!!!!!
 !$
@@ -981,7 +978,7 @@ Il robot che dovrà affrontare il tuo fedele compagno di viaggio si chiama tenagl
 La tua impressione non è buona inizialmente ma sai che delle possibilità di vincere ci sono. L'incontro inizia, vedi subito che tenaglia
 ha una forza immensa, e capisci che se scaraventa la sua tenaglia sul tuo robot la partita è finita e probabilmente anche la tua vita.
 Vedi anche però che la mano di Pablo e Renato è quella di due professionisti con una profonda conoscenza sulla lotta tra robot. Tenaglia
-comincia attacca con mazzate massacranti, il tuo robot è agile e schiva i colpi. A un certo punto il tuo robot con una sega circolare,
+comincia attaccando con mazzate massacranti, il tuo robot è agile e schiva i colpi. A un certo punto il tuo robot con una sega circolare,
 cerca di tagliare le gambe a tenaglia, ma questo ha gambe in titanio e quindi nulla succede. Nonostante questo noti che tenaglia ha alcuni
 problemi a colpire robot, quando esso sta tra le sue gambe quindi decidi tramite radiocomando, di aumentare le probabilità di attacco
 vicino alle gambe utilizzando però attacchi veloci. La cosa funziona Tenaglia comincia a traballare sulle sue gambe e cade. A terra
