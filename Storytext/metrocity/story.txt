@@ -1098,9 +1098,9 @@ La proposta sembra equa e così accetti, gli dici anche che Anglus non vuole più 
 visto che pensa che il tuo robot, può portare molti clienti nel locale. Aggiungi però che allo stesso tempo
 non hai soldi da scommettere, per lo meno non hai cifre significative. Loro si mettono in disparte e cominciano
 a chiacchierare e senti Pablo dire la seguente frase: "Sei impazzito quella lo dissangua...", Renato gli risponde
-di non preoccuparsi che il robot se sistemato ci farà vincere un sacco di gare. E' sera e vieni invitato,
-a dormire da loro, passano parte della notte a lavorare sul miglioramento del robot, con pezzi di altà qualità...
-nel frattempo ti chiedi perchè, essi non abbiano un proprio robot, da fare gareggiare, ma questo è uno dei 
+di non preoccuparsi che il robot se sistemato ci farà vincere tante gare. E' sera e vieni invitato,
+a dormire da loro, passano parte della notte a lavorare sul miglioramento del robot, con pezzi di altà qualità.
+Nel frattempo ti chiedi perchè, essi non abbiano un proprio robot, da fare gareggiare, ma questo è uno dei 
 tanti quesiti dal momento che hai deciso a venire in questa periferia metropolitana abbandonata ormai da anni.
 
 ------------------------------------------------------------------------------------------------------------------
@@ -1114,7 +1114,7 @@ Pablo ti prende in disparte e ti dice di andare alla stazione Asimov e chiedere 
 L'ingegnere dei bassifondi, ti dice di parlare con lei e chiederli di un prestito per potere scommettere sulle gare.
 Tu rispondi che pensi che non sia il caso di rischiare chiedendo prestiti, ottenendo come risposta che questa è 
 l'unica soluzione per rifarti una vita.... A questo punto accetti, chiedendoli se ti può accompagnare, ma ricevi una risposta
-negativa in quanto lui da quelle parti è mal visto.... A questo punto accetti e ti incammini.....
+negativa in quanto lui da quelle parti è mal visto. Accetti e ti incammini, verso la stazione a prendere il treno.
 
 ENDTXT
 
@@ -1169,7 +1169,7 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25
 BEGINTXT
 Giri per questa particolare stazione. Qualche squillo comincia a chiamarti...."Ehi! vuoi fare un giro....non costo poi così tanto...". 
-Prendi subito l'occasione per chiedere di Sally. La tizia ti risponde " Perchè che ha più di me...", gli dici che è importante.
+Prendi subito l'occasione per chiedere di Sally. La tizia ti risponde " Perchè che ha più di me?", gli dici che è importante.
 Velocemente se ne va, e torna con due tizi poco raccomandabili e senti per un attimo un tremito di paura. I tizi ti guardano e ti dicono
 di andaretene subito prima che ti succeda qualcosa di poco piacevole...
 
@@ -1309,11 +1309,12 @@ BEGINTXT
 che hai fatto a pezzi il robot preferito di Anglus e ti ha bannato dal suo locale!" Rispondi timidamente si e 
 vorresti dirli che in tutto questo non hai guadagnato nulla, ma preferisci zittire. Lei continua a parlare, dicendoti che di
 Anglus non ne avete più bisogno e che è ora di passare alle lotte serie. Lei ti farà altri prestiti e questa volta, terrai il 
-50% delle vincite del quale darai solo il 20% a Pablo e Renato, perchè lei glielo imporrà e che sicuramente loro non diranno nulla.
+50% delle vincite del quale darai solo il 10% a Pablo e Renato, perchè lei glielo imporrà e che sicuramente loro non diranno nulla.
 Capisci che Sally è molto influente nel giro, nonostante sia una donna forse sulla quarantina, ma come in altre circostanze pensi
-che non sia il momento di pensare alle dinamiche segrete del luogo. Naturalmente accetti. Lei ti dice di farti trovare alla stazione alla 
+che non sia il momento di pensare alle dinamiche segrete del luogo. Naturalmente accetti. Lei ti dice di farti trovare alla
 stazione Bazz domani.
 ENDTXT
+
 {26}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26
@@ -1619,14 +1620,14 @@ BEGINTXT
 Ti trovi alla stazione all'ora come d'accordo. "Bene, vedo che sei venuto!", ti dice il meccanico. Uscite dalla stazione,
 percorrete qualche viuzza e entrate in una sala, di una chiesa abbandonata. Quello che vedi è una stanza grande, con
 dei stand artigianali, vedi già esposti meccanismi meccanici appartenenti ormai a un' epoca preistorica. Qui capisci che
-in questa cittadina abbandonata, non ci sono solo spacci, e lotte clandestine, ma c'è ancora qualcuno con delle passioni
+in questa cittadina abbandonata, non ci sono solo spacci e lotte clandestine, ma c'è ancora qualcuno con delle passioni
 che crede a un qualcosa senza scopo di lucro. Per un momento pensi, che parte di questa gente possa essere molto migliore rispetto
-alla metropoli che ti ha messo sulla strada. Max di porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
+alla metropoli che ti ha messo sulla strada. Max ti porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
 iteressata all'evento. Incuriosito ti metti proprio nella postazione assegnata. Nel frattempo varie persone si fermano interessate
 a guardare il tuo robot, scambiando con te anche qualche chiacchiera sulle proprie passioni e su quanto sia interessante
 il tuo robot, tu gli rispondi che l'hai costruito te durante quel poco tempo libero che avevi a disposizione quando lavoravi nella
 capitale e poi è stato modificato. Nel finire la frase una persona ti dice che quello è un robot corrazzato per lottare, mettendoti
-un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelte, perchè ti sei trovato sulla strada da un momento all'altro.
+un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelta, perchè ti sei trovato sulla strada da un momento all'altro.
 Guardando le facce delle tre persone con il quale stai iterloquendo, intuisci che probabilmente capiscono la tua situazione.
 Uno dei tre ti chiede perchè e come sei arrivato in questo posto, tu gli rispondi che dopo pochi match, hai capito che quella
 non era la tua strada. Uno tra le persone ti chiede se saresti interessato a un progetto di intrattenimento. Si tratta di un circo 
@@ -1635,10 +1636,9 @@ che aveva da tempo. Ti dice che le cifre non sono un gran che, però viaggeresti 
 adesso con il circo ci campa abbastanza bene. Aggiunge che questo tipo di attrazione piace molto ai bambini, ed è facile riempire
 il tendone. Gli rispondi che per te sarebbe difficile, probabilmente campare tramite i ricavi del circo ma che comunque non hai
 niente da perdere e nel frattempo potresti provarci. Quindi accetti. "Ok, per me un piacere, il mio nome è Elio. Ci vediamo domani
-alla stazione EXE". L'evento finisce, senti dentro di te che questa è stata una giornata speciale per te. Adesso devi passare
+alla stazione EXE". L'evento finisce, senti dentro di te che questa è stata una giornata speciale. Adesso devi passare
 la notte, prima di uscire Max ti prende da parte e ti dice di stare molto attento a dove andrai passare la notte, può essere che Sally
 sia venuta a sapere dello sgarro.....
-
 
 ENDTXT
 
@@ -1670,19 +1670,20 @@ ENDTXT
 1,8,11,3,5,3,9,32,27
 1,11,8,3,5,3,9,32,27
 BEGINTXT
-Ben fatto! Prenditi il 50%.
+"Ben fatto!", "Ok Prenditi il tuo 50%. Buona giornata".
 ENDTXT
+
 {32}
 1,8,11,3,5,3,9,32,27,32
 1,11,8,3,5,3,9,32,27,32
 BEGINTXT
-Pensi che che la tua carriera da spacciatore non ti porterà poi così lontano!
+Pensi che la tua carriera da spacciatore non ti porterà poi così lontano!
 ENDTXT
 
 {33}
 1
 BEGINTXT
-Questa stazione, ha una uscita che si affaccia su un lungo viale stretto, ma per una tua impressione è meglio rimanere all'interno
+Questa stazione, ha un'uscita che si affaccia su un lungo viale stretto, ma per una tua impressione è meglio rimanere all'interno
 della stazione, anzi è meglio forse andarsene il prima possibile....
 ENDTXT
 
@@ -1700,7 +1701,7 @@ ENDTXT
 BEGINTXT
 Eccoti alla stazione Bazz! Nella tua testa pensi che questo sia un momento fondamentale della tua vita. Qui c'è Sally, con
 un gruppo che sembra non appartenere a questa cittadina di periferia abbandonata. Capisci che probabilmente le storie che 
-giravano quando vivevi nella tua bella città riguardo a gente benestante con il vizio delle scommesse..."Bene ecco il nostro
+giravano quando vivevi nella tua bella città riguardo a gente benestante con il vizio delle scommesse, siano vere. "Bene ecco il nostro
 cavallo vincente", dice Sally presentandoti all sua maniera. Uno del gruppo ti guarda, e esclama "Lo vedremo presto". Se sei
 ancora vivo la cosa certa è che non hai visitato la stazione CyberPunk. Bene troviamoci oggi pomeriggio alla stazione CyberPunk
 vedrai che andrà tutto liscio."
