@@ -228,7 +228,7 @@ ENDTXT
 {3}
 1
 BEGINTXT
-Una porta chiusa incostudita è chiusa, eppure hai una vaga impressione che c'è vita dietro a tale porta.
+Una porta incostudita è chiusa, eppure hai una vaga impressione che c'è vita dietro a tale porta.
 Ti avvicini alla porta, provi a bussare ma non succede nulla.
 
 **********DD*************
@@ -1663,7 +1663,7 @@ ENDTXT
 1,8,11,3,5,3,9,32
 1,11,8,3,5,3,9,32
 BEGINTXT
-Allora come vanno gli affari vedi di muoverti, altrimenti perdo la pazienza....
+"Allora come vanno gli affari vedi di muoverti, altrimenti perdo la pazienza...."
 ENDTXT
 
 {32}
