@@ -291,7 +291,7 @@ a entrare. Benvenuto nel club.
 
 
 Qui parli con il proprietario, ti dice che per essere in tale posto, devi avere un motivo valido, con quel robot scassato non hai chances!.
-Capisci da come parla, che qui organizzano lotte tra robot, ormai vietata da tempo ovunque. Il proprietario aggiunge anche: 
+Capisci da come parla, che qui organizzano lotte tra robot, ormai vietate da tempo ovunque. Il proprietario aggiunge anche: 
 "ti conviene andare alla stazione Edison li troverai un tizio che è sempre seduto su una panchina. Credimi ti aiuterà". Decidi così
 di ascoltare il consiglio del proprietario.
 
@@ -1411,7 +1411,7 @@ ENDTXT
 {27}
 1
 BEGINTXT
-Noti persone che vanno e vengono parlano tra di loro per poco, e poi ognuno per la sua direzione.
+Noti persone che vanno e vengono parlano tra di loro per poco, e poi ognuno va nella sua direzione.
 ENDTXT
 {28}
 1
