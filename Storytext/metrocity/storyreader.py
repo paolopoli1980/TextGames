@@ -1,4 +1,4 @@
-import os
+﻿import os
 import sys
 import msvcrt
 import time
@@ -198,7 +198,7 @@ while end==False:
                     char='9'
                     
                 if char!='':
-                    answer=input('Vuoi visitare il luogo?')
+                    answer=input('Vuoi visitare il luogo? y/n')
 
                 #choice=char
                 
