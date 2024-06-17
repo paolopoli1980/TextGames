@@ -3,6 +3,7 @@
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
 BEGINTXT
 Questa volta tornare all'ostello non è stata una buona idea. Gli scagnozzi di Sally ti stanno aspettando, sanno dello sgarro e 
+
 in poco ti prendono e ti portano via in un vicolo pestandoti, e lasciandoti li in fin di vita...
                   *
                   *
@@ -17,7 +18,9 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 BEGINTXT
+
 Un'altra giornata ci attende, forse oggi andrà meglio?
+
          _
       _-'_'-_
    _-' _____ '-_
@@ -28,6 +31,7 @@ _-' ___________ '-_
  |___|||||||||___|
  |___|||||||||___|
  |___|||||||||___|
+
 
 ENDTXT
 
@@ -36,6 +40,8 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
 BEGINTXT
 Spero che sia l'ultima notte in questo ostello!
+
+
          _
       _-'_'-_
    _-' _____ '-_
@@ -46,6 +52,7 @@ _-' ___________ '-_
  |___|||||||||___|
  |___|||||||||___|
  |___|||||||||___|
+
 
 
 ENDTXT
@@ -54,7 +61,10 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 BEGINTXT
+
+
 Un'altra giornata ti attende! Spera di sopravvivere.
+
          _
       _-'_'-_
    _-' _____ '-_
@@ -65,6 +75,7 @@ _-' ___________ '-_
  |___|||||||||___|
  |___|||||||||___|
  |___|||||||||___|
+
 
 ENDTXT
 
@@ -72,7 +83,11 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
+
+
 Passi un'altra notte nell'ostello, anche questa notte è andata bene nonostante lo squallore dell'ostello.
+
+
          _
       _-'_'-_
    _-' _____ '-_
@@ -83,6 +98,7 @@ _-' ___________ '-_
  |___|||||||||___|
  |___|||||||||___|
  |___|||||||||___|
+
 
 ENDTXT
 
@@ -91,7 +107,10 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26
 BEGINTXT
+
 L'ostello è chiuso!
+
+
          _
       _-'_'-_
    _-' _____ '-_
@@ -103,13 +122,16 @@ _-' ___________ '-_
  |___|||||||||___|
  |___|||||||||___|
 
+
 ENDTXT
 
 {1}
 1,8,11,5,9,32,27,32,5,25,1
 1,11,8,5,9,32,27,32,5,25,1
 BEGINTXT
+
 E^ meglio che ti dai da fare, un'altra giornata ti aspetta....
+
 
 
      WELCOME
@@ -127,7 +149,12 @@ ENDTXT
 1,8,11,5,9,32,27,32,3,5,25
 1,11,8,5,9,32,27,32,3,5,25
 BEGINTXT
+
+
 Torni alla fermata dell'ostello, adesso devi riposare....
+
+
+
          _
       _-'_'-_
    _-' _____ '-_
@@ -139,12 +166,18 @@ _-' ___________ '-_
  |___|||||||||___|
  |___|||||||||___|
 
+
+
 ENDTXT
 {1}
 1,8,11,5,9,32,27,32,3,5,25,1
 1,11,8,5,9,32,27,32,3,5,25,1
 BEGINTXT
+
+
 Adesso un'altra giornata ti aspetta....
+
+
          _
       _-'_'-_
    _-' _____ '-_
@@ -155,6 +188,8 @@ _-' ___________ '-_
  |___|||||||||___|
  |___|||||||||___|
  |___|||||||||___|
+
+
 
 ENDTXT
 
@@ -162,7 +197,9 @@ ENDTXT
 1,2
 1,3
 BEGINTXT
+
 E^ presto per tornare in quello squallido ostello. Meglio dedicare il tempo a capire le dinamiche di questa metropolitana della
+
 cittadina ormai abbandonata a se stessa.
 
 
@@ -187,11 +224,17 @@ BEGINTXT
 
 
 Eccoti all'entrata di metro city, cittadina metropolitana abbandonata. Eri un eccellente ingegnere robotico, ma ora hai perso tutto. 
+
 Dopo il licenziamento dalla corporation technology ti trovi senza casa, senza soldi e senza moglie che ti ha lasciato.
+
 Ora devi rifarti una vita partendo dal basso (molto dal basso). Dopo la prima notte passata in uno squallido ostello del
+
 quartiere, insieme all'unica cosa che ti rimane, ovvero il tuo fedele robottino, cominci a visitare la parte della città
+
 abbandonata dove la vita è concentrata... Ovvero la metropolitana della cittadina, dove l'unica cosa ancora funzionante sono
+
 proprio i treni. 
+
 Buon viaggio!
 
 
@@ -202,6 +245,7 @@ Buon viaggio!
      JOURNEY
 
 è quello che trovi scritto su un muro della stazione periferica più vicina alla città da dove vieni, ma che adesso per problemi
+
 economici non puoi più tornare.
 
 ENDTXT
@@ -210,7 +254,9 @@ ENDTXT
 1
 BEGINTXT
 In questa fermata non trovi nulla di interessante, tranne qualche vecchio mozzicone di 
+
 sigaretta per terra, ormai trovabili solo in qualche luogo sperduto malfamato, come qualche fermata di questa 
+
 vecchia metropolitana abbondanata a se stessa.
 
 
@@ -223,13 +269,16 @@ vecchia metropolitana abbondanata a se stessa.
     =     =    =
 
 
+
 ENDTXT
 
 {3}
 1
 BEGINTXT
 Una porta incostudita è chiusa, eppure hai una vaga impressione che c'è vita dietro a tale porta.
+
 Ti avvicini alla porta, provi a bussare ma non succede nulla.
+
 
 **********DD*************
 
@@ -238,12 +287,15 @@ Ti avvicini alla porta, provi a bussare ma non succede nulla.
 
 
 *************************
+
 ENDTXT
 
 {3}
 1,8
 BEGINTXT
+
 Ti avvicini alla porta, e pensi che la scritta letta sul muro alla stazione Bach abbia un senso. Bussi prima 5 volte poi 3 e poi 2. Un omone ti apre e ti chiede
+
 che vuoi, tu non sai che dire. L'omone ti tira un cazzotto e ti dice di non tornare più.
 
     
@@ -267,6 +319,7 @@ ENDTXT
 {3}
 1,8,3
 BEGINTXT
+
 Meglio evitare, di prendere altri cazzotti!
 
 ENDTXT
@@ -276,6 +329,7 @@ ENDTXT
 1,11,8
 BEGINTXT
 Ritenti, ripeti il codice bussando, urli subito ORA O MAI. L'omone ti apre la porta e tu chiedi subito di Anglus. Bene finalmente riesci
+
 a entrare. Benvenuto nel club.
 
 
@@ -291,8 +345,11 @@ a entrare. Benvenuto nel club.
 
 
 Qui parli con il proprietario, ti dice che per essere in tale posto, devi avere un motivo valido, con quel robot scassato non hai chances!.
+
 Capisci da come parla, che qui organizzano lotte tra robot, ormai vietate da tempo ovunque. Il proprietario aggiunge anche: 
+
 "ti conviene andare alla stazione Edison li troverai un tizio che è sempre seduto su una panchina. Credimi ti aiuterà". Decidi così
+
 di ascoltare il consiglio del proprietario.
 
 ENDTXT
@@ -304,9 +361,13 @@ ENDTXT
 1,11,8,3,5
 BEGINTXT
 OK BENVENUTO A BORDO.
+
 " Hai qualche spicciolo per l'iscrizione?", ti chiede Anglus. E tu rispondi.
+
 " Purtroppo no!"
+
 Ti indica che nei paraggi c'è un tizio che potrebbe darti una mano, facendoti guadagnare trafficando sigarette.
+
 Tieni in considerazione quello che ti ha detto e esci...
 ENDTXT
 
@@ -314,13 +375,16 @@ ENDTXT
 1,8,11,3,5,3,9,32,27
 1,11,8,3,5,3,9,32,27
 BEGINTXT
+
 Ora i soldi li hai, ma la tua coscienza ti dice che prima di iscriversi, è meglio dare il 50%, al tuo cosidetto datore di lavoro.
+
 ENDTXT
 
 {3}
 1,8,11,3,5,3,9,32,27,32
 1,11,8,3,5,3,9,32,27,32
 BEGINTXT
+
 Bene ci siamo dai una parte del denaro guadagnato a Anglus per iscriverti al torneo, fai così garegggiare il tuo robot!
 
 
@@ -348,9 +412,13 @@ Bene ci siamo dai una parte del denaro guadagnato a Anglus per iscriverti al tor
 
   
 Purtroppo per te il match non è andato bene il tuo robot resiste per i primi due round ma al terzo una codata del
+
 robot Scorpion immobilizza il tuo robot non dandoli scampo!
+
 Comunque il proprietario del locale è contento che tu abbia dato un bel spettacolo. Ti dice di tornare 
+
 quando vuoi, e se pensa che il tuo robot sarà all'altezza della situazione, ti farà gareggiare gratis, 
+
 senza quota di iscrizione!....
 
 ENDTXT
@@ -359,14 +427,18 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,3
 1,11,8,3,5,3,9,32,27,32,3
 BEGINTXT
+
 Non ti è bastata la lezione! Sarà meglio che potenzi quel robot il prima possibile, se vuoi guadagnare soldi in questo giro.....
+
 ENDTXT
 
 {3}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
 BEGINTXT
+
 "Ascolta il mio consiglio e vai adesso!!"
+
 ENDTXT
 
 {3}
@@ -374,9 +446,13 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
 "Allora come va? Ho sentito che ti sei messo in affari con Sally! Ascolta bene lasciala perdere quela prima o poi ti frega!.
+
 Il tuo robot ha sicuramente delle potenzialità dopo le modifiche di Pablo e Renato e sicuramente escogiterà un modo per 
+
 prendertelo, uscendone comunque con un certo onore. E credimi al contrario di quanto sembra, in certe circostanze l'onore
+
 è importante anche in questo luogo abbandonato. Ti conviene cambiare strada, 
+
 sappi che se ti presenti ancora a quell'incontro non ne uscirai bene." 
 
 
@@ -391,8 +467,11 @@ sappi che se ti presenti ancora a quell'incontro non ne uscirai bene."
       +--/  |    
 
 Chiedi a quel punto se ci sono alternative. Lui ti risponde di lasciare il robot al meccanico conosciuto alla stazione
+
 Edison, poi vai da Sally e digli che ti è stato rubato così uscirai dal giro. "Fatto questo torna dal meccanico e lui
+
 ti dirà cosa è meglio fare per te!" A questo punto saluti e ringrazi......
+
 ENDTXT
 
 
@@ -400,7 +479,9 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3
 BEGINTXT
+
 Qui non hai più nulla da fare.....
+
 ENDTXT
 
 {3}
@@ -422,11 +503,17 @@ BEGINTXT
   Max         \\___//
         `---'
 " Bene sei tornato e vuoi anche scommettere sul tuo robot. Ben venga!!!" Scommetti la cifra che Sally ti ha dato, qui o la va o la spacca.
+
 La battle inizia, qui il tuo robot affronta il robot scorpione. Il robot scorpione tenta la sua codata, ma il tuo robot la schiva, grazie
+
 al miglioramento dell'algoritmo che Pablo ha attuato, il colpo successivo è del tuo robot e questo mette fuori uso lo scorpione, frantumandolo. 
+
 "Complimenti il tuo robot è riuscito a battere il migliore robot che abbiamo, prendi la tua quota di vincita ma sappi che qui non entri più, meglio che 
+
 ti trovi altri giri qui con noi hai finito" ti dice Anglus. Pablo e Renato sono ad aspettarti e si prendono la sua quota, il resto lo dovrai dare 
+
 tutto a Sally, visto che questa era una prova. A questo ci pensa uno suo scagnozzo venuto apposta per riscattare la vincita in caso di vittoria. Dopo avere dato
+
 tutti i soldi ti dice, che è l'ora che torni da Sally e cominciate seriamente a parlare di affari.....
 
 ENDTXT
@@ -438,8 +525,11 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,24,26
 BEGINTXT
 Bene sei tornato e vuoi anche scommettere sul tuo robot ben venga!!! Scommetti la cifra che Sally ti ha dato, qui o la va o la spacca.
+
 La battle inizia, qui il tuo robot affronta il robot scorpione. Ma perdi anche questa volta! La tua avventura finisce qui, destinato
+
 a rimanere uno dei tanti e a dormire per strada come tanti in questa cittadina, diventando parte anche di questa abbandonata metropolitana
+
 funzionante non si sa per quale motivo....
 !$
 
@@ -447,7 +537,9 @@ ENDTXT
 {4}
 1
 BEGINTXT
+
 Scendi, ma noti che c'è poco di interessante, forse qualche altra fermata sarà più interessante.
+
 ENDTXT
 {5}
 1
@@ -484,9 +576,13 @@ ENDTXT
 1,11,8,3
 BEGINTXT
 Il tizio sulla panchina è proprio il meccanico che ti è stato segnalato. Gli parli dicendoli che Anglus ti ha consigliato di 
+
 riferirti a lui. Lui si presenta, "Piacere io sono Max, penso che un piccolo aiuto posso dartelo, ma non aspettarti dei miracoli".
+
 Uscite dalla stazione, a pochi passi c'è un vecchio condominio abbandonato, dove all'interno c'è l'umile appartamento del meccanico. 
+
 Dopo averti dato ospitalità, ripara il tuo robot, dicendoti torna alla stazione, quello è il posto dove le cose interessanti accadono, qui in questa città
+
 c'è solo noia e desolazione. Alla fine ti fa un in bocca al lupo!
                          ^
                 _______     ^^^
@@ -518,17 +614,24 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,3
 BEGINTXT
 Trovi di nuovo il meccanico, ti chiede come è andata con la sfida. Per un attimo vedi nei suoi occhi un certo brillore. 
+
 Gli rispondi che nonostante il buon incontro hai perso. 'Non importa!', risponde. 'Hai ancora una possibilità'. Devi recarti
+
 alla stazione Mercury, e cercare Pablo (un ex ingegnere, messo in ginocchio dalla stessa multinazionale per il quale lavorava),
+
 lui potrebbe rifornirti dei materiali necessari e innovazioni da apportare per il miglioramento del tuo robot. Arrivato alla stazione
+
 scendi e sali le scale e aspetta fuori, cercando comunque di nasconderti, qui sei comunque in una zona di periferia ormai abbandonata
+
 a se stessa.
 ENDTXT
 {5}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25
 1,11,8,3,5,3,9,32,27,32,5,25,1,25
 BEGINTXT
+
 Dici al meccanico che hai trovato Pablo. Lui risponde molto bene....
+
 ENDTXT
 
 
@@ -536,7 +639,9 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,3,5
 1,11,8,3,5,3,9,32,27,32,3,5
 BEGINTXT
+
 Adesso devi trovare Pablo.....
+
 ENDTXT
 
 {5}
@@ -545,7 +650,9 @@ ENDTXT
 BEGINTXT
 
 Trovi come sempre Max, gli spieghi la tua storia e gli consegni il robot. Lui accetta e ti dice che è stata
+
 una pessima idea mettersi in affari con Sally e la sua Gang. "Ora vai da Sally e dille che ti hanno rubato il robot,
+
 poi torna da me".......
 
 ENDTXT
@@ -553,6 +660,7 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,5
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,5
 BEGINTXT
+
 "Su cosa aspetti datti da fare, fai quello che ti ho detto!"
 
 ENDTXT
@@ -563,12 +671,19 @@ ENDTXT
 BEGINTXT
 
 "Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organizziamo
+
 in una sala situata in un palazzo all'uscita della stazione Turing, incontri per appassionati di robot, con gente che viene anche da fuori città. Appassionati
+
 di robot come il tuo. Li si fanno anche bancarelle di pezzi usati di robot. Chiaramente tu non devi vendere il tuo robot, però
+
 puoi metterlo in mostra con semplici performance con altri robot. Alla gente piace questa cosa e solitamente dona qualcosa. Oltretutto
+
 non si sa mai che puoi trovare persone interessanti che possano aiutarti per un nuovo futuro. Mi raccomando, non dire questa cosa in giro
+
 il tutto deve essere esclusivo a persone affidabili, insomma veri appassionati che non hanno niente a che vedere con il combattimento, tra
+
 robot!" Pensi che sia una buona idea e ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita precedente, ma d'altronde 
+
 non vedi altre alternative, a meno che vuoi rischiare e far finta di nulla.
 
 
@@ -583,6 +698,7 @@ ENDTXT
 {6}
 1
 BEGINTXT
+
 Sui muri ci sono varie scritte apparentemente senza senso, forse qualche slang del popolo di questa area abbandonata.
 
 
@@ -592,6 +708,7 @@ ENDTXT
 {7}
 1
 BEGINTXT
+
 Ancora solitudine e desolazione in questo posto!
 
 
@@ -600,18 +717,26 @@ ENDTXT
 {8}
 1
 BEGINTXT
+
 Scendi e in terra leggi la seguente scritta....
+
 -----------------
+
 ---5,3,2--------
+
 ---il modulo----
+
 --preferito-----
+
 --dal grassone--
+
 ----------------
 ENDTXT
 
 {9}
 1
 BEGINTXT
+
 Scendi e da dietro un angolo una voce ti parla e ti chiede se vuoi qualche sigaretta. Tu decidi di andartene....
 
 ENDTXT
@@ -620,7 +745,9 @@ ENDTXT
 1,8,11,3,5,3
 1,11,8,3,5,3
 BEGINTXT
+
 Trovi ancora il tizio, questa volta gli chiedi come è possible guadagnare vendendo quella roba. Lui ti dice che non è difficile, 
+
 basta avere il "giro giusto". Vai alla fermata del quartiere AUSTR, e li troverai le persone adatte. Poi si gira e ti saluta.
 
 ENDTXT
@@ -629,13 +756,17 @@ ENDTXT
 1,8,11,3,5,3,9
 1,11,8,3,5,3,9
 BEGINTXT
+
 Qui non c'è più nulla di interessante.
+
 ENDTXT
 
 {10}
 1
 BEGINTXT
+
 In questa stazione stanno persone, la maggior parte fuma. Forse è meglio non disturbare e andarsene.
+
 ENDTXT
 
 
@@ -645,7 +776,9 @@ ENDTXT
 1
 BEGINTXT
 Scendi a questa fermata, un gruppo di persone sta parlando. "Io ho bussato ma quello mi ha tirato un cazzotto", "probabilmente eri talmente
+
 sbronzo che non hai detto la frase magica ORA O MAI PIU, e poi chiedere subito di Anglus". 
+
 "mmmm... forse bo non ricordo", poi i due si dileguano, abbastanza sbronzi.
 
 -----------
@@ -659,13 +792,17 @@ ENDTXT
 {11}
 1,11
 BEGINTXT
+
 Qui è tutto tranquillo......
+
 ENDTXT
 
 {12}
 1
 BEGINTXT
+
 Questa stazione sembra quasi uno zoo, gatti e cani che circolano.
+
 
 ^..^      /
 /_/\_____/
@@ -688,13 +825,17 @@ ENDTXT
 {13}
 1
 BEGINTXT
+
 Questa stazione ha poco di interessante. Dubiti lo stesso del quartiere, sempre se esiste ancora.
+
 ENDTXT
 
 {14}
 1
 BEGINTXT
+
 Un'altra stazione di periferia, poco frequentata.
+
 ENDTXT
 {15}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
@@ -702,11 +843,14 @@ ENDTXT
 BEGINTXT
 
 
+
        /\            /\           /\
       /  \          /  \         /  \ 
      /    \        /    \       /    \
     /  --  \      /  --  \     /  --  \
    /   ||   \    /   ||   \   /   ||   \
+
+
 
 Una giornata interessante ti aspetta!
 
@@ -716,14 +860,21 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
 BEGINTXT
 Ripensando a quello che ti ha detto Max, capisci che tornare all'ostello non è la migliore idea e forse potresti ritentare di 
+
 farti ospitare in questo accampamento ormai diventato lecito in questa stazione. Provi ad accostarti alle tende e chiedere
+
 se c'è qualcuno. Si ripresentano gli stessi che ti avevano ospitato, stavolta gli doni qualcosa e loro accettano dandoti
+
 volentieri ospitalità......
+
+
        /\            /\           /\
       /  \          /  \         /  \ 
      /    \        /    \       /    \
     /  --  \      /  --  \     /  --  \
    /   ||   \    /   ||   \   /   ||   \
+
+
 
 Passi così una notte tranquilla, pronto a presentarti per l'evento propostoti ieri sera.....
 
@@ -733,7 +884,10 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
+
 Questa volta silenzio le tende sono tutte chiuse....niente festa in compagnia questa sera.
+
+
 
        /\            /\           /\
       /  \          /  \         /  \ 
@@ -748,6 +902,7 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15
 BEGINTXT
+
 E' ora di far fruttare la giornata!
 
 
@@ -767,8 +922,11 @@ ENDTXT
 BEGINTXT
 
 Rimani un attimo ad aspettare davanti alle tende....vorresti chiedere un posto per la notte, ma 
+
 non hai il coraggio.... a un certo punto una coppia ti chiede se ti serve un posto. Rispondi si, non vedendo altre
+
 alternative.
+
 
 
        /\            /\           /\
@@ -779,9 +937,13 @@ alternative.
  
 
 Prima di andare a dormire si uniscono altri membri della stazione e insieme cenate, con cibo economico preso in qualche 
+
 discount della capitale. Passi comunque una serata spensierata tra racconti e giochi di carte. Qualche domanda ti viene
+
 fatta, ma decidi per prudenza di rimanere abbastanza vago e che sei li anche tu per problemi economici (cosa tra l'altro
+
 vera). La mattina ti svegli e saluti i tuoi compagni di notte....
+
 ENDTXT
 
 {15}
@@ -796,36 +958,48 @@ Noti delle tende.
     /  --  \      /  --  \     /  --  \
    /   ||   \    /   ||   \   /   ||   \
  
+
 Probabilmente qualcuno che non può permettersi una dimora.
+
 ENDTXT
  
 {16}
 1
 BEGINTXT
+
 Una delle tante stazioni che si diramano in questo labirinto di metropolitane.
+
 ENDTXT
 {17}
 1
 BEGINTXT
+
 Un'altra stazione dove è possibile prendere altri treni per andare in differenti direzioni.....
+
 ENDTXT
 
 {18}
 1
 BEGINTXT
+
 In questa stazione vedi pochi vagabondi che probabilmente vengono da una delle stazioni vicine limitrofe.....
+
 ENDTXT
 
 {19}
 1
 BEGINTXT
+
 Stazione poco interessante.....
+
 ENDTXT
 
 {20}
 1
 BEGINTXT
+
 Stazione poco interessante.....
+
 ENDTXT
 
 
@@ -858,12 +1032,19 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 
 
 "Allora sei pronto?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
+
 vedi facce poco raccomandabili. Appena usciti dalla stazione vedi una specie di recinto protetto da bande
+
 evidentemente pericolose. Capisci che i match più importanti e più clandestini li fanno proprio qui.
+
 Percepisci un chiaro pericolo. La gente il luogo tutto non ti convince ma adesso sei in gioco, percependo che in 
+
 rischio c'è probabilmente anche la tua vita. Il cancello si apre e all'interno trovi un ring, con gente intorno,
+
 (gente che sembra altamente allocata). Sally ti prende in parte e ti dice "Bene vediamo di che pasta è fatto il tuo robot 
+
 e come Pablo e Renato l'hanno sistemato bene...." aggiunge poi " D'altronde penso che il tuo destino dipenda dall'incontro di 
+
 questa sera."
 
    __,_,
@@ -879,7 +1060,9 @@ questa sera."
      _)(  )(_
     `---''---`
 Il robot che dovrà affrontare il tuo fedele compagno di viaggio si chiama tenaglia, ed è dotato da una grossa tenaglia e una mazza.
+
 La tua impressione non è buona inizialmente ma sai che delle possibilità di vincere ci sono. L'incontro inizia, tenaglia avanza ma per qualche
+
 motivo il tuo robot rimane fermo. Tenaglia sferra il suo colpo e annienta il tuo robot.
 
 HAI PERSO!!!!!!!!
@@ -915,13 +1098,21 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~~~~~~~~~~~
 
 Sally questa volta non c'è, e ti viene proposto un altro combattimento. Per forza accetti. Come vedi subito il tuo avversario
+
 noti che non è un robot come altri e probabilmente un incontro così non sarebbe neanche leale (visto che legale non può essere
+
 ne più ne meno). L'avversario è potenziato in modo eccessivo per combattere con sfidanti come il tuo e probabilmente è anche
+
 proibito da tenere. Ti chiedi anche come abbiano ottenuto un robot di questo genere e subito capisci che 
+
 stai per essere imbrogliato. Cerchi di replicare, ma gli scagnozzi ti dicono zitto e goditi l'incontro. Inutile dire che 
+
 perdi l'incontro, il tuo avvesario ultra corrazzato non subisce nessun danno, fino a che con un fascio laser mette
+
 fuori uso il tuo robot. "Incontro finito il tuo robot ora è nostro!", ti dice uno dei tizi. In poco ti trovi fuori dalla stazione
+
 CyberPunk senza più il tuo amato compagno di viaggio. Capisci che Sally e la sua banda hanno conoscenze inimmaginabili ed è stato un 
+
 errore mettersi in affare con loro. La tua avventura finisce qui.
 !$
 ENDTXT
@@ -954,12 +1145,19 @@ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
 
 
 "Allora sei pronto?" è ora che esplori questa stazione accessibile solo a pochi.", ai lati della stazione
+
 vedi facce poco raccomandabili. Appena usciti dalla stazione vedi una specie di recinto protetto da bande
+
 evidentemente pericolose. Capisci che i match più importanti e più clandestini li fanno proprio qui.
+
 Percepisci un chiaro pericolo. La gente il luogo tutto non ti convince ma adesso sei in gioco, percependo che in 
+
 rischio c'è probabilmente anche la tua vita. Il cancello si apre e all'interno trovi un ring, con gente intorno,
+
 (gente che sembra altamente allocata). Sally ti prende in parte e ti dice "Bene vediamo di che pasta è fatto il tuo robot 
+
 e come Pablo e Renato l'hanno sistemato bene...." aggiunge poi " D'altronde penso che il tuo destino dipenda dall'incontro di 
+
 questa sera."
 
    __,_,
@@ -974,16 +1172,27 @@ questa sera."
      (--/\--)    \__/
      _)(  )(_
     `---''---`
+
 Il robot che dovrà affrontare il tuo fedele compagno di viaggio si chiama tenaglia, ed è dotato da una grossa tenaglia e una mazza.
+
 La tua impressione non è buona inizialmente ma sai che delle possibilità di vincere ci sono. L'incontro inizia, vedi subito che tenaglia
+
 ha una forza immensa, e capisci che se scaraventa la sua tenaglia sul tuo robot la partita è finita e probabilmente anche la tua vita.
+
 Vedi anche però che la mano di Pablo e Renato è quella di due professionisti con una profonda conoscenza sulla lotta tra robot. Tenaglia
+
 comincia attaccando con mazzate massacranti, il tuo robot è agile e schiva i colpi. A un certo punto il tuo robot con una sega circolare,
+
 cerca di tagliare le gambe a tenaglia, ma questo ha gambe in titanio e quindi nulla succede. Nonostante questo noti che tenaglia ha alcuni
+
 problemi a colpire robot, quando esso sta tra le sue gambe quindi decidi tramite radiocomando, di aumentare le probabilità di attacco
+
 vicino alle gambe utilizzando però attacchi veloci. La cosa funziona Tenaglia comincia a traballare sulle sue gambe e cade. A terra
+
 Tenaglia, il tuo robot lo strascina fuori dal ring tenendo immobilizzata la pericolosa tenaglia. IL MATCH è VINTO! "Bene ci sei riuscito
+
 adesso siamo una squadra", ti dice Sally, "Ma sappi che non finisce qui. Fatti trovare domani sempre qui che organizziamo un altro match,
+
 intanto ecco la tua parte". L'unica tua risposta possibile è un si, vieni così scortato fino la binario della metro.
 
 ENDTXT
@@ -992,14 +1201,20 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
+
 "Ehi se ci tieni alla pelle tieniti alle istruzioni dateti!"
+
 ENDTXT
 
 {21}
 1
 BEGINTXT
+
 Ti accingi in questa stazione ma vieni aggredito da una banda. Questa volta, i fondi bassi hanno fatto vedere la sua 
+
 parte peggiore, prendi qualche coltellata e ti accasci per terra.
+
+
 
                   *
                   *
@@ -1013,27 +1228,37 @@ ENDTXT
 {22}
 1
 BEGINTXT
+
 Da qui tre destinazioni diverse puoi prendere.
+
 ENDTXT
 
 {23}
 1
 BEGINTXT
+
 Vicini a un'altra periferia.....
+
 ENDTXT
 
 {24}
 1
 BEGINTXT
+
 Leggendo la scritta, sul muro
+
 QUI SEI PROPRIO IN CULO!
+
 Capisci che probabilmente questa è la stazione più a est della metropolitana.
+
 ENDTXT
 
 {25}
 1
 BEGINTXT
+
 Una delle tante stazioni di periferia. Anche se noti sopra le scale persone che parlano, ma non riesci a capire di cosa, decidi
+
 comunque di andartene da un'altra parte.
 
 ENDTXT
@@ -1042,11 +1267,17 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5
 BEGINTXT
 Adesso sei consapevole che in questa stazione puoi trovare qualcuno di interessante. Quindi sali le scale 
+
 e dai un'occhiata, aspetti in parte alla scala di uscita della stazione e finalmente vedi un tizio, è quello che 
+
 di solito vedi quasi ogni volta che passi per questa stazione. Sta parlando con una persona, dalla descrizione è 
+
 certo che sia Pablo, l'uomo che potrebbe farti cambiare le tue sorti. Aspetti che sia solo, esci dalla stazione
+
 e ti presenti, dicendoti che ti manda Max. Lui ti risponde che cosa vuoi e tu 
+
 gli racconti la tua storia....Lo convinci ad apportare migliorie al tuo robot. Lui accetta, dicendoti di farti trovare 
+
 domani a questa stessa stazione...
 
 
@@ -1055,6 +1286,7 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,3,5,25
 1,11,8,3,5,3,9,32,27,32,3,5,25
 BEGINTXT
+
 Domani non è ancora arrivato, è ora che ti fai un riposino.....
 
 
@@ -1064,7 +1296,9 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1
 BEGINTXT
 Ti fai trovare, Pablo è accompagnato da un tizio. "Questo è un mio amico che può aiutarci, a migliorare il tuo robot.". Il
+
 tizio si presenta, "Mi chiamo Renato, come Pablo sono un ingegnere, penso di avere qualcosa di interessante per te.". I due
+
 ti chiedono di seguirli fuori dalla stazione e tu decidi di seguirli.
 
 __ _____ ____ _____ ______ _______ _____ ______ ______ ______ ___
@@ -1094,26 +1328,42 @@ __]_____]____]_____]______]_______]_____]______]______]______]___]
                          `.____________________`.
 
 Ok noi ti aiutiamo con il tuo robot, ma in cambio devi promettermi che il 30% delle vincite le dai a noi.
+
 La proposta sembra equa e così accetti, gli dici anche che Anglus non vuole più nessuna quota di iscrizione
+
 visto che pensa che il tuo robot, può portare molti clienti nel locale. Aggiungi però che allo stesso tempo
+
 non hai soldi da scommettere, per lo meno non hai cifre significative. Loro si mettono in disparte e cominciano
+
 a chiacchierare e senti Pablo dire la seguente frase: "Sei impazzito quella lo dissangua...", Renato gli risponde
+
 di non preoccuparsi che il robot se sistemato ci farà vincere tante gare. E' sera e vieni invitato,
+
 a dormire da loro, passano parte della notte a lavorare sul miglioramento del robot, con pezzi di altà qualità.
+
 Nel frattempo ti chiedi perchè, essi non abbiano un proprio robot, da fare gareggiare, ma questo è uno dei 
+
 tanti quesiti dal momento che hai deciso a venire in questa periferia metropolitana abbandonata ormai da anni.
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
 Il mattino vi svegliate, dopo avere lavorato la notte sul robot e averlo potenziato. Pablo e Renato, non vedono l'ora
+
 di vedere il tuo robot vincere, soprattutto per i possibili guadagni sulle percentuali, per ogni vittoria del robot.
+
 " Adesso va messo alla prova andiamo da Anglus facciamo una scommessa e poi vediamo." dice Pablo. Tu accetti, pensando
+
 che forse è l'ora buona. C'è solo un problema, il denaro per scommettere non c'è!
+
 Pablo ti prende in disparte e ti dice di andare alla stazione Asimov e chiedere di Sally, dicendogli che ti manda Pablo.
+
 L'ingegnere dei bassifondi, ti dice di parlare con lei e chiederli di un prestito per potere scommettere sulle gare.
+
 Tu rispondi che pensi che non sia il caso di rischiare chiedendo prestiti, ottenendo come risposta che questa è 
+
 l'unica soluzione per rifarti una vita.... A questo punto accetti, chiedendoli se ti può accompagnare, ma ricevi una risposta
+
 negativa in quanto lui da quelle parti è mal visto. Accetti e ti incammini, verso la stazione a prendere il treno.
 
 ENDTXT
@@ -1130,6 +1380,7 @@ ENDTXT
 1
 BEGINTXT
 Decidendo di visitare la seguente stazione scopri, che è soprattutto frequentata da donne con vestiti che lasciano poco 
+
 spazio all'immaginazione.
 
 
@@ -1169,8 +1420,11 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25
 BEGINTXT
 Giri per questa particolare stazione. Qualche squillo comincia a chiamarti...."Ehi! vuoi fare un giro....non costo poi così tanto...". 
+
 Prendi subito l'occasione per chiedere di Sally. La tizia ti risponde " Perchè che ha più di me?", gli dici che è importante.
+
 Velocemente se ne va, e torna con due tizi poco raccomandabili e senti per un attimo un tremito di paura. I tizi ti guardano e ti dicono
+
 di andaretene subito prima che ti succeda qualcosa di poco piacevole...
 
       ,(())),
@@ -1192,8 +1446,11 @@ di andaretene subito prima che ti succeda qualcosa di poco piacevole...
          ))"")-)
         ((__/| *
 
+
 A quel punto dici che ti manda Pablo e che cerchi prestiti. I tizi ti guardano e ti dicono che visto che ti manda Pablo la cosa
+
 potrebbe interessare Sally.
+
 Si presenta Sally....
 
 
@@ -1296,7 +1553,9 @@ Si presenta Sally....
 
 
 "E tu che vuoi?". "Sono qui per un prestito ho questo robot che potrebbe interessarti, ed è stato potenziato da Pablo". 
+
 "Si potrebbe interessarmi come cosa. Quindi penso che sei qui per un prestito per scommettere sul tuo robot?" , "esatto", rispondi.
+
 "Ok affare fatto troviamoci questa sera da Anglus e vediamo subito se la cosa ne vale la pena", "Ok ci sto!".
 
 ENDTXT
@@ -1306,12 +1565,19 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3
 BEGINTXT
 "Ben tornato! Bene vedo che hai passato la prova. Se continui così potremmo essere un'ottima squadra. Mi hanno raccontato
+
 che hai fatto a pezzi il robot preferito di Anglus e ti ha bannato dal suo locale!" Rispondi timidamente si e 
+
 vorresti dirli che in tutto questo non hai guadagnato nulla, ma preferisci zittire. Lei continua a parlare, dicendoti che di
+
 Anglus non ne avete più bisogno e che è ora di passare alle lotte serie. Lei ti farà altri prestiti e questa volta, terrai il 
+
 50% delle vincite del quale darai solo il 10% a Pablo e Renato, perchè lei glielo imporrà e che sicuramente loro non diranno nulla.
+
 Capisci che Sally è molto influente nel giro, nonostante sia una donna forse sulla quarantina, ma come in altre circostanze pensi
+
 che non sia il momento di pensare alle dinamiche segrete del luogo. Naturalmente accetti. Lei ti dice di farti trovare alla
+
 stazione Bazz domani.
 ENDTXT
 
@@ -1369,9 +1635,13 @@ Entri e subito dici che devi parlare con Sally.
 
 
 "Che vuoi ancora, e che fai qui... dovresti essere alla stazione Cyberpunk a farci guadagnare quattrini, ormai siamo 
+
 una squadra!" gli rispondi che il tuo robot è stato rubato all'ostello e quindi non puoi continuare con gli incontri.
+
 "Sei proprio uno stupido fantoccio vattene e non farti più vedere, stai molto attento a quello che dici in giro! Vai
+
 e muori in questo posto come un pezzente!". Fai finta che la cosa ti dispiace e che probabilmente non avrai più un 
+
 futuro! Poi te ne vai pensando che con una così è meglio veramente non avere a che fare....
 ENDTXT
 {27}
@@ -1440,11 +1710,17 @@ Scendi e esci dalla stazione in fondo al viale, trovi un tendone e capisci che d
 ********************    ***********************
 
 "Benvenuto, vedrai che ti divertirai e accetterai la proposta". Tra te pensi, come il tuo robot potrà essere utile in
+
 esibizioni di intrattenimento di questo tipo. Vedi che in poco tempo cominciano a entrare giovani anziani e bambini. Lo spettacolo
+
 inizia, a un certo punto Elio tira fuori un topolino meccanico, di quelli a molla e chiede a te, il tuo robot per un attimo. 
+
 Gli consegni così il robot incuriosito, ed esso comincia a inseguire il topolino, divertendo la platea. 
+
 Dentro di te senti un entusiasmo che non sentivi da quando eri ragazzino. Capisci che forse questa potrebbe essere la scelta giusta 
+
 per te. Una scelta magari non redditizia e che non ti porterà la ricchezza di prima, ma che forse nella sua semplicità ti porterà a 
+
 quella libertà che solo da bambino hai vissuto....
 
 FINE DELLA STORIA!
@@ -1455,6 +1731,7 @@ ENDTXT
 {29}
 1
 BEGINTXT
+
 Scendi in questa stazione e fuori vedi dei viali alberati. Pensavi peggio visto le altre stazioni.
 
       |                      |
@@ -1474,6 +1751,7 @@ ENDTXT
 {30}
 1
 BEGINTXT
+
 Questa è una stazione talmente piccola, che come scendi dalla metro ti ritrovi in uno spazio verde. Vedi anche una panchina.....
 
    .=gp.
@@ -1590,6 +1868,7 @@ ENDTXT
 {30}
 1,30,30
 BEGINTXT
+
 Niente più dolci incontri! La panchina torna ad essere vuota....
    .=gp.
  .'/$$$$
@@ -1610,7 +1889,9 @@ ENDTXT
 {31}
 1
 BEGINTXT
+
 Un' altra stazione terminale....
+
 ENDTXT
 
 {31}
@@ -1618,26 +1899,47 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 BEGINTXT
 Ti trovi alla stazione all'ora come d'accordo. "Bene, vedo che sei venuto!", ti dice il meccanico. Uscite dalla stazione,
+
 percorrete qualche viuzza e entrate in una sala, di una chiesa abbandonata. Quello che vedi è una stanza grande, con
+
 dei stand artigianali, vedi già esposti meccanismi meccanici appartenenti ormai a un' epoca preistorica. Qui capisci che
+
 in questa cittadina abbandonata, non ci sono solo spacci e lotte clandestine, ma c'è ancora qualcuno con delle passioni
+
 che crede a un qualcosa senza scopo di lucro. Per un momento pensi, che parte di questa gente possa essere molto migliore rispetto
+
 alla metropoli che ti ha messo sulla strada. Max ti porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
+
 iteressata all'evento. Incuriosito ti metti proprio nella postazione assegnata. Nel frattempo varie persone si fermano interessate
+
 a guardare il tuo robot, scambiando con te anche qualche chiacchiera sulle proprie passioni e su quanto sia interessante
+
 il tuo robot, tu gli rispondi che l'hai costruito te durante quel poco tempo libero che avevi a disposizione quando lavoravi nella
+
 capitale e poi è stato modificato. Nel finire la frase una persona ti dice che quello è un robot corrazzato per lottare, mettendoti
+
 un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelta, perchè ti sei trovato sulla strada da un momento all'altro.
+
 Guardando le facce delle tre persone con il quale stai iterloquendo, intuisci che probabilmente capiscono la tua situazione.
+
 Uno dei tre ti chiede perchè e come sei arrivato in questo posto, tu gli rispondi che dopo pochi match, hai capito che quella
+
 non era la tua strada. Uno tra le persone ti chiede se saresti interessato a un progetto di intrattenimento. Si tratta di un circo 
+
 vagante dove i robot si esibiscono in varie performance. Il tizio è sulla sessantina e finalmente sta realizzando questo suo sogno
+
 che aveva da tempo. Ti dice che le cifre non sono un gran che, però viaggeresti in vari posti limitrofi e che comunque per
+
 adesso con il circo ci campa abbastanza bene. Aggiunge che questo tipo di attrazione piace molto ai bambini, ed è facile riempire
+
 il tendone. Gli rispondi che per te sarebbe difficile, probabilmente campare tramite i ricavi del circo ma che comunque non hai
+
 niente da perdere e nel frattempo potresti provarci. Quindi accetti. "Ok, per me un piacere, il mio nome è Elio. Ci vediamo domani
+
 alla stazione EXE". L'evento finisce, senti dentro di te che questa è stata una giornata speciale. Adesso devi passare
+
 la notte, prima di uscire Max ti prende da parte e ti dice di stare molto attento a dove andrai passare la notte, può essere che Sally
+
 sia venuta a sapere dello sgarro.....
 
 ENDTXT
@@ -1653,8 +1955,11 @@ ENDTXT
 1,11,8,3,5,3,9
 BEGINTXT
 Questa volta capisci dove andare, scruti bene e vedi un certo traffico di sigarette, quello dovrebbe essere il tizio giusto, 
+
 per cominciare un nuovo business ed essere tenuto da conto in questa giungla metropolitana. Ti avvicini al tizio, e gli proponi
+
 un affare, dicendoli che venderai in giro le sigarette per lui in compenso gli restituirai il 50%, lui accetta e ti indica la zona migliore
+
 per potere vendere la roba. E' la stazione STUNK. Ora ti devi dare da fare.....
 ENDTXT
 
@@ -1684,6 +1989,7 @@ ENDTXT
 1
 BEGINTXT
 Questa stazione, ha un'uscita che si affaccia su un lungo viale stretto, ma per una tua impressione è meglio rimanere all'interno
+
 della stazione, anzi è meglio forse andarsene il prima possibile....
 ENDTXT
 
@@ -1700,10 +2006,15 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15
 BEGINTXT
 Eccoti alla stazione Bazz! Nella tua testa pensi che questo sia un momento fondamentale della tua vita. Qui c'è Sally, con
+
 un gruppo che sembra non appartenere a questa cittadina di periferia abbandonata. Capisci che probabilmente le storie che 
+
 giravano quando vivevi nella tua bella città riguardo a gente benestante con il vizio delle scommesse, siano vere. "Bene ecco il nostro
+
 cavallo vincente", dice Sally presentandoti all sua maniera. Uno del gruppo ti guarda, e esclama "Lo vedremo presto". Se sei
+
 ancora vivo la cosa certa è che non hai visitato la stazione CyberPunk. Bene troviamoci oggi pomeriggio alla stazione CyberPunk
+
 vedrai che andrà tutto liscio."
 ENDTXT
 
