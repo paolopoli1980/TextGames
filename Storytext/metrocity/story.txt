@@ -538,7 +538,7 @@ ENDTXT
 1
 BEGINTXT
 
-Scendi, ma noti che c'è poco di interessante, forse qualche altra fermata sarà più interessante.
+Scendi, ma noti che c'è poco di interessante, forse è meglio esplorare qualche altra stazione.
 
 ENDTXT
 {5}
@@ -1425,7 +1425,7 @@ Prendi subito l'occasione per chiedere di Sally. La tizia ti risponde " Perchè c
 
 Velocemente se ne va, e torna con due tizi poco raccomandabili e senti per un attimo un tremito di paura. I tizi ti guardano e ti dicono
 
-di andaretene subito prima che ti succeda qualcosa di poco piacevole...
+di andartene subito prima che ti succeda qualcosa di poco piacevole...
 
       ,(())),
      '(("""))'
