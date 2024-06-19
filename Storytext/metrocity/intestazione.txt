@@ -1,0 +1,39 @@
+AVVENTURA INTERATTIVA: METRO CITY. ( Agosto 2024)
+
+LETTORE: Per eventi tramite script in Python.
+
+Mappa:
+
+
+
+
+
+                                                  30       31      32
+                                                   |        |      |            
+                                                   |        |      |           28  
+                                                   ----19----      20-----33    |
+                                                       |           |            | 
+                                                       |           |            | 
+                                                       17----------------------18-------29 
+           4                  15              11       |
+           |                  |               |        |                        25
+           |                  |               |        |                         |
+           3---------1--------2---------------5-------10----------16------------22------24   
+           |                  |                                    |             |    
+           |                  |                                    |             |
+           |             -----6-----                              21             23-----27
+        ---7----         |    |     |                                            |
+        |      |         |    |     |                                            |
+        |      |        12    13    14                                           26
+        8      9
+
+
+
+
+
+In breve: Storia interattiva, programmata tramite grafi e memorizzazione di eventi. La storia è ambientata in uno scenario
+          futuristico, con protagonista un ingegnere, catapultatosi in una cittadina metropolitana di periferia, insieme
+          al suo amato robot. Da qui la storia si evolve, con l'obiettivo del personaggio ad avere la condizione
+          economica rispettosa di prima. Il gioco si evolve tra vari personaggi incontrati come, tecnici, ingegneri, criminali,
+	  con sfondo le lotte clandestine tra robot.
+ 
