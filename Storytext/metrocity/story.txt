@@ -682,9 +682,9 @@ non si sa mai che puoi trovare persone interessanti che possano aiutarti per un 
 
 il tutto deve essere esclusivo a persone affidabili, insomma veri appassionati che non hanno niente a che vedere con il combattimento, tra
 
-robot!" Pensi che sia una buona idea e ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita precedente, ma d'altronde 
+robot! Domani abbiamo proprio l'incontro." Pensi che sia una buona idea e ti fidi di quello che ti dice, forse non ti aiuterà a tornare alla vita precedente, 
 
-non vedi altre alternative, a meno che vuoi rischiare e far finta di nulla.
+ma d'altronde non vedi altre alternative, a meno che vuoi rischiare e far finta di nulla.
 
 
 ENDTXT
@@ -693,6 +693,13 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
 BEGINTXT
 "Ci si vede domani!"
+ENDTXT
+
+{5}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+BEGINTXT
+"Max non c'è più."
 ENDTXT
 
 {6}
@@ -1193,7 +1200,7 @@ Tenaglia, il tuo robot lo strascina fuori dal ring tenendo immobilizzata la peri
 
 adesso siamo una squadra", ti dice Sally, "Ma sappi che non finisce qui. Fatti trovare domani sempre qui che organizziamo un altro match,
 
-intanto ecco la tua parte". L'unica tua risposta possibile è un si, vieni così scortato fino la binario della metro.
+intanto ecco la tua parte". L'unica tua risposta possibile è un si, vieni così scortato fino al binario della metro.
 
 ENDTXT
 
@@ -1898,7 +1905,7 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
 BEGINTXT
-Ti trovi alla stazione all'ora come d'accordo. "Bene, vedo che sei venuto!", ti dice il meccanico. Uscite dalla stazione,
+Ti trovi alla stazione come d'accordo. "Bene, vedo che sei venuto!", ti dice il meccanico. Uscite dalla stazione,
 
 percorrete qualche viuzza e entrate in una sala, di una chiesa abbandonata. Quello che vedi è una stanza grande, con
 
@@ -1916,7 +1923,7 @@ a guardare il tuo robot, scambiando con te anche qualche chiacchiera sulle propr
 
 il tuo robot, tu gli rispondi che l'hai costruito te durante quel poco tempo libero che avevi a disposizione quando lavoravi nella
 
-capitale e poi è stato modificato. Nel finire la frase una persona ti dice che quello è un robot corrazzato per lottare, mettendoti
+capitale e poi è stato modificato con il passare del tempo. Nel finire la frase una persona ti dice che quello è un robot corrazzato per lottare, mettendoti
 
 un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelta, perchè ti sei trovato sulla strada da un momento all'altro.
 
