@@ -1,0 +1,283 @@
+{1}
+1
+BEGINTXT
+"Sveglia, oggi aprono la caccia al gallo forcello, ti ricordo che ieri sera ti sei proposto a unirti con me alla caccia!". Riesci 
+
+a malapena ad aprire gli occhi sono le 5:10 di mattina. Riesci a intravedere tuo zio che ti sta parlando e anche abbastanza
+
+impaziente. Tra te pensi quanto mai ho voluto unirti a questa caccia..... 
+ENDTXT
+
+{2}
+1
+BEGINTXT
+
+"Allora ti alzi o cosa? Se entro 5 minuti non sei in piedi a fare colazione io ti lascio qui." Così chiude la porta della
+
+camera dove di solito vieni ospitato.
+
+ENDTXT
+
+{3}
+1
+BEGINTXT
+Ti svegli sono le 10 di mattina. Quando scendi c'è tua nonna che ti chiede se vuoi la colazione, dandoti del pelandrone.
+
+Accetti la colazione. La giornata è bella, con un cielo limpido azzurro, chissà come starà andando la caccia dello zio
+
+pensi tra te. Esci ti metti sulla panchina leggendo il giornale. Ti aspetta una delle solite giornate che vivi quando vai
+
+a trovare i tuoi nonni. La tua non caccia finisce qui!
+
+!$
+ENDTXT
+
+{4}
+1
+BEGINTXT
+E' ancora buio. "Finalmente ti sei deciso ad alzarti. Vedi di fare colazione, il gallo non ci aspetta!".... Fatto colazione
+
+tuo zio prende i due cani da caccia (non poi così brillanti). Caricati i cani sulla jeep, partite per verso il posto prediletto
+
+per cacciare il gallo (in realtà poi non così ricco faunisticamente). Arrivati sul luogo scendete insieme ai cani e vi
+
+incammimate verso il sentiero della montagna. Ancora sei assonnato e fatichi a camminare, per questo tuo zio ti fa tenere uno
+
+dei due cani al guinzaglio, che procedendo verso il sentiero ti trascina, obbligandoti a tenere un passo decente. Mentre sali
+
+senti il rumore del fiume che scorre a valle. Arrivate così alla fine del sentiero dove altri sentieri di diramano.
+
+"Bene siamo arrivati ora possiamo lasciare i cani e cominciare la nostra ricerca....", dice tuo zio.....
+
+ENDTXT
+
+
+{5}
+1
+BEGINTXT
+La pianura verde, è circondata da abeti con un ruscello che passa in mezzo.....
+
+  /\        /\    ...    /\
+ /  \      /  \   ...   /  \
+/    \    /    \  ...  /    \
+  ||        ||           ||   
+ /  \  ~~               /  \
+/    \   ~~            /    \ 
+  ||       ~~            ||  
+....         ~~           
+  /\               .........                 
+ /  \              ......... 
+/    \
+  ||      ...                                
+          ...
+          ...   
+
+
+
+
+ENDTXT
+
+{6}
+1
+BEGINTXT
+Proseguendo per il sentiero trovate un bivio.....
+
+ENDTXT
+
+{7}
+1
+BEGINTXT
+Il sentiero continua... O potete comunque tornare indietro....
+ENDTXT
+
+{9}
+1,9
+BEGINTXT
+
+Del gallo non c'è traccia........
+         ___..._
+    _,--'       "`-.
+  ,'.  .            \
+,/:. .     .       .'
+|;..  .      _..--'
+`--:...-,-'""\
+        |:.  `.
+        l;.   l
+        `|:.   |
+         |:.   `.,
+        .l;.    j, ,
+     `. \`;:.   //,/
+      .\\)`;,|\'/(
+       ` `itz `(, 
+
+
+ENDTXT
+
+{9}
+1
+BEGINTXT
+Deviate per il primo sentiero, in fondo si presenta una bella radura di bosco. Ci sono anche de funghi e alcuni sembrano anche 
+
+porcini. Tuo zio esclama "I cani non segnano niente in questa zona e oggi non è il giorno di andare per funghi!".
+
+         ___..._
+    _,--'       "`-.
+  ,'.  .            \
+,/:. .     .       .'
+|;..  .      _..--'
+`--:...-,-'""\
+        |:.  `.
+        l;.   l
+        `|:.   |
+         |:.   `.,
+        .l;.    j, ,
+     `. \`;:.   //,/
+      .\\)`;,|\'/(
+       ` `itz `(, 
+
+
+ENDTXT
+
+{10}
+1
+BEGINTXT
+Il sentiero di addentra, sempre più vicino al fiume e trovate un'altro bivio.....
+
+ENDTXT
+
+{11}
+1
+BEGINTXT
+Addentrandosi per questa seconda biforcazione, la vegetazione diventa più spessa, ma i cani sembra che non segnalino niente....
+ENDTXT
+
+{12}
+1
+BEGINTXT
+
+Arrivate così al fiume, con uno scenario molto bello che vi si presenta agli occhi.
+
+
+                                                            ---\=,__,>,_`-.     |
+       :  |  `"""V#######,,_ `-  ""##################' --z--;" /_/  `. `.   |
+          |          `/"""".`|`|| } }|.""""""""|"""""  --'//`/'  `    \  '. |
+    :          :      |:     ||   |  |  :   :  |   :   ,_\---_\._   :  `.\ |/
+                   :  /  :   |  |   || :  :      :    //--'> ___ ``-,_   \  \
+         `"^            :  ` ||   || |   :  :         '=-`',' / `-, __`-. |
+      :    :          : :  : |  |    ||    :     ---  //7;<\     / ,--._ ` |
+         .,      :        :  |   ||| || '       :     -/;\'/` -='/|(    \ \
+        %#'            :    `| |||    |  :   :      :  // '\   // | `    | |
+    :         :   `'   :  :  || # | |||    :            `    .        :  | 
+                         :   | ||#|#| | ':    :    :             :       ` 
+         '#"      :   :    : | ||,|, ||   :      /        :           |:  ||
+  ""'                    :  \\|\ X XX///`      :|   :    |   :      : |   |
+        :             :  / >\\> <\/\< 
+
+ENDTXT
+
+{13}
+1
+BEGINTXT
+C'è un bivio, dovete scegliere tra i due......
+ENDTXT
+
+{14}
+1
+BEGINTXT
+Il sentiero si addentra nella pineta, ma i cani non segnalano niente (sempre se di questi cani ci si può fidare).
+ENDTXT
+
+{15}
+1
+BEGINTXT
+I cani cominciano a essere sospettosi.....
+ENDTXT
+
+
+
+{16}
+1
+BEGINTXT
+Uno dei due cani è in ferma e segnala qualcosa tra gli abeti e uno spazio verde. Tuo zio si prepara a sparare.....
+
+Il gallo esce e con una traiettoria curva riesce a schivare i colpi del fucile. Il gallo è scappato!
+
+"Siamo alle solite, sempre nei posti più difficili si nascondono questi." Dice tuo zio....
+
+
+            __
+             /'{>
+         ____) (____
+       //'--;   ;--'\\
+      ///////\_/\\\\\\\
+jgs          m m
+
+
+ENDTXT
+
+{17}
+1
+BEGINTXT
+Il sentiero prosegue in avanti.... Puoi sempre tornare indietro....
+ENDTXT
+
+{18}
+1
+BEGINTXT
+Il sentiero si divide nuovamente....
+ENDTXT
+{18}
+1,16
+BEGINTXT
+
+I cani sembrano sospettosi....
+
+    ___
+ __/_  `.  .-"""-.
+ \_,` | \-'  /   )`-')
+  "") `"`    \  ((`"`
+ ___Y  ,    .'7 /|
+(_,___/...-` (_/_/ sk
+
+
+ENDTXT
+
+
+{19}
+1
+BEGINTXT
+Si apre uno spazio nel verde con molta vegetazione....
+
+
+        ,,,                      ,,,
+       {{{}}    ,,,             {{{}}    ,,,
+    ,,, ~Y~    {{{}},,,      ,,, ~Y~    {{{}},,, 
+   {{}}} |/,,,  ~Y~{{}}}    {{}}} |/,,,  ~Y~{{}}}
+    ~Y~ \|{{}}}/\|/ ~Y~  ,,, ~Y~ \|{{}}}/\|/ ~Y~  ,,,
+    \|/ \|/~Y~  \|,,,|/ {{}}}\|/ \|/~Y~  \|,,,|/ {{}}}
+    \|/ \|/\|/  \{{{}}/  ~Y~ \|/ \|/\|/  \{{{}}/  ~Y~
+    \|/\\|/\|/ \\|~Y~//  \|/ \|/\\|/\|/ \\|~Y~//  \|/
+    \|//\|/\|/,\\|/|/|// \|/ \|//\|/\|/,\\|/|/|// \|/
+jgs^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+ENDTXT
+
+{19}
+BEGINTXT
+1,16
+
+I cani avevano ragione a essere sospettosi. Adesso sono completamente in ferma. ENTRAMBI! Tuo zio si prepara per la 
+
+seconda volta ma tempo che punta il fucile il gallo sfugge via....
+ENDTXT
+
+{20}
+1
+BEGINTXT
+
+Il sentiero comincia a salire......
+
+ENDTXT
+
+ENDSTORY
