@@ -19,5 +19,8 @@ Punto diramazione sentiero pianeggiante.
 Fondo sentiero pianeggiante.
 Sentiero sopra il sentiero pianeggiante.
 Biforcazione sentiero.
+Sentierino che si dirama a est.
+Sentiero che sale.
+
 
 

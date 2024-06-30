@@ -185,6 +185,37 @@ ENDTXT
 1
 BEGINTXT
 Il sentiero si addentra nella pineta, ma i cani non segnalano niente (sempre se di questi cani ci si può fidare).
+
+A un certo punto il terreno scivola sotto i vostri piedi e cascate e con esso anche voi, scendendo una centinaia di metri.
+
+i cani sono sopra che continuano a girare per conto loro, ma purtroppo tuo zio ha preso una brutta storta alla caviglia.
+
+Pian, piano aiuti tuo zio a risalire, l'imperbia scarpata, ci mettete 2 ore, una volta sul sentiero decidete di tornare alla
+
+macchina con i vostri cani che vi seguono. La vostra caccia al gallo purtroppo finisce qui....
+
+Questo è forse il gallo che vi meritate!!!
+
+      ,~.
+   ,-'__ `-,
+  {,-'  `. }              ,')
+ ,( a )   `-.__         ,',')~,
+<=.) (         `-.__,==' ' ' '}
+  (   )                      /
+   `-'\   ,                  )
+       |  \        `~.      /
+       \   `._        \    /
+        \     `._____,'   /
+         `-.            ,'
+            `-.      ,-'
+               `~~~~'
+               //_||
+            __//--'/`   hjw
+          ,--'/`  '
+
+cocococococo.....cocococococo.....cocococococo
+!$
+
 ENDTXT
 
 {15}
@@ -279,5 +310,24 @@ BEGINTXT
 Il sentiero comincia a salire......
 
 ENDTXT
+
+{21}
+1
+BEGINTXT
+Siete probabilmente a metà altezza del monte.....
+ENDTXT
+
+{22}
+1
+BEGINTXT
+Non trovate nulla interessante... Intanto anche i cani si sono persi nel bosco....
+ENDTXT
+
+{23}
+1
+BEGINTXT
+Siete a uno dei principali incrocio del sentiero che sale verso la cima del monte.....
+ENDTXT
+
 
 ENDSTORY
