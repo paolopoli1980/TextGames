@@ -246,6 +246,27 @@ jgs          m m
 
 ENDTXT
 
+
+{16}
+1,16
+BEGINTXT
+
+Del gallo non c'è più traccia.....
+
+
+        ,,,                      ,,,
+       {{{}}    ,,,             {{{}}    ,,,
+    ,,, ~Y~    {{{}},,,      ,,, ~Y~    {{{}},,, 
+   {{}}} |/,,,  ~Y~{{}}}    {{}}} |/,,,  ~Y~{{}}}
+    ~Y~ \|{{}}}/\|/ ~Y~  ,,, ~Y~ \|{{}}}/\|/ ~Y~  ,,,
+    \|/ \|/~Y~  \|,,,|/ {{}}}\|/ \|/~Y~  \|,,,|/ {{}}}
+    \|/ \|/\|/  \{{{}}/  ~Y~ \|/ \|/\|/  \{{{}}/  ~Y~
+    \|/\\|/\|/ \\|~Y~//  \|/ \|/\\|/\|/ \\|~Y~//  \|/
+    \|//\|/\|/,\\|/|/|// \|/ \|//\|/\|/,\\|/|/|// \|/
+jgs^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ENDTXT
+
 {17}
 1
 BEGINTXT
@@ -301,6 +322,15 @@ BEGINTXT
 I cani avevano ragione a essere sospettosi. Adesso sono completamente in ferma. ENTRAMBI! Tuo zio si prepara per la 
 
 seconda volta ma tempo che punta il fucile il gallo sfugge via....
+
+ENDTXT
+
+{19}
+1,16,19
+BEGINTXT
+
+Il gallo non c'è più...... 
+
 ENDTXT
 
 {20}
@@ -329,5 +359,129 @@ BEGINTXT
 Siete a uno dei principali incrocio del sentiero che sale verso la cima del monte.....
 ENDTXT
 
+{24}
+1
+BEGINTXT
+Siete all'uscita del bosco, qui comincia la vegetazione di lata montagna....
+
+ENDTXT
+{25}
+1
+BEGINTXT
+Salite su un'altura del monte, i cani continuano a cercare, da qui vedete anche un versante del paese, ma del
+
+gallo non c'è traccia.
+
+ENDTXT
+
+{26}
+1
+BEGINTXT
+Continuate a camminare, seguendo il sentiero principale sulla parte superiore del monte....
+ENDTXT
+
+{27}
+1,27
+BEGINTXT
+Anche questa volta non scappate all'occhio della padrona di casa e subito vi invita inistementemente, a fermarvi e 
+
+fare uno spuntino con loro. Il profumo del formaggio e del buon salame con un ottimo bicchiere di vino invoglia tuo zio
+
+a fermarsi.
+
+                   )
+                 _(
+             ___|_|_________
+            /___|_|_________\
+       ()  /_________________\
+   `'.()))/___________________\'-.'`'.
+  .,'(())()   ____     ____  |,.'     '-.
+     )(()))  |)~~(|   |)~~(| |. '-. ()`'.
+    ()()(()) ||__||   ||__|| | `'.,(())
+   ())()(()))________________|___ ()))()
+   ()((())()))| | | | | | | | | | (()()))
+  ()))(()()())|_|_|_|_|_|_|_|_|_|)(()(()
+  (()((())(()-------------------|(())(())
+  ~^~ ^" ^"  ^~^   ^"   ~^~    ^~^~(()(()
+  ^"     ^~^   ~^~   ^"    ^~^   ~~^~""^
+Sher^
+
+Mangiate in compagnia, bevendo un buon bicchiere di vino (forse qualcosina di più), 
+
+  _
+ {_}
+ |(|
+ |=|
+/   \
+|.--|
+||  |
+||  |    .    ' .
+|'--|  '     \~~~/
+'-=-' \~~~/   \_/
+       \_/     Y
+        Y     _|_
+jgs    _|_
+
+
+          ___
+        .'o O'-._
+       / O o_.-`|
+      /O_.-'  O |
+      | o   o .-`
+jgs   |o O_.-'
+      '--`
+
+!$
+
+ENDTXT
+
+{27}
+1
+BEGINTXT
+Arrivate alla cascina, di una nota famiglia di montanari amici di tuo zio. Entrate e salutate. Loro molto ospitali vi invitano. 
+
+Tuo zio ringrazia, ma risponde che il gallo non aspetta nessuno e sente che questo è il giorno fortunato. Salutate e vi rimettete
+
+in cammino.
+
+
+                   )
+                 _(
+             ___|_|_________
+            /___|_|_________\
+       ()  /_________________\
+   `'.()))/___________________\'-.'`'.
+  .,'(())()   ____     ____  |,.'     '-.
+     )(()))  |)~~(|   |)~~(| |. '-. ()`'.
+    ()()(()) ||__||   ||__|| | `'.,(())
+   ())()(()))________________|___ ()))()
+   ()((())()))| | | | | | | | | | (()()))
+  ()))(()()())|_|_|_|_|_|_|_|_|_|)(()(()
+  (()((())(()-------------------|(())(())
+  ~^~ ^" ^"  ^~^   ^"   ~^~    ^~^~(()(()
+  ^"     ^~^   ~^~   ^"    ^~^   ~~^~""^
+Sher^
+
+ENDTXT
+
+
+
+{28}
+1
+BEGINTXT
+Si sale verso le vette più alte......
+ENDTXT
+
+{29}
+1
+BEGINTXT
+Siete arrivati a una delle cime del monte, cominciate a essere stanchi......
+ENDTXT
+
+{30}
+1
+BEGINTXT
+Siete arrivati a una delle cime del monte, cominciate a essere stanchi......
+ENDTXT
 
 ENDSTORY

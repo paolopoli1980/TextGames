@@ -21,6 +21,15 @@ Sentiero sopra il sentiero pianeggiante.
 Biforcazione sentiero.
 Sentierino che si dirama a est.
 Sentiero che sale.
+Spazio verde di alta montagna.
+Sentiero ripido che sale.
+Bivio in mezzo al prato.
+Sentiero che porta a una cascina.
+Sentiero che sale verso la cima della montagna.
+Sentiero cima 1.
+Sentiero cima 2.
+
+
 
 
 
