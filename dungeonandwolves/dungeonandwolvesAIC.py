@@ -383,14 +383,19 @@ def read_schema(nfile):
 
                         
                         
-level=2
-nattempt=100                        
+level=3
+nattempt=100
+
+level=int(input('Insert the exploration level of the agent (1,2,3):='))
+nattempt=int(input('Insert the number of the attempts:='))
+
+
 for ntemp in range(nattempt):
     n=100
     schema=[[0 for i in range(n)] for j in range(n)]
     hero=Player(n)
     wolves=[]
-    read_schema('5')
+    read_schema('3')
 
     pathnow=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
     hero.path=[schema[hero.y][hero.x-1],schema[hero.y][hero.x+1],schema[hero.y-1][hero.x],schema[hero.y+1][hero.x]]
