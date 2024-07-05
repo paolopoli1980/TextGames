@@ -387,7 +387,7 @@ level=3
 nattempt=100
 
 level=int(input('Insert the exploration level of the agent (1,2,3):='))
-nattempt=int(input('Insert the number of the attempts:='))
+nattempt=int(input('Insert the number of attempts:='))
 
 
 for ntemp in range(nattempt):
