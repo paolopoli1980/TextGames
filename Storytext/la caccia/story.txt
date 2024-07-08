@@ -41,7 +41,7 @@ tuo zio prende i due cani da caccia (non poi cosμ brillanti). Caricati i cani su
 
 per cacciare il gallo (in realtΰ poi non cosμ ricco faunisticamente). Arrivati sul luogo scendete insieme ai cani e vi
 
-incammimate verso il sentiero della montagna. Ancora sei assonnato e fatichi a camminare, per questo tuo zio ti fa tenere uno
+incamminate verso il sentiero della montagna. Ancora sei assonnato e fatichi a camminare, per questo tuo zio ti fa tenere uno
 
 dei due cani al guinzaglio, che procedendo verso il sentiero ti trascina, obbligandoti a tenere un passo decente. Mentre sali
 
@@ -51,6 +51,34 @@ senti il rumore del fiume che scorre a valle. Arrivate cosμ alla fine del sentie
 
 ENDTXT
 
+{5}
+5,5,5,5,5
+BEGINTXT
+La pianura verde, θ circondata da abeti con un ruscello che passa in mezzo.....
+
+  /\        /\    ...    /\
+ /  \      /  \   ...   /  \
+/    \    /    \  ...  /    \
+  ||        ||           ||   
+ /  \  ~~               /  \
+/    \   ~~            /    \ 
+  ||       ~~            ||  
+....         ~~           
+  /\               .........                 
+ /  \              ......... 
+/    \
+  ||      ...                                
+          ...
+          ...   
+
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
 
 {5}
 1
@@ -78,6 +106,18 @@ La pianura verde, θ circondata da abeti con un ruscello che passa in mezzo.....
 ENDTXT
 
 {6}
+6,6,6,6,6
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
+
+{6}
 1
 BEGINTXT
 Proseguendo per il sentiero trovate un bivio.....
@@ -85,9 +125,63 @@ Proseguendo per il sentiero trovate un bivio.....
 ENDTXT
 
 {7}
+7,7,7,7,7
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
+
+{7}
 1
 BEGINTXT
 Il sentiero continua... O potete comunque tornare indietro....
+ENDTXT
+
+{8}
+8,8,8,8,8
+BEGINTXT
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+ENDTXT
+{8}
+1
+BEGINTXT
+Il sentiero continua e sale sempre di piω....
+ENDTXT
+
+{9}
+9,9,9,9,9
+BEGINTXT
+         ___..._
+    _,--'       "`-.
+  ,'.  .            \
+,/:. .     .       .'
+|;..  .      _..--'
+`--:...-,-'""\
+        |:.  `.
+        l;.   l
+        `|:.   |
+         |:.   `.,
+        .l;.    j, ,
+     `. \`;:.   //,/
+      .\\)`;,|\'/(
+       ` `itz `(, 
+
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
 ENDTXT
 
 {9}
@@ -116,6 +210,7 @@ ENDTXT
 {9}
 1
 BEGINTXT
+
 Deviate per il primo sentiero, in fondo si presenta una bella radura di bosco. Ci sono anche de funghi e alcuni sembrano anche 
 
 porcini. Tuo zio esclama "I cani non segnano niente in questa zona e oggi non θ il giorno di andare per funghi!".
@@ -137,11 +232,33 @@ porcini. Tuo zio esclama "I cani non segnano niente in questa zona e oggi non θ 
 
 
 ENDTXT
+{10}
+10,10,10,10,10
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
 
 {10}
 1
 BEGINTXT
-Il sentiero di addentra, sempre piω vicino al fiume e trovate un'altro bivio.....
+Il sentiero di addentra, sempre piω vicino al fiume e trovate un altro bivio.....
+
+ENDTXT
+
+{11}
+11,11,11,11,11
+BEGINTXT
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
 
 ENDTXT
 
@@ -149,6 +266,40 @@ ENDTXT
 1
 BEGINTXT
 Addentrandosi per questa seconda biforcazione, la vegetazione diventa piω spessa, ma i cani sembra che non segnalino niente....
+ENDTXT
+
+
+{12}
+12,12,12,12,12
+BEGINTXT
+
+Arrivate cosμ al fiume, con uno scenario molto bello che vi si presenta agli occhi.
+
+
+                                                            ---\=,__,>,_`-.     |
+       :  |  `"""V#######,,_ `-  ""##################' --z--;" /_/  `. `.   |
+          |          `/"""".`|`|| } }|.""""""""|"""""  --'//`/'  `    \  '. |
+    :          :      |:     ||   |  |  :   :  |   :   ,_\---_\._   :  `.\ |/
+                   :  /  :   |  |   || :  :      :    //--'> ___ ``-,_   \  \
+         `"^            :  ` ||   || |   :  :         '=-`',' / `-, __`-. |
+      :    :          : :  : |  |    ||    :     ---  //7;<\     / ,--._ ` |
+         .,      :        :  |   ||| || '       :     -/;\'/` -='/|(    \ \
+        %#'            :    `| |||    |  :   :      :  // '\   // | `    | |
+    :         :   `'   :  :  || # | |||    :            `    .        :  | 
+                         :   | ||#|#| | ':    :    :             :       ` 
+         '#"      :   :    : | ||,|, ||   :      /        :           |:  ||
+  ""'                    :  \\|\ X XX///`      :|   :    |   :      : |   |
+        :             :  / >\\> <\/\< 
+
+Nonostante la bellezza del posto, questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo 
+
+la giornata sta per finire. 
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+
 ENDTXT
 
 {12}
@@ -176,6 +327,18 @@ Arrivate cosμ al fiume, con uno scenario molto bello che vi si presenta agli occ
 ENDTXT
 
 {13}
+13,13,13,13,13
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
+
+{13}
 1
 BEGINTXT
 C'θ un bivio, dovete scegliere tra i due......
@@ -190,7 +353,7 @@ A un certo punto il terreno scivola sotto i vostri piedi e cascate e con esso an
 
 i cani sono sopra che continuano a girare per conto loro, ma purtroppo tuo zio ha preso una brutta storta alla caviglia.
 
-Pian, piano aiuti tuo zio a risalire, l'imperbia scarpata, ci mettete 2 ore, una volta sul sentiero decidete di tornare alla
+Pian, piano aiuti tuo zio a risalire, l'impervia scarpata, ci mettete 2 ore, una volta sul sentiero decidete di tornare alla
 
 macchina con i vostri cani che vi seguono. La vostra caccia al gallo purtroppo finisce qui....
 
@@ -217,6 +380,17 @@ cocococococo.....cocococococo.....cocococococo
 !$
 
 ENDTXT
+{15}
+15,15,15,15,15
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
 
 {15}
 1
@@ -224,6 +398,17 @@ BEGINTXT
 I cani cominciano a essere sospettosi.....
 ENDTXT
 
+{16}
+16,16,16,16,16
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
 
 
 {16}
@@ -254,16 +439,17 @@ BEGINTXT
 Del gallo non c'θ piω traccia.....
 
 
-        ,,,                      ,,,
-       {{{}}    ,,,             {{{}}    ,,,
-    ,,, ~Y~    {{{}},,,      ,,, ~Y~    {{{}},,, 
-   {{}}} |/,,,  ~Y~{{}}}    {{}}} |/,,,  ~Y~{{}}}
-    ~Y~ \|{{}}}/\|/ ~Y~  ,,, ~Y~ \|{{}}}/\|/ ~Y~  ,,,
-    \|/ \|/~Y~  \|,,,|/ {{}}}\|/ \|/~Y~  \|,,,|/ {{}}}
-    \|/ \|/\|/  \{{{}}/  ~Y~ \|/ \|/\|/  \{{{}}/  ~Y~
-    \|/\\|/\|/ \\|~Y~//  \|/ \|/\\|/\|/ \\|~Y~//  \|/
-    \|//\|/\|/,\\|/|/|// \|/ \|//\|/\|/,\\|/|/|// \|/
-jgs^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ENDTXT
+{17}
+17,17,17,17,17
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
 
 ENDTXT
 
@@ -316,12 +502,32 @@ jgs^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ENDTXT
 
 {19}
-BEGINTXT
 1,16
+BEGINTXT
 
 I cani avevano ragione a essere sospettosi. Adesso sono completamente in ferma. ENTRAMBI! Tuo zio si prepara per la 
 
 seconda volta ma tempo che punta il fucile il gallo sfugge via....
+
+
+            __
+             /'{>
+         ____) (____
+       //'--;   ;--'\\
+      ///////\_/\\\\\\\
+jgs          m m
+
+
+ENDTXT
+{19}
+19,19,19,19,19
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
 
 ENDTXT
 
@@ -371,6 +577,20 @@ BEGINTXT
 Salite su un'altura del monte, i cani continuano a cercare, da qui vedete anche un versante del paese, ma del
 
 gallo non c'θ traccia.
+
+             /\
+            /**\
+           /****\
+          /      \
+         /YYYYYYYY\
+        /YYYYYYYYYY\
+
+μμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμ
+μμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμ
+μμμμμμμμμμ........μμμμμμμμμμμμμ
+μμμμμμμμμμ........μμμμμμμμμμμμμ
+μμμμμμμμμμ........μμμμμμμμμμμμμ
+
 
 ENDTXT
 
@@ -473,10 +693,21 @@ Si sale verso le vette piω alte......
 ENDTXT
 
 {29}
+1,16,19
+BEGINTXT
+Uno dei due cani θ in ferma, mentre l'altro passa tranquillamente accanto al gallo facendolo volare via. "Ecco siamo alle solite,
+
+i soliti cani incompetenti…" esclama tuo zio…
+
+
+ENDTXT
+
+{29}
 1
 BEGINTXT
 Siete arrivati a una delle cime del monte, cominciate a essere stanchi......
 ENDTXT
+
 
 {30}
 1
