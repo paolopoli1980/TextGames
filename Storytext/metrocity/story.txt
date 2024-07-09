@@ -257,7 +257,7 @@ In questa fermata non trovi nulla di interessante, tranne qualche vecchio mozzic
 
 sigaretta per terra, ormai trovabili solo in qualche luogo sperduto malfamato, come qualche fermata di questa 
 
-vecchia metropolitana abbondanata a se stessa.
+vecchia metropolitana abbondonata a se stessa.
 
 
   =   =    =      
@@ -275,7 +275,7 @@ ENDTXT
 {3}
 1
 BEGINTXT
-Una porta incostudita è chiusa, eppure hai una vaga impressione che c'è vita dietro a tale porta.
+Una porta incustodita è chiusa, eppure hai una vaga impressione che c'è vita dietro a tale porta.
 
 Ti avvicini alla porta, provi a bussare ma non succede nulla.
 
@@ -376,7 +376,7 @@ ENDTXT
 1,11,8,3,5,3,9,32,27
 BEGINTXT
 
-Ora i soldi li hai, ma la tua coscienza ti dice che prima di iscriversi, è meglio dare il 50%, al tuo cosidetto datore di lavoro.
+Ora i soldi li hai, ma la tua coscienza ti dice che prima di iscriversi, è meglio dare il 50%, al tuo cosiddetto datore di lavoro.
 
 ENDTXT
 
@@ -385,7 +385,7 @@ ENDTXT
 1,11,8,3,5,3,9,32,27,32
 BEGINTXT
 
-Bene ci siamo dai una parte del denaro guadagnato a Anglus per iscriverti al torneo, fai così garegggiare il tuo robot!
+Bene ci siamo dai una parte del denaro guadagnato a Anglus per iscriverti al torneo, fai così gareggiare il tuo robot!
 
 
       \_/
@@ -445,7 +445,7 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
 BEGINTXT
-"Allora come va? Ho sentito che ti sei messo in affari con Sally! Ascolta bene lasciala perdere quela prima o poi ti frega!.
+"Allora come va? Ho sentito che ti sei messo in affari con Sally! Ascolta bene lasciala perdere quella prima o poi ti frega!.
 
 Il tuo robot ha sicuramente delle potenzialità dopo le modifiche di Pablo e Renato e sicuramente escogiterà un modo per 
 
@@ -753,7 +753,7 @@ ENDTXT
 1,11,8,3,5,3
 BEGINTXT
 
-Trovi ancora il tizio, questa volta gli chiedi come è possible guadagnare vendendo quella roba. Lui ti dice che non è difficile, 
+Trovi ancora il tizio, questa volta gli chiedi come è possibile guadagnare vendendo quella roba. Lui ti dice che non è difficile, 
 
 basta avere il "giro giusto". Vai alla fermata del quartiere AUSTR, e li troverai le persone adatte. Poi si gira e ti saluta.
 
@@ -1114,7 +1114,7 @@ proibito da tenere. Ti chiedi anche come abbiano ottenuto un robot di questo gen
 
 stai per essere imbrogliato. Cerchi di replicare, ma gli scagnozzi ti dicono zitto e goditi l'incontro. Inutile dire che 
 
-perdi l'incontro, il tuo avvesario ultra corrazzato non subisce nessun danno, fino a che con un fascio laser mette
+perdi l'incontro, il tuo avversario ultra corrazzato non subisce nessun danno, fino a che con un fascio laser mette
 
 fuori uso il tuo robot. "Incontro finito il tuo robot ora è nostro!", ti dice uno dei tizi. In poco ti trovi fuori dalla stazione
 
@@ -1346,7 +1346,7 @@ a chiacchierare e senti Pablo dire la seguente frase: "Sei impazzito quella lo d
 
 di non preoccuparsi che il robot se sistemato ci farà vincere tante gare. E' sera e vieni invitato,
 
-a dormire da loro, passano parte della notte a lavorare sul miglioramento del robot, con pezzi di altà qualità.
+a dormire da loro, passano parte della notte a lavorare sul miglioramento del robot, con pezzi di alta qualità.
 
 Nel frattempo ti chiedi perchè, essi non abbiano un proprio robot, da fare gareggiare, ma questo è uno dei 
 
@@ -1428,7 +1428,7 @@ ENDTXT
 BEGINTXT
 Giri per questa particolare stazione. Qualche squillo comincia a chiamarti...."Ehi! vuoi fare un giro....non costo poi così tanto...". 
 
-Prendi subito l'occasione per chiedere di Sally. La tizia ti risponde " Perchè che ha più di me?", gli dici che è importante.
+Prendi subito l'occasione per chiedere di Sally. La tizia ti risponde " Perché che ha più di me?", gli dici che è importante.
 
 Velocemente se ne va, e torna con due tizi poco raccomandabili e senti per un attimo un tremito di paura. I tizi ti guardano e ti dicono
 
@@ -1579,7 +1579,7 @@ vorresti dirli che in tutto questo non hai guadagnato nulla, ma preferisci zitti
 
 Anglus non ne avete più bisogno e che è ora di passare alle lotte serie. Lei ti farà altri prestiti e questa volta, terrai il 
 
-50% delle vincite del quale darai solo il 10% a Pablo e Renato, perchè lei glielo imporrà e che sicuramente loro non diranno nulla.
+50% delle vincite del quale darai solo il 10% a Pablo e Renato, perché lei glielo imporrà e che sicuramente loro non diranno nulla.
 
 Capisci che Sally è molto influente nel giro, nonostante sia una donna forse sulla quarantina, ma come in altre circostanze pensi
 
@@ -1917,7 +1917,7 @@ che crede a un qualcosa senza scopo di lucro. Per un momento pensi, che parte di
 
 alla metropoli che ti ha messo sulla strada. Max ti porta in uno spazio piccolo dove puoi mostrare il tuo robot, alla gente
 
-iteressata all'evento. Incuriosito ti metti proprio nella postazione assegnata. Nel frattempo varie persone si fermano interessate
+interessata all'evento. Incuriosito ti metti proprio nella postazione assegnata. Nel frattempo varie persone si fermano interessate
 
 a guardare il tuo robot, scambiando con te anche qualche chiacchiera sulle proprie passioni e su quanto sia interessante
 
@@ -1925,11 +1925,11 @@ il tuo robot, tu gli rispondi che l'hai costruito te durante quel poco tempo lib
 
 capitale e poi è stato modificato con il passare del tempo. Nel finire la frase una persona ti dice che quello è un robot corrazzato per lottare, mettendoti
 
-un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelta, perchè ti sei trovato sulla strada da un momento all'altro.
+un po' in imbarazzo. Gli rispondi di si e che purtroppo non avevi scelta, perché ti sei trovato sulla strada da un momento all'altro.
 
-Guardando le facce delle tre persone con il quale stai iterloquendo, intuisci che probabilmente capiscono la tua situazione.
+Guardando le facce delle tre persone con il quale stai interloquendo, intuisci che probabilmente capiscono la tua situazione.
 
-Uno dei tre ti chiede perchè e come sei arrivato in questo posto, tu gli rispondi che dopo pochi match, hai capito che quella
+Uno dei tre ti chiede perché e come sei arrivato in questo posto, tu gli rispondi che dopo pochi match, hai capito che quella
 
 non era la tua strada. Uno tra le persone ti chiede se saresti interessato a un progetto di intrattenimento. Si tratta di un circo 
 
@@ -2018,7 +2018,7 @@ un gruppo che sembra non appartenere a questa cittadina di periferia abbandonata
 
 giravano quando vivevi nella tua bella città riguardo a gente benestante con il vizio delle scommesse, siano vere. "Bene ecco il nostro
 
-cavallo vincente", dice Sally presentandoti all sua maniera. Uno del gruppo ti guarda, e esclama "Lo vedremo presto". Se sei
+cavallo vincente", dice Sally presentandoti alla sua maniera. Uno del gruppo ti guarda, e esclama "Lo vedremo presto". Se sei
 
 ancora vivo la cosa certa è che non hai visitato la stazione CyberPunk. Bene troviamoci oggi pomeriggio alla stazione CyberPunk
 
