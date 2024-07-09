@@ -246,7 +246,7 @@ Buon viaggio!
 
 è quello che trovi scritto su un muro della stazione periferica più vicina alla città da dove vieni, ma che adesso per problemi
 
-economici non puoi più tornare.
+economici non puoi più tornarci.
 
 ENDTXT
 
