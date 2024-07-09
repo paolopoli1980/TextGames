@@ -344,6 +344,7 @@ BEGINTXT
 C'θ un bivio, dovete scegliere tra i due......
 ENDTXT
 
+
 {14}
 1
 BEGINTXT
@@ -460,6 +461,18 @@ Il sentiero prosegue in avanti.... Puoi sempre tornare indietro....
 ENDTXT
 
 {18}
+18,18,18,18,18
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
+
+{18}
 1
 BEGINTXT
 Il sentiero si divide nuovamente....
@@ -480,6 +493,18 @@ I cani sembrano sospettosi....
 
 ENDTXT
 
+
+{19}
+19,19,19,19,19
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
 
 {19}
 1
@@ -540,10 +565,33 @@ Il gallo non c'θ piω......
 ENDTXT
 
 {20}
+20,20,20,20,20
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
+
+{20}
 1
 BEGINTXT
 
 Il sentiero comincia a salire......
+
+ENDTXT
+{21}
+21,21,21,21,21
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
 
 ENDTXT
 
@@ -554,9 +602,33 @@ Siete probabilmente a metΰ altezza del monte.....
 ENDTXT
 
 {22}
+22,22,22,22,22
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
+
+{22}
 1
 BEGINTXT
 Non trovate nulla interessante... Intanto anche i cani si sono persi nel bosco....
+ENDTXT
+
+{23}
+23,23,23,23,23
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
 ENDTXT
 
 {23}
@@ -566,11 +638,45 @@ Siete a uno dei principali incrocio del sentiero che sale verso la cima del mont
 ENDTXT
 
 {24}
+24,24,24,24,24
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
+
+ENDTXT
+
+{24}
 1
 BEGINTXT
 Siete all'uscita del bosco, qui comincia la vegetazione di lata montagna....
 
 ENDTXT
+
+{25}
+25,25,25
+BEGINTXT
+Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!!
+
+             /\
+            /**\
+           /****\
+          /      \
+         /YYYYYYYY\
+        /YYYYYYYYYY\
+
+μμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμ
+μμμμμμμμμμμμμμμμμμμμμμμμμμμμμμμ
+μμμμμμμμμμ........μμμμμμμμμμμμμ
+μμμμμμμμμμ........μμμμμμμμμμμμμ
+μμμμμμμμμμ........μμμμμμμμμμμμμ
+
+
+ENDTXT
+
 {25}
 1
 BEGINTXT
@@ -597,7 +703,33 @@ ENDTXT
 {26}
 1
 BEGINTXT
-Continuate a camminare, seguendo il sentiero principale sulla parte superiore del monte....
+
+Continuate a camminare, seguendo il sentiero principale sulla parte superiore del monte. Ci sono anche delle mucche
+
+che pascolano.
+
+                  ___('-&&&-')__
+                 '.__./     \__.'
+     _     _     _ .-'  6  6 \
+   /` `--'( ('--` `\         |
+  /        ) )      \ \ _   _|
+ |        ( (        | (0_._0)
+ |         ) )       |/ '---'
+ |        ( (        |\_
+ |         ) )       |( \,
+  \       ((`       / )__/
+   |     /:))\     |   d
+   |    /:((::\    |
+   |   |:::):::|   |
+   /   \::&&:::/   \
+   \   /;U&::U;\   /
+    | | | u:u | | |
+    | | \     / | |
+jgs | | _|   | _| |
+    / \""`   `""/ \
+   | __|       | __|
+   `"""`       `"""`
+
 ENDTXT
 
 {27}
@@ -700,6 +832,25 @@ Uno dei due cani θ in ferma, mentre l'altro passa tranquillamente accanto al gal
 i soliti cani incompetenti…" esclama tuo zio…
 
 
+  :                      :
+  ::                    ::
+  ::`.     .-""-.     .'::
+  : `.`-._ : '>': _.-'.' :
+  :`. `=._`'.  .''_.=' .':
+   : `=._ `- '' -' _.-'.:
+    :`=._`=.    .='_.=':
+     `.._`.      .'_..'
+       `-.:      :.-'
+          :      :
+     jgs  `:.__.:'
+           :    :
+          -'=  -'=
+
+             .--~~,__
+   :-....,-------`~~'._.'
+    `-,,,  ,_      ;'~U'
+     _,-' ,'`-__; '--.
+    (_/'~~      ''''(;
 ENDTXT
 
 {29}

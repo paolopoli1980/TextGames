@@ -1,7 +1,7 @@
 Mattina inizio della giornata.
 Decidi di stare a letto.
 Insisti a stare a letto.
-Ti alzi e ti prepari pronto, alla caccia del capriolo.
+Ti alzi e ti prepari pronto, alla caccia del gallo.
 Pianura verde.
 Inizio sentiero che porta al fiume.
 Inizio sentiero che procede dritto.
@@ -10,7 +10,7 @@ Primo sentiero laterale del sentiero verso il fiume.
 Prima continuazione del sentiero verso il fiume.
 Secondo sentiero laterale del sentiero verso il fiume.
 Seconda continuazione sentiero verso il fiume.
-Sentiero deviante verso il basso.
+Spazio sotto il sentiero preso.
 Prima biforcazione dal sentiero preso.
 Continuazione del sentiero preso.
 Uscita sentiero.
@@ -18,12 +18,12 @@ Continuazione sentiero pianeggiante.
 Punto diramazione sentiero pianeggiante.
 Fondo sentiero pianeggiante.
 Sentiero sopra il sentiero pianeggiante.
-Biforcazione sentiero.
+Nel mezzo del sentiero preso.
 Sentierino che si dirama a est.
-Sentiero che sale.
+Inizio sentiero principale che va alle cime.
 Spazio verde di alta montagna.
 Sentiero ripido che sale.
-Bivio in mezzo al prato.
+Bivio in mezzo al prato, pascolato dalle mucche.
 Sentiero che porta a una cascina.
 Sentiero che sale verso la cima della montagna.
 Sentiero cima 1.
