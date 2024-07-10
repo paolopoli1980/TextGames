@@ -1,6 +1,6 @@
 {1}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,26,5,1,31
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,26,5,1,31
 BEGINTXT
 Questa volta tornare all'ostello non è stata una buona idea. Gli scagnozzi di Sally ti stanno aspettando, sanno dello sgarro e 
 
@@ -433,8 +433,8 @@ Non ti è bastata la lezione! Sarà meglio che potenzi quel robot il prima possibi
 ENDTXT
 
 {3}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3
 BEGINTXT
 
 "Ascolta il mio consiglio e vai adesso!!"
@@ -442,8 +442,8 @@ BEGINTXT
 ENDTXT
 
 {3}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 BEGINTXT
 "Allora come va? Ho sentito che ti sei messo in affari con Sally! Ascolta bene lasciala perdere quella prima o poi ti frega!.
 
@@ -510,7 +510,7 @@ al miglioramento dell'algoritmo che Pablo ha attuato, il colpo successivo è del 
 
 "Complimenti il tuo robot è riuscito a battere il migliore robot che abbiamo, prendi la tua quota di vincita ma sappi che qui non entri più, meglio che 
 
-ti trovi altri giri qui con noi hai finito" ti dice Anglus. Pablo e Renato sono ad aspettarti e si prendono la sua quota, il resto lo dovrai dare 
+ti trovi altri giri qui con noi hai finito" ti dice Anglus. Pablo e Renato sono ad aspettarti e si prendono la loro quota, il resto lo dovrai dare 
 
 tutto a Sally, visto che questa era una prova. A questo ci pensa uno suo scagnozzo venuto apposta per riscattare la vincita in caso di vittoria. Dopo avere dato
 
@@ -633,6 +633,15 @@ BEGINTXT
 Dici al meccanico che hai trovato Pablo. Lui risponde molto bene....
 
 ENDTXT
+{5}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,25
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,25
+BEGINTXT
+
+Max è come sempre seduto sulla sua panchina….
+
+
+ENDTXT
 
 
 {5}
@@ -645,8 +654,8 @@ Adesso devi trovare Pablo.....
 ENDTXT
 
 {5}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3
 BEGINTXT
 
 Trovi come sempre Max, gli spieghi la tua storia e gli consegni il robot. Lui accetta e ti dice che è stata
@@ -657,8 +666,8 @@ poi torna da me".......
 
 ENDTXT
 {5}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,5
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,5
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5
 BEGINTXT
 
 "Su cosa aspetti datti da fare, fai quello che ti ho detto!"
@@ -666,8 +675,8 @@ BEGINTXT
 ENDTXT
 
 {5}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5,26
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5,26
 BEGINTXT
 
 "Ok fatto... penso che ci abbia creduto!", "Speriamo!" ti risponde il meccanico. "Ascolta noi una volta a settimana organizziamo
@@ -689,15 +698,15 @@ ma d'altronde non vedi altre alternative, a meno che vuoi rischiare e far finta 
 
 ENDTXT
 {5}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5,26,5
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5,26,5
 BEGINTXT
 "Ci si vede domani!"
 ENDTXT
 
 {5}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5,26,5,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5,26,5,1
 BEGINTXT
 "Max non c'è più."
 ENDTXT
@@ -845,8 +854,8 @@ Un'altra stazione di periferia, poco frequentata.
 
 ENDTXT
 {15}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,1,26,5,1,31,15
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,1,26,5,1,31,15
 BEGINTXT
 
 
@@ -863,8 +872,8 @@ Una giornata interessante ti aspetta!
 
 ENDTXT
 {15}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,1,26,5,1,31
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,1,26,5,1,31
 BEGINTXT
 Ripensando a quello che ti ha detto Max, capisci che tornare all'ostello non è la migliore idea e forse potresti ritentare di 
 
@@ -1078,6 +1087,25 @@ HAI PERSO!!!!!!!!
 ENDTXT
 
 {21}
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,5
+BEGINTXT
+"Come ti permetti a venire senza robot!", Due scagnozzi ti prendono, portandoti via. Ti trovi così in un angolo di un vicolo cieco, accasciato a terra…
+
+
+                  *
+                  *
+               *******
+                  *
+                  *
+                  *
+!$
+
+
+ENDTXT
+
+
+{21}
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1
 BEGINTXT
@@ -1161,7 +1189,7 @@ Percepisci un chiaro pericolo. La gente il luogo tutto non ti convince ma adesso
 
 rischio c'è probabilmente anche la tua vita. Il cancello si apre e all'interno trovi un ring, con gente intorno,
 
-(gente che sembra altamente allocata). Sally ti prende in parte e ti dice "Bene vediamo di che pasta è fatto il tuo robot 
+(gente che sembra altamente locata). Sally ti prende in parte e ti dice "Bene vediamo di che pasta è fatto il tuo robot 
 
 e come Pablo e Renato l'hanno sistemato bene...." aggiunge poi " D'altronde penso che il tuo destino dipenda dall'incontro di 
 
@@ -1365,7 +1393,7 @@ che forse è l'ora buona. C'è solo un problema, il denaro per scommettere non c'è
 
 Pablo ti prende in disparte e ti dice di andare alla stazione Asimov e chiedere di Sally, dicendogli che ti manda Pablo.
 
-L'ingegnere dei bassifondi, ti dice di parlare con lei e chiederli di un prestito per potere scommettere sulle gare.
+L'ingegnere dei bassifondi, ti dice di parlare con lei e chiederle un prestito per potere scommettere sulle gare.
 
 Tu rispondi che pensi che non sia il caso di rischiare chiedendo prestiti, ottenendo come risposta che questa è 
 
@@ -1571,7 +1599,7 @@ ENDTXT
 1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3
 1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3
 BEGINTXT
-"Ben tornato! Bene vedo che hai passato la prova. Se continui così potremmo essere un'ottima squadra. Mi hanno raccontato
+"Ben tornato! Bene vedo che hai passato la prova. Se continui così potremo essere un'ottima squadra. Mi hanno raccontato
 
 che hai fatto a pezzi il robot preferito di Anglus e ti ha bannato dal suo locale!" Rispondi timidamente si e 
 
@@ -1697,8 +1725,8 @@ Un altro capolinea di questa metropolitana......
 ENDTXT
 
 {29}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1,31,15
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,26,5,1,31,15
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,26,5,1,31,15
 BEGINTXT
 Scendi e esci dalla stazione in fondo al viale, trovi un tendone e capisci che dev'essere quello di Elio.
 
@@ -1902,8 +1930,8 @@ Un' altra stazione terminale....
 ENDTXT
 
 {31}
-1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
-1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,3,26,5,1
+1,8,11,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,26,5,1
+1,11,8,3,5,3,9,32,27,32,5,25,1,25,26,3,26,15,33,21,1,3,26,5,1
 BEGINTXT
 Ti trovi alla stazione come d'accordo. "Bene, vedo che sei venuto!", ti dice il meccanico. Uscite dalla stazione,
 
