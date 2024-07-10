@@ -5,7 +5,7 @@ Ti alzi e ti prepari pronto, alla caccia del gallo.
 Pianura verde.
 Inizio sentiero che porta al fiume.
 Inizio sentiero che procede dritto.
-Inizio del sentiero che sale.
+Inizio del sentiero sopra la pianura verde.
 Primo sentiero laterale del sentiero verso il fiume.
 Prima continuazione del sentiero verso il fiume.
 Secondo sentiero laterale del sentiero verso il fiume.
@@ -18,7 +18,7 @@ Continuazione sentiero pianeggiante.
 Punto diramazione sentiero pianeggiante.
 Fondo sentiero pianeggiante.
 Sentiero sopra il sentiero pianeggiante.
-Nel mezzo del sentiero preso.
+A metà sopra il sentiero pianeggiante.
 Sentierino che si dirama a est.
 Inizio sentiero principale che va alle cime.
 Spazio verde di alta montagna.
@@ -26,10 +26,5 @@ Sentiero ripido che sale.
 Bivio in mezzo al prato, pascolato dalle mucche.
 Sentiero che porta a una cascina.
 Sentiero che sale verso la cima della montagna.
-Sentiero cima 1.
-Sentiero cima 2.
-
-
-
-
-
+Sentiero che sale sulla prima cima.
+Sentiero che sale sulla seconda cima.

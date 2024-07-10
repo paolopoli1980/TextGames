@@ -158,6 +158,38 @@ Il sentiero continua e sale sempre di piω....
 ENDTXT
 
 {9}
+16,18,29,5,6
+BEGINTXT
+Arrivati, i cani vanno entrambi in ferma, subito. Tuo zio θ sorpreso per la seconda volta 
+
+di dove il gallo si sia rifugiato anche questa volta. I gallo θ proprio imprevedibile!!
+
+                  ;~~,__
+   :-....,-------'`-'._.'
+    `-,,,  ,       ,'~~'
+        ; ,'~.__; /--.
+        :| :|   :|``(;
+        `-'`-'  `-'
+
+Questa volta si prepara bene. I cani lentamente si avvicinano ed ecco che il gallo esce! BAM, BAM il fucile spara all'uscita
+
+del gallo e questa volta θ preso!
+
+
+Il gallo si accascia a terra...
+ 
+  .`.   _ _
+__;_ \ /,//`
+--, `._) (
+ '//,,,  |
+      )_/
+ sk  /_|
+
+
+!$
+ENDTXT
+
+{9}
 9,9,9,9,9
 BEGINTXT
          ___..._
@@ -350,7 +382,7 @@ ENDTXT
 BEGINTXT
 Il sentiero si addentra nella pineta, ma i cani non segnalano niente (sempre se di questi cani ci si puς fidare).
 
-A un certo punto il terreno scivola sotto i vostri piedi e cascate e con esso anche voi, scendendo una centinaia di metri.
+A un certo punto il terreno scivola sotto i vostri piedi e cascate entrambi, scendendo una centinaia di metri.
 
 i cani sono sopra che continuano a girare per conto loro, ma purtroppo tuo zio ha preso una brutta storta alla caviglia.
 
@@ -477,6 +509,15 @@ ENDTXT
 BEGINTXT
 Il sentiero si divide nuovamente....
 ENDTXT
+{18}
+1,16,19
+BEGINTXT
+
+Tutto sembra tranquillo.....
+
+ENDTXT
+
+
 {18}
 1,16
 BEGINTXT
@@ -614,6 +655,35 @@ La vostra avventura finisce qui, in un andare e vieni senza senso ......
 ENDTXT
 
 {22}
+16,18,29
+BEGINTXT
+Arrivati, i cani vanno entrambi in ferma, subito. Tuo zio θ sorpreso che il gallo si sia rifugiato in questo angolo di bosco.
+
+                  ;~~,__
+   :-....,-------'`-'._.'
+    `-,,,  ,       ,'~~'
+        ; ,'~.__; /--.
+        :| :|   :|``(;
+        `-'`-'  `-'
+
+Questa volta si prepara bene. I cani lentamente si avvicinano ed ecco che il gallo esce! BAM, BAM il fucile spara all'uscita
+
+del gallo, ma per la seconda volta tuo zio lo manca!
+
+
+            __
+             /'{>
+         ____) (____
+       //'--;   ;--'\\
+      ///////\_/\\\\\\\
+jgs          m m
+
+
+
+ENDTXT
+
+
+{22}
 1
 BEGINTXT
 Non trovate nulla interessante... Intanto anche i cani si sono persi nel bosco....
@@ -697,6 +767,17 @@ gallo non c'θ traccia.
 μμμμμμμμμμ........μμμμμμμμμμμμμ
 μμμμμμμμμμ........μμμμμμμμμμμμμ
 
+
+ENDTXT
+{26}
+26,26,26,26,26
+BEGINTXT
+
+Questa θ l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
+
+La vostra avventura finisce qui, in un andare e vieni senza senso ......
+
+!$
 
 ENDTXT
 
@@ -817,15 +898,32 @@ Sher^
 ENDTXT
 
 
+{28}
+28,28,28
+BEGINTXT
 
+Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!!
+!$
+
+ENDTXT
 {28}
 1
 BEGINTXT
 Si sale verso le vette piω alte......
 ENDTXT
 
+
 {29}
-1,16,19
+29,29,29
+BEGINTXT
+
+Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!!
+!$
+
+ENDTXT
+
+{29}
+16,19
 BEGINTXT
 Uno dei due cani θ in ferma, mentre l'altro passa tranquillamente accanto al gallo facendolo volare via. "Ecco siamo alle solite,
 
@@ -857,6 +955,15 @@ ENDTXT
 1
 BEGINTXT
 Siete arrivati a una delle cime del monte, cominciate a essere stanchi......
+ENDTXT
+
+{30}
+30,30,30
+BEGINTXT
+
+Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!!
+!$
+
 ENDTXT
 
 
