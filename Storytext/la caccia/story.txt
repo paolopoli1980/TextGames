@@ -3,7 +3,7 @@
 BEGINTXT
 "Sveglia, oggi aprono la caccia al gallo forcello, ti ricordo che ieri sera ti sei proposto a unirti con me alla caccia!". Riesci 
 
-a malapena ad aprire gli occhi sono le 5:10 di mattina. Riesci a intravedere tuo zio che ti sta parlando e anche abbastanza
+a malapena ad aprire gli occhi sono le 5:10 di mattina. Intravedi tuo zio che ti sta parlando e anche abbastanza
 
 impaziente. Tra te pensi quanto mai ho voluto unirti a questa caccia..... 
 ENDTXT
@@ -37,7 +37,7 @@ ENDTXT
 BEGINTXT
 E' ancora buio. "Finalmente ti sei deciso ad alzarti. Vedi di fare colazione, il gallo non ci aspetta!".... Fatto colazione
 
-tuo zio prende i due cani da caccia (non poi così brillanti). Caricati i cani sulla jeep, partite per verso il posto prediletto
+tuo zio prende i due cani da caccia (non poi così brillanti). Caricati i cani sulla jeep, partite verso il posto prediletto
 
 per cacciare il gallo (in realtà poi non così ricco faunisticamente). Arrivati sul luogo scendete insieme ai cani e vi
 
@@ -151,6 +151,37 @@ La vostra avventura finisce qui, in un andare e vieni senza senso ......
 
 !$
 ENDTXT
+
+{8}
+16,18,29
+BEGINTXT
+Nel mezzo del sentiero incontrate due amici di tuo zio. Uno dei due dice, "Ehi ciao, andiamo a caccia oggi?". Tuo zio,
+
+risponde che già tre volte ha trovato il gallo ma gli è scappato! L'altro amico afferma, "Eh siamo alle solite, bisogna raddrizzare
+
+la mira....". Tuo zio risponde che l'esperienza migliora sempre. "Che ne dice di unirti a noi alla cascina per bere insieme un grappino
+
+?", inizialmente tuo zio risponde di no ma i due sono talmente insistenti, che lo convincono. Finisce così la caccia al gallo, tra
+
+una grappino e l'altro e qualche barzelletta detta in compagnia....
+
+
+     _\|/_
+      /--\
+      |[]|
+    _] \/ [_
+   /_ `==' _\
+   \\|    |//
+    l\  __/j
+    `|-'##|
+     |#||#|
+     |#||#|
+    _|#||#|_
+   `=="  "==`
+as
+!$
+
+ENDTXT
 {8}
 1
 BEGINTXT
@@ -184,6 +215,20 @@ __;_ \ /,//`
  '//,,,  |
       )_/
  sk  /_|
+
+Tuo zio soddisfatto non riesce a crederci. "Missione compiuta!". Tu dopo tanto camminare, capisci che finalmente è finita e il 
+
+risultato sperato è stato raggiunto. Tornate a casa, con un sole che sta tramontando, che offre a entrambi uno scenario bellissimo,
+
+pensi che una giornata così non la dimenticherai mai per tutta la vita!
+
+
+
+   _.-.-=-.                  .-=.'"=.-=.
+  (       .'    \  :  /     '._.-=._.=-'
+   '-"-=="    `. .-=-. .'  
+----------------'     '------------[TomekK]-------
+
 
 
 !$
@@ -704,7 +749,7 @@ ENDTXT
 {23}
 1
 BEGINTXT
-Siete a uno dei principali incrocio del sentiero che sale verso la cima del monte.....
+Siete al principale incrocio del sentiero che sale verso la cima del monte.....
 ENDTXT
 
 {24}
@@ -722,7 +767,7 @@ ENDTXT
 {24}
 1
 BEGINTXT
-Siete all'uscita del bosco, qui comincia la vegetazione di lata montagna....
+Siete all'uscita del bosco, qui comincia la vegetazione di alta montagna....
 
 ENDTXT
 
