@@ -159,7 +159,7 @@ Nel mezzo del sentiero incontrate due amici di tuo zio. Uno dei due dice, "Ehi c
 
 risponde che già tre volte ha trovato il gallo ma gli è scappato! L'altro amico afferma, "Eh siamo alle solite, bisogna raddrizzare
 
-la mira....". Tuo zio risponde che l'esperienza migliora sempre. "Che ne dice di unirti a noi alla cascina per bere insieme un grappino
+la mira....". Tuo zio risponde che l'esperienza migliora sempre. "Che ne dici di unirti a noi alla cascina per bere insieme un grappino
 
 ?", inizialmente tuo zio risponde di no ma i due sono talmente insistenti, che lo convincono. Finisce così la caccia al gallo, tra
 
@@ -185,7 +185,7 @@ ENDTXT
 {8}
 1
 BEGINTXT
-Il sentiero continua e sale sempre di più....
+Siete a metà del bosco di un sentiero lungo e pendente ....
 ENDTXT
 
 {9}
@@ -909,6 +909,7 @@ jgs    _|_
 jgs   |o O_.-'
       '--`
 
+Finisce qui la vostra caccia al gallo!
 !$
 
 ENDTXT
