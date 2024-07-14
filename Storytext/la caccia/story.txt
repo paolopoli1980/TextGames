@@ -5,7 +5,7 @@ BEGINTXT
 
 a malapena ad aprire gli occhi sono le 5:10 di mattina. Intravedi tuo zio che ti sta parlando e anche abbastanza
 
-impaziente. Tra te pensi quanto mai ho voluto unirti a questa caccia..... 
+impaziente. Tra te pensi quanto mai hai voluto unirti a questa caccia..... 
 ENDTXT
 
 {2}
@@ -151,6 +151,34 @@ La vostra avventura finisce qui, in un andare e vieni senza senso ......
 
 !$
 ENDTXT
+{8}
+16,18,29,22
+BEGINTXT
+Nel mezzo del sentiero incontrate due amici di tuo zio. Uno dei due dice, "Ehi ciao, andiamo a caccia oggi?". Tuo zio,
+
+risponde che già quattro volte ha trovato il gallo ma gli è scappato! L'altro amico afferma, "Eh siamo alle solite, bisogna raddrizzare
+
+la mira....". Tuo zio risponde che l'esperienza migliora sempre. "Che ne dici di unirti a noi alla cascina per bere insieme un grappino
+
+?", inizialmente tuo zio risponde di no ma i due sono talmente insistenti, che lo convincono. Finisce così la caccia al gallo, tra
+
+una grappino e l'altro e qualche barzelletta detta in compagnia....
+
+
+     _\|/_
+      /--\
+      |[]|
+    _] \/ [_
+   /_ `==' _\
+   \\|    |//
+    l\  __/j
+    `|-'##|
+     |#||#|
+     |#||#|
+    _|#||#|_
+   `=="  "==`
+as
+!$
 
 {8}
 16,18,29
@@ -945,7 +973,7 @@ ENDTXT
 
 
 {28}
-28,28,28
+28,28,28,28
 BEGINTXT
 
 Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!!
