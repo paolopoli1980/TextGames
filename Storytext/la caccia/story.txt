@@ -674,7 +674,7 @@ ENDTXT
 1,16,19
 BEGINTXT
 
-Il gallo non c'è più...... 
+Difficilmente i gallo torna nello stesso posto. Non sottovalutarlo! 
 
 ENDTXT
 
@@ -716,7 +716,7 @@ Siete probabilmente a metà altezza del monte.....
 ENDTXT
 
 {22}
-22,22,22,22,22
+1,22,22,22,22,22
 BEGINTXT
 
 Questa è l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
@@ -725,6 +725,11 @@ La vostra avventura finisce qui, in un andare e vieni senza senso ......
 
 !$
 
+ENDTXT
+{22}
+16,18,19,22
+BEGINTXT
+Il gallo non c'è più, sparito nel nulla??
 ENDTXT
 
 {22}
@@ -994,6 +999,11 @@ BEGINTXT
 Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!!
 !$
 
+ENDTXT
+{29}
+1,16,19,29
+BEGINTXT
+Il gallo non aspetta nessuno chissà dove sarà adesso!!!
 ENDTXT
 
 {29}
