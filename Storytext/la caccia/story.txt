@@ -566,7 +566,7 @@ Il sentiero prosegue in avanti.... Puoi sempre tornare indietro....
 ENDTXT
 
 {18}
-18,18,18,18,18,18
+18,18,18,18,18
 BEGINTXT
 
 Questa è l'ennesima volta che passate in questo posto, a forza di perdere tempo la giornata sta per finire.
