@@ -993,7 +993,7 @@ ENDTXT
 
 
 {29}
-29,29,29
+1,29,29,29
 BEGINTXT
 
 Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!!
@@ -1001,7 +1001,7 @@ Alla terza volta arrivati in cima siete stanchi morti. E' ora di tornare a casa!
 
 ENDTXT
 {29}
-1,16,19,29
+16,19,29
 BEGINTXT
 Il gallo non aspetta nessuno chissà dove sarà adesso!!!
 ENDTXT
