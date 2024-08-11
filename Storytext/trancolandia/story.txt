@@ -1,0 +1,56 @@
+{1}
+1
+BEGINTXT
+
+************    *******         *          *     *    *******    *******     *               *         *     *    * *      *        *
+     *          *     *        * *         * *   *    *          *     *     *              * *        * *   *    *   *    *       * *
+     *          *  ****       *   *        *  *  *    *          *     *     *             *   *       *  *  *    *    *   *      *   *
+     *          *  *         *******       *   * *    *          *     *     *            *******      *   * *    *    *   *     *******
+     *          *   *       *       *      *    **    *          *     *     *           *       *     *    **    *   *    *    *       *
+     *          *    *     *         *     *     *    *******    *******     *******    *         *    *     *    * *      *   *         *
+
+
+Dopo un viaggio di più di due ore, tu e tua moglie arrivate in macchina a Trancolandia!
+
+"Bene siamo arrivati a destinazione! Adesso dobbiamo trovare solo la casa di Giovanni". 
+
+Tua moglie nota subito una cosa. "Qui il telefono non prende d'altronde siamo in una valle, chiusa in
+
+mezzo alle montagne."
+
+"Va beh, non penso che questo paese sia così grande, basterà chiedere agli abitanti e loro ci sapranno
+
+dare delle indicazioni"......
+
+
+ ~         ~~          __
+       _T      .,,.    ~--~ ^^
+ ^^   // \                    ~
+      ][O]    ^^      ,-~ ~
+   /''-I_I         _II____
+__/_  /   \ ______/ ''   /'\_,__
+  | II--'''' \,--:--..,_/,.-{ },
+; '/__\,.--';|   |[] .-.| O{ _ }
+:' |  | []  -|   ''--:.;[,.'\,/
+'  |[]|,.--'' '',   ''-,.    |
+  ..    ..-''    ;       ''. '  Steven Maddison
+
+
+Entrate così a Trancolandia!
+
+Buona permanenza!
+
+ENDTXT
+{2}
+1
+BEGINTXT
+Superato il cartello subito la strada si dirama in due strade differenti .....
+ENDTXT
+
+{3}
+1
+BEGINTXT
+
+ENDTXT
+
+ENDSTORY
