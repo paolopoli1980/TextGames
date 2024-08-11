@@ -1,0 +1,39 @@
+AVVENTURA INTERATTIVA: A caccia del gallo! ( Agosto 2024)
+
+LETTORE: Per eventi tramite script in Python.
+
+Mappa:
+
+
+
+
+
+
+                                                                                   29   30
+                                                                                   |     |
+                                                                                   |     |
+                                                                                   |-----
+                                                                                   | 
+                                                                             -----28
+                                                                    25      |      |
+                                                                     |      |      |
+                                                              23----24------26----27
+                                                              |
+                                                              21----22
+                                                              |
+							      20	
+                                                              |
+                                                              |        
+        1-------4--------------------5-------7--------17------18-----19
+        |                            |       |
+        |                       9--- 6   14--13
+        |                            |       |    
+        2                      11--- 10      15
+        |                            |       |
+        |                            12      16 
+        3-------4
+
+
+
+In breve: Storia interattiva, programmata tramite grafi e memorizzazione di eventi. La storia, tratta di un giorno di caccia
+          al gallo forcello con lo zio. Riusciranno i due con i proprio cani a portare a casa il trofeo?
