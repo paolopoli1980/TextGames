@@ -44,13 +44,99 @@ ENDTXT
 {2}
 1
 BEGINTXT
-Superato il cartello subito la strada si dirama in due strade differenti .....
+Superato il cartello subito la strada si dirama in tre strade differenti e subito notate i nomi bizzarri
+
+scritti sui cartelli.
 ENDTXT
 
 {3}
 1
 BEGINTXT
+Prendendo questa strada, vi trovate a una seconda diramazione.
+ENDTXT
+
+
+{4}
+1
+BEGINTXT
+ENDTXT
+
+{5}
+1
+BEGINTXT
+ciao….
+ENDTXT
+
+{6}
+1
+BEGINTXT
+
+Vi trovate in una piazzetta, circondata da case soprastanti a dei corridoi arcati.
+
+     *****************************************
+  ************************************************
+ ***************************************************
+******************************************************
+******************************************************
+************     ****************      ***************
+************     ****************      ***************
+************     ****************      ***************
+******************************************************
+   ****                 ****                  ****
+ *      *             *      *              *      *
+*        *-----------*        *------------*        *
+*        *-----------*        *------------*        *  
+*        *-----------*        *------------*        *
+*        *-----------*    o|  *------------*        *
+*        *-----------*   --|  *------------*        *
+*        *-----------*  |  |  *------------*        *
+
+Sotto uno degli archi trovate una persona sulla sessantina.
+
+Decidi di parcheggiare la macchina per un attimo e chiedere informazioni, mentre tua moglie
+
+scende per guardarsi intorno e vedere le particolarità di tale piazza.
+
+Ti avvicini, e cominci la conversazione con un "Mi scusi."
+
+Lui ti guarda non dicendo nulla. Tu replichi chiedendo informazioni su luogo dove
+
+dovete recarvi. "Buongiorno, Sto cercando villa Onbu novi, sa per caso dove è ?", il tizio
+
+ti guarda e comincia a risponderti. "Ba, tu cidi Onbu novi, mai tisento, stoque goluo".
+
+Lo guardi strano, provi a richiedere, ma la risposta è la seguente, 
+
+"Ba, tu staba rlapare in nostra domo!". Capisci che non c'è modo di continuare la conversazione
+
+e te ne torni così in macchina con tua moglie!
 
 ENDTXT
 
+{7}
+1
+BEGINTXT
+Qui trovi un bel laghetto, c'è anche un pescatore ma sembra molto indaffarato quindi decidi di non disturbarlo.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+ENDTXT
 ENDSTORY
+
+
+
+
+
