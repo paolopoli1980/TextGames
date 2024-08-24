@@ -64,7 +64,7 @@ ENDTXT
 {5}
 1
 BEGINTXT
-ciao….
+Si presentano altre due direzioni...
 ENDTXT
 
 {6}
@@ -122,18 +122,108 @@ Qui trovi un bel laghetto, c'è anche un pescatore ma sembra molto indaffarato q
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^  o
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^ /| 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^ --
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+ENDTXT
+
+{8}
+1
+BEGINTXT
+Approdando in questo luogo c'è una chiesetta molto carina.
+
+Art by Joan Stark
+             .
+            -|-
+             |
+            /A\
+           //^\\
+         ,// _ \\,
+         |/`/_\`\|
+          |  ,  |
+          | /^\ |
+          |//'\\|
+        ,//` _ `\\,
+      ,//` .'|'. `\\,
+    ,//`   |-|-|   `\\,
+  ,//`     [_|_]     `\\,
+  |/T                 T\|
+    |  _   __ __   _  |
+    | /_\ |  |  | /_\ |
+    | |_| | .|. | |_| |
+    |     |__|__|     |
+jgs '----[_______]----'
+          =======
+         ======
+      ======
+
+Non vedete nessuno fuori e non vedete il motivo di entrarvi.
 
 
 ENDTXT
+
+{9}
+BEGINTXT
+Arrivate a un vicolo cieco, e vedete due persone (sicuramente abitanti del posto), che stanno discutendo.
+
+"Mosia lale lisote, non picasci tennie!".
+
+"Sta tozzi, tu hai vinaroti tottu!".
+
+Nonostante tutti hai il coraggio di chiedere informazioni:
+
+" Scusate sapete dove si trova la villa Onbu Novi?"
+
+"Onbu Novi?", uno dei due ti risponde. "Meravente cifale despondire. Vide darena in steoria!"
+
+A un certo punto riprendono a discutere e li finisce la discussione.
+
+
+ENDTXT
+
+{10}
+1
+BEGINTXT
+
+La strada continua. Non c'è nessun abitante nei d'intorni.
+
+ENDTXT
+{11}
+1
+BEGINTXT
+Approdate in una piccola piazzetta dove puoi prendere altre due strade.
+ENDTXT
+{12}
+1
+BEGINTXT
+Salendo, vi trovate in un piccolo piazzaletto circondato da alcune case di paese.
+
+             )                              (
+            (                                 )
+    ________[]_                              []
+   /^=^-^-^=^-^\                   /^~^~^~^~^~^~\
+  /^-^-^-^-^-^-^\                 /^ ^ ^  ^ ^ ^ ^\
+ /__^_^_^_^^_^_^_\               /_^_^_^^_^_^_^_^_\
+  |  .==.       |       ___       |        .--.  |
+^^|  |LI|  [}{] |^^^^^ /___\ ^^^^^|  [}{]  |[]|  |^^^^^
+&&|__|__|_______|&&   ." | ".   88|________|__|__|888
+     ====             (o_|_o)              ====
+      ====             u   u              ====
+
+ENDTXT
+
+{13}
+1
+BEGINTXT
+Vi trovate in una piazzetta molto carina….
+ENDTXT
+
 ENDSTORY
 
 
