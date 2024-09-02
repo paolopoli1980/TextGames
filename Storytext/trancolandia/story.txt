@@ -44,9 +44,14 @@ ENDTXT
 {2}
 1
 BEGINTXT
-Superato il cartello subito la strada si dirama in tre strade differenti e subito notate i nomi bizzarri
+In questo punto la strada si dirama in tre strade differenti dai seguenti nomi bizzarri
 
 scritti sui cartelli.
+
+          \
+  ---------\
+  -------- /
+          /
 ENDTXT
 
 {3}
@@ -59,12 +64,19 @@ ENDTXT
 {4}
 1
 BEGINTXT
+
+Anche qui la strada si dirama e non trovate altro di interessante.
+
+Potete prendere tre vie diverse. 
+
 ENDTXT
 
 {5}
 1
 BEGINTXT
-Si presentano altre due direzioni...
+
+La via sembra che si stringe, ma a un certo vi accingete a un bivio!
+
 ENDTXT
 
 {6}
@@ -194,11 +206,64 @@ BEGINTXT
 La strada continua. Non c'è nessun abitante nei d'intorni.
 
 ENDTXT
+
+
+{11}
+1,11
+BEGINTXT
+
+Ripassate per questo posto, non c’è più nessuno. Notate però una bellissima fontana.
+
+
+
+                      .      .       .       .
+  .   .       .          .      . .      .         .          .    .
+         .       .         .    .   .         .         .            .
+    .   .    .       .         . . .        .        .     .    .
+ .          .   .       .       . .      .        .  .              .
+      .  .    .  .       .     . .    .       . .      .   .        .
+ .   .       .    . .      .    . .   .      .     .          .     .
+    .            .    .     .   . .  .     .   .               .
+     .               .  .    .  . . .    .  .                 .
+                        . .  .  . . .  . .
+                            . . . . . .
+                              . . . .
+                               I . I
+                 _______________III_______________
+                /    .       .       .       .    \
+               ( ~~~ .  ~~~  .  ~~~  .  ~~~  . ~~~ )
+                 \SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS/
+                    \ ======================= /
+                        \SSSSSSSSSSSSSSSSS/
+                     ________\       /________
+                    (=+=+=+=+=+=+=+=+=+=+=+=+=)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ENDTXT
+
+
 {11}
 1
 BEGINTXT
+
 Approdate in una piccola piazzetta dove puoi prendere altre due strade.
+
+Un gruppo di tizi stanno parlando tra loro. Decidete di chiedere informazione riguardo
+
+la villa che state cercando. 
+
+“Scusate stiamo cercando la villa onbu novi, dove posso trovare tale luogo?”.
+
+“Saco? Onbu novi. Oin non biamoa pomte da derpere, Oin amosi rivoratola! Se non levote volarera, 
+
+stoque non è il strovo stopo!”
+
+Questi se ne vanno via offesi.
+
+Tua moglie ti guarda in modo confusa, tu gli rispondi alzando le spalle.
+
 ENDTXT
+
 {12}
 1
 BEGINTXT
@@ -222,7 +287,408 @@ ENDTXT
 1
 BEGINTXT
 Vi trovate in una piazzetta molto carina….
+
+
+           **             **           **
+          *****          *****        *****
+         *******        *******      *******
+         |     |        |     |      |     |
+         |  I  |        |  I  |      |  I  |
+        ---------      ---------    ---------
+
+
 ENDTXT
+
+{14}
+1
+BEGINTXT
+Qui si diramano diverse strade…
+ENDTXT
+
+{15}
+1
+BEGINTXT
+Un'altra strada che finisce per diramarsi…
+ENDTXT
+{16}
+1,16
+
+BEGINTXT
+
+Passate ancora davanti al pozzo. Non c’è nessuno e intorno c’è un gran silenzio!
+          _
+    / \
+   / '.\
+  /   '.\
+ /     '.\   
+ ~|~~~~~|~
+ +|-===-|;-.
+  |  |  |  `-
+ _|--|--|_     Lester - AMC
+|--.....--|
+|--.....--|
+|--.....--| .''.
+|--.....--| |~~|
+ ~~-----~~   ~~
+
+ENDTXT
+
+{16}
+1
+BEGINTXT
+
+Vi accorgete che la strada sale verso l'alto Notate anche un pozzo con delle signore che stanno
+
+lavando i panni. Guardi tua moglie e nei propri occhi c’è come un mix di stupore e incredulità di 
+
+una scena che pensavate solo possibile nei vecchi film western! Vi fermate un attimo ad ascoltare 
+
+senza andar troppo dell’occhio, visto che comunque loro sono molto prese dal da farsi e dal 
+
+chiacchierare. “Gigo è il norgio della stafe del tranco tropan!”. “Non merdilo, In zappia c’è un 
+
+sicano e cabbano che non soppo possortare!”
+ 
+
+
+
+
+
+         _
+    / \
+   / '.\
+  /   '.\
+ /     '.\   
+ ~|~~~~~|~
+ +|-===-|;-.
+  |  |  |  `-
+ _|--|--|_     Lester - AMC
+|--.....--|
+|--.....--|
+|--.....--| .''.
+|--.....--| |~~|
+ ~~-----~~   ~~
+
+
+
+ENDTXT
+
+{17}
+1,21
+BEGINTXT
+Tenendo in mente quello detto, alla piazza principale del paese dove la sagra sta avvenendo da un paesano.
+
+Guardando bene in fondo a un prato piano, vedete una strada sterrata che si inoltra nel bosco.
+
+Capite anche che potrebbe essere la strada che in qualche modo, l'abitante del posto nella sua lingua 
+
+vi ha detto. Decidete quindi di fare un tratto di prato con la macchina e addentrarvi in questa via….
+
+ENDTXT
+
+{17}
+1
+BEGINTXT
+Salite e la strada finisce! Visi presenta un bel spazio verde. Ma da qui non potete andare da nessuna parte
+
+
+ENDTXT
+
+
+{18}
+BEGINTXT
+La strada si stringe ma continua. Potete scegliere di continuare o tornare indietro….
+
+ENDTXT
+
+{19}
+1
+BEGINTXT
+
+    \_/
+  --(_)--  .
+    / \   /_\
+          |Q|
+    .-----' '-----.                                  __
+   /____[SCHOOL]___\                                ()))
+    | [] .-.-. [] |                                (((())
+  ..|____|_|_|____|..................................)(... ldb
+
+Pensate che forse qui potete trovare qualcuno che può aiutarvi. Ma non
+trovate nessuno, dovuto al fatto che probabilmente è domenica.
+
+ENDTXT
+
+{20}
+1
+BEGINTXT
+
+Siete arrivati a un'osteria del paese….
+         
+                 | =|
+               +-"  "-+
+               | ==  =|
+             +-"  == ="-+
+             |=    == = |
+           +-" ==   =   "-+
+         __| =  ______ ===|__
+         | == = |####| ==  =|
+       +-"  ==  |====|---. ="-+
+       |=== =  =|    | X | == |
+    +--" = =  = "----"---"=   "--+
+    |==  ==== ==   ==  ===  == ==|
+    |= == == _____________ =  == |
+    | =  ==  |#####|#####|= ==  =|
+    |= = .---|=====|=====|---.=  |
+    |== =| X |     |     | X | ==|
+    |  =="---"-----+-----"---" = |
+    |____________________________|
+    |____________________________|
+    | ________   _____________   |
+    |=|##||##|== |##|##|##|##|  =|
+    |=|##||##| ==|##|##|##|##| ==|
+    |=|==++==|= =|==+==+==+==|  =|
+    |=|,-""-.| = | .^. | .^. | ==|
+    |=||    || ==|/   \|/   \|  =|
+    |=||    ||= _|)___(|)___(|_==|
+    |=||o   || "---------------"=|
+    |=||    ||==    ===    =   ==|
+    |=||    ||  ==   ===   ==== =| hjw
+    |_||____||___________________|
+
+ENDTXT
+
+{21}
+1
+BEGINTXT
+
+Capitate in un’altra piazzetta di questo strano paese sperduto…..
+
+Vi accorgete che stanno celebrando una sagra di paese e procedere non potete. 
+
+Potete solo tornare indietro  tramite le due strade che trovate proprio all’inizio della 
+
+piazza, dove quindi non sono occupate dalle persone nella festa. Tua moglie ti chiede:
+
+“Adesso come facciamo ad attraversare la piazza?”. Rimani senza idee rispondendoli:
+
+“Non ne ho la minima idea!”. Detto questo tua moglie decide di scendere e verificare la situazione.
+
+La piazza è piena, e avvicinandosi a un abitante gli chiede come possono passare in mezzo alla 
+
+sagra cercando di farsi capire gesticolando e segnando la macchina. L’abitante risponde del 
+
+seguente modo: “Gigo le chimane non soppono sappare, per staque dastra, ma meco tittu nossa, c’è 
+
+uan distrana che è neccossa al donfo llade zappia ed è gacolletta onc uan chiavve dastra che ziaini a 
+
+dorn del sepae, praso il zoppo!”.  Tua moglie, essendo una donna sveglia e con memoria ti 
+
+comunica, quelle che secondo lei sono le parole chiave della conversazione e ha la sensazione che 
+
+quello gli è stato detto possa aiutarvi ad attraversare la piazza. Ma di preciso entrambi non sapete 
+
+come, visto che andare in avanti è impossibile.
+
+
+
+                                          .                    ___
+                                         /*\       .--.       |   |
+  @ @ @                             .   / * \     /__, \_     |   |
+  |.|.|      ...     ...     ...  _/ \_ |_*_|    (___)`(_)   -------
+  @@@@@     *****   *****   ***** \   / |. .|    |. .|        |. .|
+ ||. .||   {{. .}} {{. .}} {{. .}}|/|\| \ o /    { o }        \ o /
+|||\o/||| {{{\o/}}{{{\o/}}{{{\o/}}} |  .-- --.  .-{ }-.      .-   -.
+|.-- --.| {.-- --.{.-- --.{.-- --.}(|\/|     |||       |    |       |
+/( ) ( )\  |  @  | |  @  | |  @  |  |\/|     ||| |   | |    | |   | |
+\ )mmm( /  `--|--' `--|--' `--|--'     |     |||_|___|_|    | |   | |
+'(     )`  (     ) (     ) (     )     |     |'\/|   |\/._   `|   |'
+ |     |   |     | |     | |     |     |     |   | | |(   )   | | |
+ |     |   |     | |     | |     |     |     |   | | |(    )  | | |
+ |_____|   |_____| |_____| |_____| VK  |_____|  (__|__)(____)(__|__)
+
+
+ENDTXT
+
+
+{22}
+1
+BEGINTXT
+Finalmente usciti dalla piazza, continuate il vostro viaggio alla ricerca della vostra destinazione.
+
+A un certo punto una mandria di pecore vi compare davanti…
+
+
+
+       _       _       _       _       _       _       _       _
+     _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-
+   `(___)  `(___)  `(___)  `(___)  `(___)  `(___)  `(___)  `(___)
+jgs // \\   // \\   // \\   // \\   // \\   // \\   // \\   // \\
+       _       _       _       _       _       _       _       _
+    _-(_)-  _-(_)-  _-(_)-  _-(")-  _-(_)-  _-(_)-  _-(_)-  _-(_)-
+  `(___)  `(___)  `(___)  `%%%%%  `(___)  `(___)  `(___)  `(___)
+   // \\   // \\   // \\   // \\   // \\   // \\   // \\   // \\
+      _       _       _       _       _       _       _       _
+   _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-
+ `(___)  `(___)  `(___)  `(___)  `(___)  `(___)  `(___)  `(___)
+  // \\   // \\   // \\   // \\   // \\   // \\   // \\   // \\
+
+
+
+     _       _       _       _       _       _       _       _
+  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-  _-(_)-
+`(___)  `(___)  `(___)  `(___)  `(___)  `(___)  `(___)  `(___)
+ // \\   // \\   // \\   // \\   // \\   // \\   // \\   // \\
+
+Sembra proprio la giornata sbagliata!
+
+Fermate la macchina, e vedendo un tizio tirate giù il finestrino.  Ti accingi così a chiedere
+
+informazioni nella speranza di capirci qualcosa dal dialogo.
+
+“Mi scusi sono sue le pecore?”, “Non picasco soca cidi!”. Allora con un po di sforzo cerchi di 
+
+riformulare la frase seguendo le logiche della loro lingua.
+
+“Mi siscu se copere?”, non sai come ma pensi di avere formulato la domanda in modo esatto.
+
+Il tizio risponde: “No, il preprotario rasà a scapere meco mprese e tainto le sue copere noso iuq!”.
+
+Detto questo se ne va via, probabilmente a festeggiare in piazza con tutti.
+
+ENDTXT
+
+{24}
+1
+BEGINTXT
+
+Superato ol gregge di pecore decidete si saite per la stradina piccola. A un certo punto senza 
+
+accorgervene entrate in una pozzanghera di fango, dove la macchina comincia slittare e non riesce
+
+più andare avanti o a uscire…..
+ENDTXT
+
+{26}
+1
+BEGINTXT
+
+La strada prosegue dritta, guardandovi in giro notate un panomare di campagna molto bello
+
+e accogliente. A un certo punto la strada si dirama potete deviare strada o andare dritti.
+
+ENDTXT
+
+{27}
+1
+BEGINTXT
+
+Decidete di deviare, e vi trovate davanti a una strada dritta che sembra non finire più, proseguite 
+
+ma un certo sentite come uno scoppio e la vostra macchina cede da un lato. Si esatto avete bucato!
+
+
+  ______
+ /|_||_\`.__
+(   _    _ _\
+=`-(_)--(^)-'  hjw
+                   fffffff
+
+
+A questo punto proseguire a piedi potrebbe essere una follia non sapendo quando la strada lunga e 
+
+dritta possa e finite e dove essa possa portare. 
+
+ENDTXT
+
+{33}
+1
+BEGINTXT
+Arrivate a un bivio. Scegliete che strada prendere.
+ENDTXT
+
+{34}
+1
+BEGINTXT
+Percorrendo questa strada vi accingete a una quella che sembra un’officina meccanica. 
+
+Scendete dall’auto 
+ENDTXT
+
+{35}
+1
+BEGINTXT
+
+Trovate una casetta di campagna.
+
+
+               /__`A   ,_           
+          \   |= |;._.}{__        
+        _.-""-|.' # '. `  `.-"{}<._
+              /       \     \  x   `"
+         ----/         \_.-'|--X----
+         -=_ |         |    |- X.  =_
+        - __ |_________|_.-'|_X-X##
+        jgs `'-._|_|;:;_.-'` '::.  `"-
+         .:;.      .:.   ::.     '::.
+
+ENDTXT
+
+{40}
+1
+BEGINTXT
+ENDTXT
+{42}
+1
+BEGINTXT
+
+ENDTXT
+
+Te e tua moglie decidere di parcheggiare la macchina, ed entrare in osteria.
+
+
+              ___                 ___
+        _____/___\_____        __|___|__
+        """"("-_-")""""         ( o_o )      ~
+          /\_)=o~/              _\~-~/_   _ _~
+         / /\\\///\      ~     / \/|\/ \/\(|_|
+         \__|\\//\ \   ~      / |.   .|\_/
+  __________|//\\/_/___~______\_\_____|_____
+           _______   |_|)      _______
+           \_____/             \_____/
+  jro
+
+Subito veniti accolti non riuscite a parlare e arriva subito un tizio, che vi mette due bicchieri di birra 
+
+in mano. “ Denprete, stique noso rep oiv, Vetebe! Vetebe! Gogi dengra stafe!”. Per non rovinare il 
+
+clima di festa decidete di bere per poi chiedere informazioni …... 
+
+
+
+
+
+
+
+
+{44}
+1
+BEGINTXT
+ENDTXT
+
+
+{45}
+1
+BEGINTXT
+
+Tornate indietro a piedi, sapete che dopo il lungo viale fatto fino qui è una pazzia tornare verso il 
+
+centro del paese. Decidete quindi di guardarvi intorno per vedere se potete trovare qualcosa di utile.
+
+ENDTXT
+
+
+
 
 ENDSTORY
 
