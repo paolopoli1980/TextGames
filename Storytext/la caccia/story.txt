@@ -498,6 +498,14 @@ La vostra avventura finisce qui, in un andare e vieni senza senso ......
 
 ENDTXT
 
+
+{15}
+1,16
+BEGINTXT
+Siamo sicuri che il gallo sia ancora da queste parti?
+ENDTXT
+
+
 {15}
 1
 BEGINTXT
