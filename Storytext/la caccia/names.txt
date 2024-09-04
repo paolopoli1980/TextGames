@@ -14,7 +14,7 @@ Spazio sotto il sentiero preso.
 Prima biforcazione dal sentiero preso.
 Continuazione del sentiero preso.
 Uscita sentiero.
-Continuazione sentiero pianeggiante.
+Nel mezzo del sentiero pianeggiante.
 Punto diramazione sentiero pianeggiante.
 Fondo sentiero pianeggiante.
 Sentiero sopra il sentiero pianeggiante.
