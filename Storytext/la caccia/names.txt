@@ -4,21 +4,21 @@ Insisti a stare a letto.
 Ti alzi e ti prepari pronto, alla caccia del gallo.
 Pianura verde.
 Inizio sentiero che porta al fiume.
-Inizio sentiero che procede dritto.
+Inizio sentiero che porta al bosco.
 Sentiero lungo e pendente.
 Primo sentiero laterale del sentiero verso il fiume.
 Prima continuazione del sentiero verso il fiume.
 Secondo sentiero laterale del sentiero verso il fiume.
-Seconda continuazione sentiero verso il fiume.
+Al fiume.
 Spazio sotto il sentiero preso.
 Prima biforcazione dal sentiero preso.
 Continuazione del sentiero preso.
 Uscita sentiero.
-Nel mezzo del sentiero pianeggiante.
-Punto diramazione sentiero pianeggiante.
-Fondo sentiero pianeggiante.
-Sentiero sopra il sentiero pianeggiante.
-A metà sopra il sentiero pianeggiante.
+Nel mezzo del bosco.
+Punto diramazione nel bosco.
+Fondo del bosco.
+Sentiero sopra il bosco.
+A metà del bosco.
 Sentierino che si dirama a est.
 Inizio sentiero principale che va alle cime.
 Spazio verde di alta montagna.
