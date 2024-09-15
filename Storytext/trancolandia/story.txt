@@ -125,6 +125,24 @@ e te ne torni così in macchina con tua moglie!
 
 ENDTXT
 
+
+{7}
+1,22
+BEGINTXT
+
+Arrivati al laghetto, parlate al pescatore, (proprietario delle pecore) della situazione. Per lo meno ci provate.
+
+Tua moglie (che probabilmente ha capito la lingua meglio di te), si avvicina al tizio, cominciando a parlarli:
+
+"Mi siscu, c'è un blemapro con le copere, sese cablono il sappaggio per le chimmane".
+
+Lui guarda tua moglie in modo strano, forse la frase non è stata detta nel modo più corretto.
+
+
+
+
+ENDTXT
+
 {7}
 1
 BEGINTXT
@@ -175,7 +193,10 @@ jgs '----[_______]----'
          ======
       ======
 
-Non vedete nessuno fuori e non vedete il motivo di entrarvi.
+Non vedete nessuno fuori e non vedete il motivo di entrarvi. Decidere così di tornare indietro!
+
+£%
+
 
 
 ENDTXT
@@ -310,9 +331,9 @@ ENDTXT
 BEGINTXT
 Un'altra strada che finisce per diramarsi…
 ENDTXT
+
 {16}
 1,16
-
 BEGINTXT
 
 Passate ancora davanti al pozzo. Non c’è nessuno e intorno c’è un gran silenzio!
@@ -389,8 +410,9 @@ ENDTXT
 {17}
 1
 BEGINTXT
-Salite e la strada finisce! Visi presenta un bel spazio verde. Ma da qui non potete andare da nessuna parte
+Salite e la strada finisce! Visi presenta un bel spazio verde. Ma da qui non potete andare da nessuna parte, decidete così di tornare indietro!
 
+£%
 
 ENDTXT
 
@@ -510,6 +532,12 @@ come, visto che andare in avanti è impossibile.
 
 ENDTXT
 
+{22}
+1,22,7
+BEGINTXT
+Adesso il passaggio è libero....
+ENDTXT
+
 
 {22}
 1
@@ -556,13 +584,25 @@ Il tizio risponde: “No, il preprotario rasà a scapere meco mprese e tainto le
 
 Detto questo se ne va via, probabilmente a festeggiare in piazza con tutti.
 
+£%
+
 ENDTXT
+{23}
+1
+BEGINTXT
+Sembra un miracolo, ma tramite la stradina sterrata siete riusciti a superare la sagra della piazza principale.
+
+Potete continuare il vostro viaggio!
+
+
+ENDTXT
+
 
 {24}
 1
 BEGINTXT
 
-Superato ol gregge di pecore decidete si saite per la stradina piccola. A un certo punto senza 
+Superato ol gregge di pecore decidete di salire per la stradina piccola. A un certo punto senza 
 
 accorgervene entrate in una pozzanghera di fango, dove la macchina comincia slittare e non riesce
 
@@ -570,10 +610,20 @@ più andare avanti o a uscire…..
 ENDTXT
 
 {26}
+1,27
+BEGINTXT
+
+Tornare indietro a piedi senza auto significherebbe dire addio all'invito a cena del vostro
+
+caro amico. Meglio trovare altre soluzioni!
+
+£%
+
+{26}
 1
 BEGINTXT
 
-La strada prosegue dritta, guardandovi in giro notate un panomare di campagna molto bello
+La strada prosegue dritta, guardandovi in giro notate un panorama di campagna molto bello
 
 e accogliente. A un certo punto la strada si dirama potete deviare strada o andare dritti.
 
@@ -616,6 +666,37 @@ Scendete dall’auto
 ENDTXT
 
 {35}
+1,27
+
+BEGINTXT
+
+
+Visto la situazione vi accingete, alla casetta e bussate.
+
+               /__`A   ,_           
+          \   |= |;._.}{__        
+        _.-""-|.' # '. `  `.-"{}<._
+              /       \     \  x   `"
+         ----/         \_.-'|--X----
+         -=_ |         |    |- X.  =_
+        - __ |_________|_.-'|_X-X##
+        jgs `'-._|_|;:;_.-'` '::.  `"-
+         .:;.      .:.   ::.     '::.
+
+Esce un tizio, e ci parla dicendo:
+
+"Ich tesie oiv? Verse toaiu?", Capite che vi propone aiuto, e tua moglie che ha cominciato a capire
+
+la dinamica della lingua risponde:
+
+"Noi biammo cubato la taruo ladde chimmana!"
+
+Tua moglie spera di essere stata capita…
+
+"Stoque è un blemapro
+ENDTXT
+
+{35}
 1
 BEGINTXT
 
@@ -638,11 +719,12 @@ ENDTXT
 1
 BEGINTXT
 ENDTXT
-{42}
+
+{36}
 1
 BEGINTXT
 
-ENDTXT
+
 
 Te e tua moglie decidere di parcheggiare la macchina, ed entrare in osteria.
 
@@ -666,10 +748,10 @@ clima di festa decidete di bere per poi chiedere informazioni …...
 
 
 
+!$
 
 
-
-
+ENDTXT
 
 {44}
 1
