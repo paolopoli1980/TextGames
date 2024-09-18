@@ -126,22 +126,23 @@ e te ne torni così in macchina con tua moglie!
 ENDTXT
 
 
+
 {7}
-1,22
+1,23
 BEGINTXT
+Tua moglie sembra di avere capito, quello che l'abitante vi ha detto riguardo alle pecore. 
 
-Arrivati al laghetto, parlate al pescatore, (proprietario delle pecore) della situazione. Per lo meno ci provate.
+Esce dalla macchina, sicura che il proprietario delle pecore sia proprio il proprietario delle pecore.
 
-Tua moglie (che probabilmente ha capito la lingua meglio di te), si avvicina al tizio, cominciando a parlarli:
+"Mi Siscu ion biaddoma sappare, ma ci noso le copere in zomme!"
 
-"Mi siscu, c'è un blemapro con le copere, sese cablono il sappaggio per le chimmane".
+Il pescatore guarda tua moglie e capisce cosa dice.
 
-Lui guarda tua moglie in modo strano, forse la frase non è stata detta nel modo più corretto.
+"Un ttiamo, gigo è stafe e io gliovo scapere e post!"
 
-
-
-
+……….
 ENDTXT
+
 
 {7}
 1
@@ -282,6 +283,31 @@ stoque non è il strovo stopo!”
 Questi se ne vanno via offesi.
 
 Tua moglie ti guarda in modo confusa, tu gli rispondi alzando le spalle.
+
+
+                      .      .       .       .
+  .   .       .          .      . .      .         .          .    .
+         .       .         .    .   .         .         .            .
+    .   .    .       .         . . .        .        .     .    .
+ .          .   .       .       . .      .        .  .              .
+      .  .    .  .       .     . .    .       . .      .   .        .
+ .   .       .    . .      .    . .   .      .     .          .     .
+    .            .    .     .   . .  .     .   .               .
+     .               .  .    .  . . .    .  .                 .
+                        . .  .  . . .  . .
+                            . . . . . .
+                              . . . .
+                               I . I
+                 _______________III_______________
+                /    .       .       .       .    \
+               ( ~~~ .  ~~~  .  ~~~  .  ~~~  . ~~~ )
+                 \SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS/
+                    \ ======================= /
+                        \SSSSSSSSSSSSSSSSS/
+                     ________\       /________
+                    (=+=+=+=+=+=+=+=+=+=+=+=+=)
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 ENDTXT
 
@@ -538,14 +564,18 @@ BEGINTXT
 Adesso il passaggio è libero....
 ENDTXT
 
+{22}
+1,23,7
+BEGINTXT
+Non ci credete, finalmente le pecore si dileguano al comando del pastore, un po' infastidito dalla,
 
+vostra presenza....
+
+ENDTXT
 {22}
 1
 BEGINTXT
-Finalmente usciti dalla piazza, continuate il vostro viaggio alla ricerca della vostra destinazione.
-
-A un certo punto una mandria di pecore vi compare davanti…
-
+Davanti alla mandria di pecore siete bloccati!
 
 
        _       _       _       _       _       _       _       _
@@ -570,6 +600,17 @@ jgs // \\   // \\   // \\   // \\   // \\   // \\   // \\   // \\
 
 Sembra proprio la giornata sbagliata!
 
+
+£%
+
+ENDTXT
+{23}
+1
+BEGINTXT
+Sembra un miracolo, ma tramite la stradina sterrata siete riusciti a superare la sagra della piazza principale.
+
+Nonostante questo vedete in avanti una mandria di pecore, che molto probabilmente non vi faranno passare.
+
 Fermate la macchina, e vedendo un tizio tirate giù il finestrino.  Ti accingi così a chiedere
 
 informazioni nella speranza di capirci qualcosa dal dialogo.
@@ -584,15 +625,6 @@ Il tizio risponde: “No, il preprotario rasà a scapere meco mprese e tainto le
 
 Detto questo se ne va via, probabilmente a festeggiare in piazza con tutti.
 
-£%
-
-ENDTXT
-{23}
-1
-BEGINTXT
-Sembra un miracolo, ma tramite la stradina sterrata siete riusciti a superare la sagra della piazza principale.
-
-Potete continuare il vostro viaggio!
 
 
 ENDTXT
@@ -618,6 +650,7 @@ Tornare indietro a piedi senza auto significherebbe dire addio all'invito a cena
 caro amico. Meglio trovare altre soluzioni!
 
 £%
+ENDTXT
 
 {26}
 1
