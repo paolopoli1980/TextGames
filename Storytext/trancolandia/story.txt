@@ -130,9 +130,24 @@ ENDTXT
 {7}
 1,23
 BEGINTXT
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^  o
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^ /| 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^ --
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Tua moglie sembra di avere capito, quello che l'abitante vi ha detto riguardo alle pecore. 
 
-Esce dalla macchina, sicura che il proprietario delle pecore sia proprio il proprietario delle pecore.
+Esce dalla macchina, sicura che il pescatore sia proprio il proprietario delle pecore.
 
 "Mi Siscu ion biaddoma sappare, ma ci noso le copere in zomme!"
 
@@ -140,7 +155,15 @@ Il pescatore guarda tua moglie e capisce cosa dice.
 
 "Un ttiamo, gigo è stafe e io gliovo scapere e post!"
 
-……….
+Tua moglie risponde:
+
+"Ho picato, ma culquano ci pettassa e noi biaddomo sappare."
+
+Il pescatore e pastore risponde.
+
+"Ok gonve con voi…"
+
+Sale con voi in macchina...
 ENDTXT
 
 
@@ -463,6 +486,7 @@ BEGINTXT
   ..|____|_|_|____|..................................)(... ldb
 
 Pensate che forse qui potete trovare qualcuno che può aiutarvi. Ma non
+
 trovate nessuno, dovuto al fatto che probabilmente è domenica.
 
 ENDTXT
@@ -634,11 +658,18 @@ ENDTXT
 1
 BEGINTXT
 
-Superato ol gregge di pecore decidete di salire per la stradina piccola. A un certo punto senza 
+Superato il gregge di pecore decidete di salire per la stradina piccola. A un certo punto senza 
 
 accorgervene entrate in una pozzanghera di fango, dove la macchina comincia slittare e non riesce
 
 più andare avanti o a uscire…..
+ENDTXT
+
+{26}
+1,27,
+BEGINTXT
+
+
 ENDTXT
 
 {26}
@@ -659,6 +690,22 @@ BEGINTXT
 La strada prosegue dritta, guardandovi in giro notate un panorama di campagna molto bello
 
 e accogliente. A un certo punto la strada si dirama potete deviare strada o andare dritti.
+
+ENDTXT
+
+{27}
+1,35,8
+BEGINTXT
+
+Vi trovate ancora la vostra auto con la gomma buca.
+
+ENDTXT
+
+{27}
+1,27
+BEGINTXT
+
+Vi trovate ancora la vostra auto con la gomma buca.
 
 ENDTXT
 
@@ -690,12 +737,32 @@ BEGINTXT
 Arrivate a un bivio. Scegliete che strada prendere.
 ENDTXT
 
+
+{34}
+1,35,8
+BEGINTXT
+
+"Ok ho sopre la maggo. ora dianmo alla strova chimmana…."
+
+ENDTXT
+{34}
+1,35
+BEGINTXT
+Qui il meccanico non c'è….
+ENDTXT
+
+{34}
+1,27
+BEGINTXT
+Arrivate a piedi, vi si presenta quella che sembra un'officina. Ma è chiusa!
+ENDTXT
+
 {34}
 1
 BEGINTXT
-Percorrendo questa strada vi accingete a una quella che sembra un’officina meccanica. 
+Percorrendo questa strada vi accingete a quella che sembra un’officina meccanica. 
 
-Scendete dall’auto 
+Scendete dall’auto, ma non c'è nessuno sembra tutto chiuso….
 ENDTXT
 
 {35}
@@ -726,7 +793,15 @@ la dinamica della lingua risponde:
 
 Tua moglie spera di essere stata capita…
 
-"Stoque è un blemapro
+"Stoque è un blemapro, vedote vatrore il cammenico, sonpe che sta taiuando, il trepe, senpo che
+
+lo vatrotere alla sachie…. Nitie staque!"
+
+Ti offre una bicicletta
+
+Tua moglie pensa di avere capito e prendendo la bici ti riferisce tutto.
+
+
 ENDTXT
 
 {35}
@@ -801,8 +876,6 @@ Tornate indietro a piedi, sapete che dopo il lungo viale fatto fino qui è una p
 centro del paese. Decidete quindi di guardarvi intorno per vedere se potete trovare qualcosa di utile.
 
 ENDTXT
-
-
 
 
 ENDSTORY
