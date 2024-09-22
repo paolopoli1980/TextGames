@@ -443,6 +443,17 @@ sicano e cabbano che non soppo possortare!”
 
 ENDTXT
 
+
+
+{17}
+1,21,17
+BEGINTXT
+
+Ripercorrete la tanto amata stradina che vi permette di oltrepassare la piazza senza problemi….
+
+ENDTXT
+
+
 {17}
 1,21
 BEGINTXT
@@ -582,8 +593,30 @@ come, visto che andare in avanti è impossibile.
 
 ENDTXT
 
+
 {22}
-1,22,7
+1,23,7,22,27,35
+BEGINTXT
+Con la bicicletta sarà possibile percorrere il paese più velocemente e essere ancora in tempo ad arrivare in orario
+
+a casa dell' invitante….
+
+
+ENDTXT
+
+{22}
+1,23,7,22,27
+BEGINTXT
+
+Tornare indietro a piedi senza auto significherebbe dire addio all'invito a cena del vostro
+
+caro amico. Meglio trovare altre soluzioni!
+
+£%
+ENDTXT
+
+{22}
+1,23,7,22
 BEGINTXT
 Adesso il passaggio è libero....
 ENDTXT
@@ -665,23 +698,6 @@ accorgervene entrate in una pozzanghera di fango, dove la macchina comincia slit
 più andare avanti o a uscire…..
 ENDTXT
 
-{26}
-1,27,
-BEGINTXT
-
-
-ENDTXT
-
-{26}
-1,27
-BEGINTXT
-
-Tornare indietro a piedi senza auto significherebbe dire addio all'invito a cena del vostro
-
-caro amico. Meglio trovare altre soluzioni!
-
-£%
-ENDTXT
 
 {26}
 1
@@ -730,6 +746,32 @@ A questo punto proseguire a piedi potrebbe essere una follia non sapendo quando 
 dritta possa e finite e dove essa possa portare. 
 
 ENDTXT
+
+{28}
+1,27
+BEGINTXT
+Queste stradine sembra che non abbiano fine, non è una buona idea continuare senza auto….
+
+£%
+ENDTXT
+
+{29}
+BEGINTXT
+
+ENDTXT
+
+{30}
+1,27
+BEGINTXT
+Queste stradine sembra che non abbiano fine, non è una buona idea continuare senza auto….
+
+£%
+ENDTXT
+
+{31}
+BEGINTXT
+ENDTXT
+
 
 {33}
 1
