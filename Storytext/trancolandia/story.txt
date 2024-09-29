@@ -595,7 +595,7 @@ ENDTXT
 
 
 {22}
-1,23,7,22,27,35
+1,23,7,22,27,32
 BEGINTXT
 Con la bicicletta sarà possibile percorrere il paese più velocemente e essere ancora in tempo ad arrivare in orario
 
@@ -710,7 +710,7 @@ e accogliente. A un certo punto la strada si dirama potete deviare strada o anda
 ENDTXT
 
 {27}
-1,35,8
+1,32,8
 BEGINTXT
 
 Vi trovate ancora la vostra auto con la gomma buca.
@@ -772,44 +772,8 @@ ENDTXT
 BEGINTXT
 ENDTXT
 
-
-{33}
-1
-BEGINTXT
-Arrivate a un bivio. Scegliete che strada prendere.
-ENDTXT
-
-
-{34}
-1,35,8
-BEGINTXT
-
-"Ok ho sopre la maggo. ora dianmo alla strova chimmana…."
-
-ENDTXT
-{34}
-1,35
-BEGINTXT
-Qui il meccanico non c'è….
-ENDTXT
-
-{34}
+{32}
 1,27
-BEGINTXT
-Arrivate a piedi, vi si presenta quella che sembra un'officina. Ma è chiusa!
-ENDTXT
-
-{34}
-1
-BEGINTXT
-Percorrendo questa strada vi accingete a quella che sembra un’officina meccanica. 
-
-Scendete dall’auto, ma non c'è nessuno sembra tutto chiuso….
-ENDTXT
-
-{35}
-1,27
-
 BEGINTXT
 
 
@@ -846,7 +810,7 @@ Tua moglie pensa di avere capito e prendendo la bici ti riferisce tutto.
 
 ENDTXT
 
-{35}
+{32}
 1
 BEGINTXT
 
@@ -863,6 +827,42 @@ Trovate una casetta di campagna.
         jgs `'-._|_|;:;_.-'` '::.  `"-
          .:;.      .:.   ::.     '::.
 
+ENDTXT
+
+
+
+{33}
+1
+BEGINTXT
+Arrivate a un bivio. Scegliete che strada prendere.
+ENDTXT
+
+
+{34}
+1,32,8
+BEGINTXT
+
+"Ok ho sopre la maggo. ora dianmo alla strova chimmana…."
+
+ENDTXT
+{34}
+1,32
+BEGINTXT
+Qui il meccanico non c'è….
+ENDTXT
+
+{34}
+1,27
+BEGINTXT
+Arrivate a piedi, vi si presenta quella che sembra un'officina. Ma è chiusa!
+ENDTXT
+
+{34}
+1
+BEGINTXT
+Percorrendo questa strada vi accingete a quella che sembra un’officina meccanica. 
+
+Scendete dall’auto, ma non c'è nessuno sembra tutto chiuso….
 ENDTXT
 
 {40}
