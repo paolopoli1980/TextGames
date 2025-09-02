@@ -31,9 +31,19 @@ Mappa:
 
 
 
-In breve: Storia interattiva, programmata tramite grafi e memorizzazione di eventi. La storia � ambientata in uno scenario
+In breve: Storia interattiva, programmata tramite grafi e memorizzazione di eventi. La storia   ambientata in uno scenario
           futuristico, con protagonista un ingegnere, catapultatosi in una cittadina metropolitana di periferia, insieme
           al suo amico robot. Da qui la storia si evolve, con l'obiettivo del personaggio, di rifarsi una condizione
           economica rispettosa. Il gioco si evolve tra vari personaggi incontrati come, tecnici, ingegneri, criminali,
 	  con sfondo le lotte clandestine tra robot.
+
+Modalità di gioco: Per ogni stazione puoi scegliere semplicemente di prendere la metropolitana per un'altra destinazione
+                   o in alternativa visitare i luoghi limitrofe. Le visite sono chiaramente necessarie per lo sviluppo del
+                   gioco in quanto permette di conoscere, le dinamiche intorno alla stazione.
+
+Ringraziamenti: Ringrazio gli autori citati tramite firma nel gioco, per avere disegnato stupende rappresentazioni in ASCII art. 
+                Rendendo il gioco più interessante e bello da vedere.
+
+
+BUON DIVERTIMENTO!
  

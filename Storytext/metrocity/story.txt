@@ -260,13 +260,20 @@ sigaretta per terra, ormai trovabili solo in qualche luogo sperduto malfamato, c
 vecchia metropolitana abbondonata a se stessa.
 
 
-  =   =    =      
-
-    =      =         
-
-=          =     =
-
-    =     =    =
+ a,  8a
+ `8, `8)                            ,adPPRg,
+  8)  ]8                        ,ad888888888b
+ ,8' ,8'                    ,gPPR888888888888
+,8' ,8'                 ,ad8""   `Y888888888P
+8)  8)              ,ad8""        (8888888""
+8,  8,          ,ad8""            d888""
+`8, `8,     ,ad8""            ,ad8""
+ `8, `" ,ad8""            ,ad8""
+    ,gPPR8b           ,ad8""
+   dP:::::Yb      ,ad8""
+   8):::::(8  ,ad8""
+   Yb:;;;:d888""  Normand
+    "8ggg8P"      Veilleux
 
 
 
@@ -279,14 +286,22 @@ Una porta incustodita è chiusa, eppure hai una vaga impressione che c'è vita die
 
 Ti avvicini alla porta, provi a bussare ma non succede nulla.
 
-
-**********DD*************
-
- 
-
-
-
-*************************
+ ______________
+|\ ___________ /|
+| |  _ _ _ _  | |
+| | | | | | | | |
+| | |-+-+-+-| | |
+| | |-+-+-+-| | |
+| | |_|_|_|_| | |
+| |     ___   | |
+| |    /__/   | |
+| |   [%==] ()| |
+| |         ||| |
+| |         ()| |
+| |           | |
+| |           | |
+| |           | |
+|_|___________|_| ejm
 
 ENDTXT
 
@@ -567,7 +582,8 @@ ENDTXT
 1
 BEGINTXT
 
-Trovi un tizio taciturno, che è seduto sulla panchina.
+
+Trovi un tizio taciturno, che è seduto sulla panchina, immerso nei suoi pensieri.
 
 
 
@@ -737,10 +753,49 @@ ENDTXT
 1
 BEGINTXT
 
-Sui muri ci sono varie scritte apparentemente senza senso, forse qualche slang del popolo di questa area abbandonata.
+Nonostante la stazione sembra abbandonata a se stessa, c'è qualcuno che trova la motivazione di creare opere d'arte
+
+come questa. Tale disegno sul muro, ti stupisce come l'umanità possa essere creativa anche in condizioni precarie..
 
 
-
+                                  ,;;;, 
+                                ,;;;;;;;, 
+             .;;;,            ,;;;;;;;;;;;, 
+            .;;%%;;;,        ,;;;;;;;;;;;;;, 
+            ;;%%%%%;;;;,.    ;;;;;;;;;;;;;;; 
+            ;;%%%%%%%%;;;;;, ;;;;;;;;;;;;;;; 
+            `;;%%%%%%%%%;;;;;,;;;;;;;;;;;;;' 
+             `;;%%%%%%%%%%;;;;,;;;;;;;;;;;' 
+               `;;;%%%%%%%%;;;;,;;;;;;;;;' 
+                  `;;;%%%%%%;;;;.;;;.;;; 
+                     `;;;%%%;;;;;;.;;;,; .,;;' 
+                         `;;;;;;;;;;,;;;;;;'.,;;;, 
+                          ;;;;;;;;;;;;;;;;;;;;;,. 
+          .          ..,,;;;;;......;;;;;;;.... '; 
+          ;;,..,;;;;;;;;;;;;..;;;;;;..;;;;.;;;;;. 
+           ';;;;;;;;;;;;;;..;;;a@@@@a;;;;;;;a@@@@a, 
+        .,;;;;;;;;;;;;;;;.;;;a@@@@@@@@;;;;;,@@@@@@@a, 
+      .;;;,;;;;;;;;;;;;;;;;;@@@@@'  @@;;;;;;,@  `@@@@;, 
+     ;' ,;;;,;;;;;;;;;;;;;;;@@@@@aa@@;;;;,;;;,@aa@@@@;;;,.,; 
+       ;;;,;;;;;;;;;;;;;;;;;;@@@@@@@;;;,;a@@'      `;;;;;;;' 
+       ' ;;;,;;;;;;;;;;;;;;;;;;;;;;;;,;a@@@       #  ;;,;;, 
+.//////,,;,;;;;;;;;;;;;;;;,;;;;;;;;,;;a@@@a,        ,a;;;,;;, 
+%,/////,;;;;;;;;;;;;;;;;;;;;,;,;,;;;;a@@@@@@aaaaaaa@@@;;;;;'; 
+`%%%%,/,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;@@@@@@@@@@@;00@@;;;;;' 
+  %%%%%%,;;;;;;;;;;;;;;;;;;;;;;;;;;;a@@@@@@@@@@;00@@;;;;;' 
+   `%%%%%%%%%%,;;;;;;;;;;;;;;;;;;;;a@@@@@@@@@;00@@;;;;;' 
+     `%%%%%%%%%%%%%%%,::::;;;;;;;;a@@@@@@@;00@@@::;;;%%%%%, 
+       `%%%%%%%%%%%%%%%,::::;;;;;@@@@@@' 0@@@@::;;%%%%%%%%' 
+          Oo%%%%%%%%%%%%,::::;;a@@@@@'  ,@@@::;;%%%%%%%' 
+           `OOo%%%%%%%%%%,::::@@@@@'    @@;::;%%%%%%' 
+             `OOOo%%%%%%%%,:::@@@@,;;;,a@:;;%%%%%' 
+               `OOOOOo%%%%%,:::@@@aaaa@';;%%%%' 
+                  `OOOO;@@@@@@@@aa@@@@@@@@@' 
+                      ;@@@@@@@@@@@@@@@@@@@' 
+                       @@@@@@@@'`@@@@@@@@' 
+                       `@@@@@'    @@@@@' 
+                        `@@'       @@'
+?
 ENDTXT
 
 {7}
@@ -748,6 +803,23 @@ ENDTXT
 BEGINTXT
 
 Ancora solitudine e desolazione in questo posto!
+
+Il disegno sul muro ti ricorda la tua passione per la matematica.
+
+
+      ____________
+     /\  ________ \
+    /  \ \______/\ \
+   / /\ \ \  / /\ \ \
+  / / /\ \ \/ / /\ \ \
+ / / /__\_\/ / /__\_\ \
+/ /_/_______/ /________\
+\ \ \______ \ \______  /
+ \ \ \  / /\ \ \  / / /
+  \ \ \/ / /\ \ \/ / /
+   \ \/ / /__\_\/ / /
+    \  / /______\/ /
+     \/___________/
 
 
 ENDTXT
@@ -881,13 +953,22 @@ ENDTXT
 BEGINTXT
 
 
-
-       /\            /\           /\
-      /  \          /  \         /  \ 
-     /    \        /    \       /    \
-    /  --  \      /  --  \     /  --  \
-   /   ||   \    /   ||   \   /   ||   \
-
+                  .e$c"*eee...             *Tent*         
+                z$$$$$$.  "*$$$$$$$$$.                    
+            .z$$$$$$$$$$$e. "$$$$$$$$$$c.                 
+         .e$$P""  $$  ""*$$$bc."$$$$$$$$$$$e.             
+     .e$*""       $$         "**be$$$***$   3             
+     $            $F              $    4$r  'F            
+     $           4$F              $    4$F   $            
+    4P   \       4$F              $     $$   3r           
+    $"    r      4$F              3     $$r   $           
+    $     '.     $$F              4F    4$$   'b          
+   dF      3     $$    ^           b     $$L   "L         
+   $        .    $$   %            $     ^$$r   "c        
+  JF             $$  %             4r     '$$.   3L       
+ .$              $$ "               $      ^$$r""         
+ $%              $$P                3r  .e*"              
+'*=*********************************$$P"     Gilo94'
 
 
 Una giornata interessante ti aspetta!
@@ -903,15 +984,25 @@ farti ospitare in questo accampamento ormai diventato lecito in questa stazione.
 
 se c'è qualcuno. Si ripresentano gli stessi che ti avevano ospitato, stavolta gli doni qualcosa e loro accettano dandoti
 
-volentieri ospitalità......
+volentieri ospitalità...…
 
 
-       /\            /\           /\
-      /  \          /  \         /  \ 
-     /    \        /    \       /    \
-    /  --  \      /  --  \     /  --  \
-   /   ||   \    /   ||   \   /   ||   \
-
+                  .e$c"*eee...             *Tent*         
+                z$$$$$$.  "*$$$$$$$$$.                    
+            .z$$$$$$$$$$$e. "$$$$$$$$$$c.                 
+         .e$$P""  $$  ""*$$$bc."$$$$$$$$$$$e.             
+     .e$*""       $$         "**be$$$***$   3             
+     $            $F              $    4$r  'F            
+     $           4$F              $    4$F   $            
+    4P   \       4$F              $     $$   3r           
+    $"    r      4$F              3     $$r   $           
+    $     '.     $$F              4F    4$$   'b          
+   dF      3     $$    ^           b     $$L   "L         
+   $        .    $$   %            $     ^$$r   "c        
+  JF             $$  %             4r     '$$.   3L       
+ .$              $$ "               $      ^$$r""         
+ $%              $$P                3r  .e*"              
+'*=*********************************$$P"     Gilo94'
 
 
 Passi così una notte tranquilla, pronto a presentarti per l'evento propostoti ieri sera.....
@@ -926,13 +1017,24 @@ BEGINTXT
 Questa volta silenzio le tende sono tutte chiuse....niente festa in compagnia questa sera.
 
 
+                  .e$c"*eee...             *Tent*         
+                z$$$$$$.  "*$$$$$$$$$.                    
+            .z$$$$$$$$$$$e. "$$$$$$$$$$c.                 
+         .e$$P""  $$  ""*$$$bc."$$$$$$$$$$$e.             
+     .e$*""       $$         "**be$$$***$   3             
+     $            $F              $    4$r  'F            
+     $           4$F              $    4$F   $            
+    4P   \       4$F              $     $$   3r           
+    $"    r      4$F              3     $$r   $           
+    $     '.     $$F              4F    4$$   'b          
+   dF      3     $$    ^           b     $$L   "L         
+   $        .    $$   %            $     ^$$r   "c        
+  JF             $$  %             4r     '$$.   3L       
+ .$              $$ "               $      ^$$r""         
+ $%              $$P                3r  .e*"              
+'*=*********************************$$P"     Gilo94' 
 
-       /\            /\           /\
-      /  \          /  \         /  \ 
-     /    \        /    \       /    \
-    /  --  \      /  --  \     /  --  \
-   /   ||   \    /   ||   \   /   ||   \
- 
+
 
 ENDTXT
 
@@ -944,12 +1046,22 @@ BEGINTXT
 E' ora di far fruttare la giornata!
 
 
-       /\            /\           /\
-      /  \          /  \         /  \ 
-     /    \        /    \       /    \
-    /  --  \      /  --  \     /  --  \
-   /   ||   \    /   ||   \   /   ||   \
- 
+                  .e$c"*eee...             *Tent*         
+                z$$$$$$.  "*$$$$$$$$$.                    
+            .z$$$$$$$$$$$e. "$$$$$$$$$$c.                 
+         .e$$P""  $$  ""*$$$bc."$$$$$$$$$$$e.             
+     .e$*""       $$         "**be$$$***$   3             
+     $            $F              $    4$r  'F            
+     $           4$F              $    4$F   $            
+    4P   \       4$F              $     $$   3r           
+    $"    r      4$F              3     $$r   $           
+    $     '.     $$F              4F    4$$   'b          
+   dF      3     $$    ^           b     $$L   "L         
+   $        .    $$   %            $     ^$$r   "c        
+  JF             $$  %             4r     '$$.   3L       
+ .$              $$ "               $      ^$$r""         
+ $%              $$P                3r  .e*"              
+'*=*********************************$$P"     Gilo94'
 
 
 ENDTXT
@@ -965,14 +1077,23 @@ non hai il coraggio.... a un certo punto una coppia ti chiede se ti serve un pos
 
 alternative.
 
+                  .e$c"*eee...             *Tent*         
+                z$$$$$$.  "*$$$$$$$$$.                    
+            .z$$$$$$$$$$$e. "$$$$$$$$$$c.                 
+         .e$$P""  $$  ""*$$$bc."$$$$$$$$$$$e.             
+     .e$*""       $$         "**be$$$***$   3             
+     $            $F              $    4$r  'F            
+     $           4$F              $    4$F   $            
+    4P   \       4$F              $     $$   3r           
+    $"    r      4$F              3     $$r   $           
+    $     '.     $$F              4F    4$$   'b          
+   dF      3     $$    ^           b     $$L   "L         
+   $        .    $$   %            $     ^$$r   "c        
+  JF             $$  %             4r     '$$.   3L       
+ .$              $$ "               $      ^$$r""         
+ $%              $$P                3r  .e*"              
+'*=*********************************$$P"     Gilo94'
 
-
-       /\            /\           /\
-      /  \          /  \         /  \ 
-     /    \        /    \       /    \
-    /  --  \      /  --  \     /  --  \
-   /   ||   \    /   ||   \   /   ||   \
- 
 
 Prima di andare a dormire si uniscono altri membri della stazione e insieme cenate, con cibo economico preso in qualche 
 
@@ -990,12 +1111,24 @@ BEGINTXT
 
 Noti delle tende.
 
-       /\            /\           /\
-      /  \          /  \         /  \ 
-     /    \        /    \       /    \
-    /  --  \      /  --  \     /  --  \
-   /   ||   \    /   ||   \   /   ||   \
- 
+
+                  .e$c"*eee...             *Tent*         
+                z$$$$$$.  "*$$$$$$$$$.                    
+            .z$$$$$$$$$$$e. "$$$$$$$$$$c.                 
+         .e$$P""  $$  ""*$$$bc."$$$$$$$$$$$e.             
+     .e$*""       $$         "**be$$$***$   3             
+     $            $F              $    4$r  'F            
+     $           4$F              $    4$F   $            
+    4P   \       4$F              $     $$   3r           
+    $"    r      4$F              3     $$r   $           
+    $     '.     $$F              4F    4$$   'b          
+   dF      3     $$    ^           b     $$L   "L         
+   $        .    $$   %            $     ^$$r   "c        
+  JF             $$  %             4r     '$$.   3L       
+ .$              $$ "               $      ^$$r""         
+ $%              $$P                3r  .e*"              
+'*=*********************************$$P"     Gilo94'
+
 
 Probabilmente qualcuno che non può permettersi una dimora.
 
@@ -1007,12 +1140,33 @@ BEGINTXT
 
 Una delle tante stazioni che si diramano in questo labirinto di metropolitane.
 
+====================================================
+   o     o     o     o     o     o     o     o      
+   |     |     |     |     |     |     |     |      
+   |     |     |     |     |     |     |     |
+---------------------------------------------------- 
+  ||     ||     ||     ||     ||     ||     ||      
+==||=====||=====||=====||=====||=====||=====||======
+  ||     ||     ||     ||     ||     ||     ||
+
+
+
 ENDTXT
 {17}
 1
 BEGINTXT
 
 Un'altra stazione dove è possibile prendere altri treni per andare in differenti direzioni.....
+
+====================================================
+   o     o     o     o     o     o     o     o      
+   |     |     |     |     |     |     |     |      
+   |     |     |     |     |     |     |     |
+---------------------------------------------------- 
+  ||     ||     ||     ||     ||     ||     ||      
+==||=====||=====||=====||=====||=====||=====||======
+  ||     ||     ||     ||     ||     ||     ||
+
 
 ENDTXT
 
@@ -1022,6 +1176,16 @@ BEGINTXT
 
 In questa stazione vedi pochi vagabondi che probabilmente vengono da una delle stazioni vicine limitrofe.....
 
+      _____|~~\_____      _____________
+  _-~               \    |    \
+  _-    | )     \    |__/   \   \
+  _-         )   |   |  |     \  \
+  _-    | )     /    |--|      |  |
+ __-_______________ /__/_______|  |_________
+(                |----         |  |
+ `---------------'--\\\\      .`--'
+                              `||||
+
 ENDTXT
 
 {19}
@@ -1030,6 +1194,16 @@ BEGINTXT
 
 Stazione poco interessante.....
 
+====================================================
+   o     o     o     o     o     o     o     o      
+   |     |     |     |     |     |     |     |      
+   |     |     |     |     |     |     |     |
+---------------------------------------------------- 
+  ||     ||     ||     ||     ||     ||     ||      
+==||=====||=====||=====||=====||=====||=====||======
+  ||     ||     ||     ||     ||     ||     ||
+
+
 ENDTXT
 
 {20}
@@ -1037,6 +1211,16 @@ ENDTXT
 BEGINTXT
 
 Stazione poco interessante.....
+
+====================================================
+   o     o     o     o     o     o     o     o      
+   |     |     |     |     |     |     |     |      
+   |     |     |     |     |     |     |     |
+---------------------------------------------------- 
+  ||     ||     ||     ||     ||     ||     ||      
+==||=====||=====||=====||=====||=====||=====||======
+  ||     ||     ||     ||     ||     ||     ||
+
 
 ENDTXT
 
@@ -1293,7 +1477,23 @@ ENDTXT
 1
 BEGINTXT
 
-Vicini a un'altra periferia.....
+Vicini a un'altra periferia, e anche qui vedi dell'arte rappresentata sui muri.
+
+
+
+           .'\   /`.
+         .'.-.`-'.-.`.
+    ..._:   .-. .-.   :_...
+  .'    '-.(o ) (o ).-'    `.
+ :  _    _ _`~(_)~`_ _    _  :
+:  /:   ' .-=_   _=-. `   ;\  :
+:   :|-.._  '     `  _..-|:   :
+ :   `:| |`:-:-.-:-:'| |:'   :
+  `.   `.| | | | | | |.'   .'
+    `.   `-:_| | |_:-'   .'
+ jgs  `-._   ````    _.-'
+          ``-------''
+
 
 ENDTXT
 
