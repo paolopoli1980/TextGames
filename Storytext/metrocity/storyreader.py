@@ -160,8 +160,12 @@ while end==False:
     for i in range(len(matrixconnections)):
         numbers=matrixconnections[i].split(' ')
         if i==n:
+            print('--------------------------------------')
+
             for j,el in enumerate(numbers):
                 print(int(j+1),(nameslst[int(el)]))
+            print('--------------------------------------')
+
             repeat=True
            
             while repeat==True:
