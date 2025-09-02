@@ -39,8 +39,8 @@ In breve: Storia interattiva, programmata tramite grafi e memorizzazione di even
           economica rispettosa. Il gioco si evolve tra vari personaggi incontrati come, tecnici, ingegneri, criminali,
 	  con sfondo le lotte clandestine tra robot.
 
-Modalità di gioco: Per ogni stazione puoi scegliere semplicemente di prendere la metropolitana per un'altra destinazione
-                   o in alternativa visitare i luoghi limitrofe. Le visite sono chiaramente necessarie per lo sviluppo del
+Modalità di gioco: Per ogni stazione puoi scegliere semplicemente di prendere i treni della metropolitana per un'altra destinazione
+                   o in alternativa visitare i luoghi limitrofi. Le visite sono chiaramente necessarie per lo sviluppo del
                    gioco in quanto permette di conoscere, le dinamiche intorno alla stazione.
 
 Ringraziamenti: Ringrazio gli autori citati tramite firma nel gioco, per avere disegnato stupende rappresentazioni in ASCII art. 
