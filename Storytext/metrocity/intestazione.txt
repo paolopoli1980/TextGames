@@ -1,5 +1,7 @@
 AVVENTURA INTERATTIVA: METRO CITY. ( Agosto 2025)
 
+AUTORE: Paolo Poli.
+
 LETTORE: Per eventi tramite script in Python.
 
 Mappa:
