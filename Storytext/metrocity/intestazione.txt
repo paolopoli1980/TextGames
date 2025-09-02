@@ -1,4 +1,4 @@
-AVVENTURA INTERATTIVA: METRO CITY. ( Agosto 2024)
+AVVENTURA INTERATTIVA: METRO CITY. ( Agosto 2025)
 
 LETTORE: Per eventi tramite script in Python.
 
